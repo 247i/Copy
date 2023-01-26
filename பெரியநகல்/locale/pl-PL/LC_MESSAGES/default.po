@@ -1,0 +1,995 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TeraCopy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-10 10:22:20 UTC\n"
+"PO-Revision-Date: 2017-05-25 17:47:06 UTC\n"
+"Last-Translator: Web Translate It <support@webtranslateit.com>\n"
+"Language: pl-PL\n"
+"Language-Team: Polish, Poland\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: WebTranslateIt.com\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+
+#: Main.pas
+#: FileList.pas
+msgid "About"
+msgstr "O programie"
+
+#: FileList.pas
+msgid "Add files"
+msgstr "Dodaj pliki"
+
+#: FileList.pas
+msgid "Add folders"
+msgstr "Dodaj foldery"
+
+#: FileList.pas
+msgid "Adding files [%d]..."
+msgstr "Dodawanie plików [%d]..."
+
+#: Main.pas
+msgid "Adds Copy and Move buttons to the Total Commander default buttons bar."
+msgstr "Dodaj przyciski Kopiuj i Przenieś do paska narzędzi w Total Commander."
+
+#: Main.pas
+msgid "Add to Explorer context menu"
+msgstr "Dodaj TeraCopy do menu kontekstowego Eksploratora"
+
+#: Main.pas
+msgid "After all transfers completed"
+msgstr "Po zakończeniu wszystkich transferów"
+
+#: Main.pas
+msgid "After transfer completed"
+msgstr "Po zakończeniu transferu"
+
+#: Constants.pas
+#. File list filter
+# INSTRUCTION: File list filter
+msgid "All files"
+msgstr "Wszystkie pliki"
+
+#: FileList.pas
+msgid "All items"
+msgstr "Wszystkie elementy"
+
+#: Main.pas
+#: Main.pas
+msgid "Always On Top"
+msgstr "Zawsze na wierzchu"
+
+#: Main.pas
+msgid "Always test after copy"
+msgstr "Zawsze weryfikuj po skopiowaniu"
+
+#: FileList.pas
+msgid "Applying attributes and removing folders..."
+msgstr "Stosowanie atrybutów i usuwanie folderów..."
+
+#: FileList.pas
+msgid "Applying folder attributes..."
+msgstr "Zastosowanie atrybutów folderów..."
+
+#: Main.pas
+msgid "Associate TeraCopy with .sfv and .md5 files"
+msgstr "Skojarz TeraCopy z plikami .svf i .md5"
+
+#: PanelUI.pas
+#: PanelUI.pas
+#. auto scroll checkbox
+# INSTRUCTION: auto scroll checkbox
+msgid "Auto-scroll"
+msgstr "Auto przewijanie"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Bigger"
+msgstr "Większy"
+
+#: PanelUI.pas
+#: PanelUI.pas
+msgid "Browse"
+msgstr "Przeglądaj"
+
+#: Main.pas
+#: Main.pas
+#: FileList.pas
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Cancelled"
+msgstr "Anulowano"
+
+#: Main.pas
+msgid "Check free space"
+msgstr "Sprawdzaj dostępne wolne miejsce"
+
+#: Main.pas
+msgid "Clean history now"
+msgstr "Czyść historię teraz"
+
+#: Main.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Close"
+msgstr "Zamknij"
+
+#: Main.pas
+#: FileList.pas
+msgid "Close all panels"
+msgstr "Zamknij wszystkie panele"
+
+#: Main.pas
+msgid "Close app"
+msgstr "Zamknij program"
+
+#: Main.pas
+#: Main.pas
+msgid "Close panel"
+msgstr "Zamknij panel"
+
+#: FileList.pas
+msgid "Compare skipped files?"
+msgstr "Porównać pominięte pliki?"
+
+#: Main.pas
+msgid "Confirm drag and drop"
+msgstr "Potwierdź przeciąganie i upuszczanie"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Copy"
+msgstr "Kopiuj"
+
+#: FileList.pas
+#. Copying N files to "target folder"
+# INSTRUCTION: Copying N files to "target folder"
+msgid "Copying %s to \"%s\"..."
+msgstr "Kopiowanie %s do \"%s\"..."
+
+#: Main.pas
+msgid "Create a new list"
+msgstr "Utwórz nową listę"
+
+#: FileList.pas
+msgid "CSV (to import in Excel, etc)"
+msgstr "CSV (do importu Excel, itp)"
+
+#: FileList.pas
+msgid "days"
+msgstr "dni"
+
+#: FileList.pas
+msgid "Delete"
+msgstr "Usuń"
+
+#: FileList.pas
+#. second warning
+# INSTRUCTION: second warning
+msgid "Delete ALL files in the list?"
+msgstr "Usunąć wszystkie pliki z listy?"
+
+#: FileList.pas
+msgid "Delete from disk"
+msgstr "Usuń z dysku"
+
+#: FileList.pas
+#. Deleting N files
+# INSTRUCTION: Deleting N files
+msgid "Deleting %s..."
+msgstr "Usuwanie %s..."
+
+#: FileList.pas
+msgid "Deselect all"
+msgstr "Odznacz wszystko"
+
+#: FileList.pas
+msgid "Destination File Already Exists"
+msgstr "Plik docelowy już istnieje"
+
+#: Main.pas
+msgid "Disable asynchronous file transfer"
+msgstr "Wyłącz asynchroniczny transfer plików"
+
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Disk is full, please free up %s"
+msgstr "Dysk jest pełny, proszę zwolnić %s"
+
+#: FileList.pas
+#: FileView.pas
+#. idle state
+# INSTRUCTION: idle state
+msgid "Drag files or folders here"
+msgstr "Przeciągnij pliki lub foldery tutaj"
+
+#: Main.pas
+#: Main.pas
+#: Main.pas
+#: FileList.pas
+msgid "Enter key"
+msgstr "Wprowadź klucz"
+
+#: Main.pas
+msgid "Enter registration key"
+msgstr "Wprowadź klucz"
+
+#: FileList.pas
+msgid "Error"
+msgstr "Błąd"
+
+#: FileList.pas
+msgid "Error creating folder"
+msgstr "Błąd podczas tworzenia folderu"
+
+#: FileList.pas
+msgid "Error deleting file"
+msgstr "Błąd przy usuwaniu pliku"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Error reading file"
+msgstr "Błąd odczytu pliku"
+
+#: FileList.pas
+#. errors count
+# INSTRUCTION: errors count
+msgid "Errors: %d."
+msgstr "Błędy: %d."
+
+#: FileList.pas
+#: FileList.pas
+msgid "Error writing file"
+msgstr "Błąd zapisu pliku"
+
+#: Main.pas
+msgid "Expanded panel"
+msgstr "Otwórz panel"
+
+#: FileList.pas
+msgid "Expanded view"
+msgstr "Widok rozszerzony"
+
+#: FileList.pas
+msgid "Export as"
+msgstr "Eksportuj jako:"
+
+#: FileList.pas
+msgid "Export only"
+msgstr "Tylko eksport"
+
+#: Constants.pas
+#: FileList.pas
+#: FileList.pas
+#. File list filter
+# INSTRUCTION: File list filter
+msgid "Failed"
+msgstr "Błąd"
+
+#: FileList.pas
+#. Delete from disk
+# INSTRUCTION: Delete from disk
+msgid "Faster, hard to recover"
+msgstr "Szybciej, trudne do odzyskania"
+
+#: PanelUI.pas
+msgid "Favorites & recent"
+msgstr "Ulubione i ostatnie"
+
+#: FileList.pas
+#: FileList.pas
+msgid "File"
+msgstr "Plik"
+
+#: FileList.pas
+msgid "File info"
+msgstr "Informacja o pliku"
+
+#: FileList.pas
+msgid "File is offline, waiting..."
+msgstr "Plik jest offline, czekaj..."
+
+#: FileList.pas
+msgid "File is too large for this file system"
+msgstr "Nie można utworzyć pliku o tym rozmiarze w tym systemie plików"
+
+#: Constants.pas
+msgid "File list"
+msgstr "Lista plików"
+
+#: FileList.pas
+#. multiple files
+# INSTRUCTION: multiple files
+msgid "File list contains %d items, select the operation"
+msgstr "Lista plików zawiera %d pozycji, wybierz operację"
+
+#: PanelUI.pas
+msgid "File managers"
+msgstr "Menedżery plików"
+
+#: Main.pas
+msgid "File Managers Integration"
+msgstr "Integracja z menedżerami plików"
+
+#: FileList.pas
+msgid "File skipped"
+msgstr "Plik pominięty"
+
+#: FileList.pas
+#. Finished copying N files to "target folder".
+# INSTRUCTION: Finished copying N files to "target folder".
+msgid "Finished copying %s to \"%s\"."
+msgstr "Kopiowanie zakończone %s do \"%s\"."
+
+#: FileList.pas
+#. Finished moving N files to "target folder".
+# INSTRUCTION: Finished moving N files to "target folder".
+msgid "Finished moving %s to \"%s\"."
+msgstr "Ukończono przenoszenie %s do \"%s\"."
+
+#: FileList.pas
+#. Finished removing N files.
+# INSTRUCTION: Finished removing N files.
+msgid "Finished removing %s."
+msgstr "Ukończono usuwanie%s."
+
+#: FileList.pas
+#. Finished testing N files.
+# INSTRUCTION: Finished testing N files.
+msgid "Finished testing %s."
+msgstr "Ukończono testowanie %s."
+
+#: FileList.pas
+#. Finished verifying N files in "target folder".
+# INSTRUCTION: Finished verifying N files in "target folder".
+msgid "Finished verifying %s in \"%s\"."
+msgstr "Ukończono weryfikację %s w \"%s\"."
+
+#: FileList.pas
+#: FileList.pas
+#. folder
+# INSTRUCTION: folder
+msgid "Folder"
+msgstr "Folder"
+
+#: Main.pas
+msgid "Free for Home Users"
+msgstr "DARMOWY dla użytkowników prywatnych"
+
+#: Utils.pas
+msgid "GB"
+msgstr "GB"
+
+#: Main.pas
+#: Main.pas
+#: FileList.pas
+#. Buy Pro version
+# INSTRUCTION: Buy Pro version
+msgid "Get Pro version"
+msgstr "Kup wersję Pro"
+
+#: Main.pas
+msgid "Handle drag and drop files using left mouse button as well as copy and paste commands in Explorer."
+msgstr "(włącza obsługę przeciągania i upuszczania plików oraz poleceń Kopiuj i Wklej w Eksploratorze)"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Hash"
+msgstr "Sumy kontrolne"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Hashes mismatch"
+msgstr "Niezgodność sum kontrolnych"
+
+#: Main.pas
+#: Main.pas
+msgid "Hibernate"
+msgstr "Hibernacja"
+
+#: FileList.pas
+msgid "hours"
+msgstr "godzin"
+
+#: FileList.pas
+msgid "HTML (with sortable columns)"
+msgstr "HTML (z kolumnami)"
+
+#: FileList.pas
+msgid "Ignore"
+msgstr "Ignoruj"
+
+#: Main.pas
+msgid "Interface"
+msgstr "Interfejs"
+
+#: FileList.pas
+msgid "Inverse selection"
+msgstr "Odwróć zaznaczenie"
+
+#: Utils.pas
+#: Utils.pas
+msgid "KB"
+msgstr "KB"
+
+#: Main.pas
+msgid "Keep app open"
+msgstr "Zachowaj otwarte aplikacje"
+
+#: Constants.pas
+msgid "Keep both"
+msgstr "Zachowaj oba"
+
+#: Main.pas
+msgid "Keep history for 1 day"
+msgstr "Zachowaj historię przez 1 dzień"
+
+#: Main.pas
+msgid "Keep history for 1 week"
+msgstr "Zachowaj historię przez 1 tydzień"
+
+#: Main.pas
+#: Main.pas
+msgid "Keep panel open"
+msgstr "Zachowaj otwarty panel"
+
+#: Main.pas
+#: FileList.pas
+msgid "Large progress bar"
+msgstr "Duży pasek postępu"
+
+#: Constants.pas
+msgid "Log"
+msgstr "Log"
+
+#: Utils.pas
+#: Utils.pas
+msgid "MB"
+msgstr "MB"
+
+#: PanelUI.pas
+#: PanelUI.pas
+#. menu
+# INSTRUCTION: menu
+msgid "Menu"
+msgstr "Menu"
+
+#: PanelUI.pas
+msgid "Message"
+msgstr "Wiadomość"
+
+#: FileList.pas
+#. minutes
+# INSTRUCTION: minutes
+msgid "min"
+msgstr "minut"
+
+#: Main.pas
+msgid "Misc"
+msgstr "Inne"
+
+#: Constants.pas
+#: FileList.pas
+#. replace dialog
+# INSTRUCTION: replace dialog
+msgid "More"
+msgstr "Więcej"
+
+#: FileList.pas
+#. more options in file replace dialog
+# INSTRUCTION: more options in file replace dialog
+msgid "More options, applicable to all files"
+msgstr "Więcej opcji, dotyczy wszystkich plików"
+
+#: FileList.pas
+msgid "More space is required: %s"
+msgstr "Wymagane jest więcej miejsca: %s"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Move"
+msgstr "Przenieś"
+
+#: FileList.pas
+msgid "Move to Recycle Bin"
+msgstr "Przenieś do Kosza"
+
+#: FileList.pas
+#. Moving N files to "target folder"
+# INSTRUCTION: Moving N files to "target folder"
+msgid "Moving %s to \"%s\"..."
+msgstr "Przenoszenie %s do \"%s\"..."
+
+#: Main.pas
+#. history options
+# INSTRUCTION: history options
+msgid "Never keep history"
+msgstr "Nigdy nie zachowuj historii"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Newer"
+msgstr "Nowszy"
+
+#: FileList.pas
+msgid "New file list"
+msgstr "Nowa lista plików"
+
+#: Main.pas
+msgid "New list"
+msgstr "Nowa lista"
+
+#: FileList.pas
+msgid "No checksums are available, please copy or test files first."
+msgstr "Brak sum kontrolnych, najpierw skopiuj lub testuj pliki."
+
+#: FileView.pas
+msgid "No items. Remove filters to see all files."
+msgstr "Brak pozycji. Usuń filtry, aby zobaczyć wszystkie pliki."
+
+#: Main.pas
+#. no history
+# INSTRUCTION: no history
+msgid "No previous transfers"
+msgstr "Brak wcześniejszych transferów"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Not calculated"
+msgstr "Nie obliczono"
+
+#: Main.pas
+msgid "Not registered for Commercial Use"
+msgstr "NIEZAREJESTROWANY do użytku komercyjnego"
+
+#: FileList.pas
+msgid "OK"
+msgstr "OK"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Older"
+msgstr "Starszy"
+
+#: Utils.pas
+msgid "Byte"
+msgid_plural "Bytes"
+msgstr[0] "Bajt"
+msgstr[1] "Bajtów"
+msgstr[2] "Bajtów"
+msgstr[3] "Bajty"
+
+#: FileList.pas
+msgid "Delete %d file from disk?"
+msgid_plural "Delete %d files from disk?"
+msgstr[0] "Usunąć %d plik z dysku?"
+msgstr[1] "Usunąć %d plików z dysku?"
+
+#: FileList.pas
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d pozycja"
+msgstr[1] "%d pozycji"
+
+#: Main.pas
+#. bottom toolbar
+# INSTRUCTION: bottom toolbar
+msgid "On finish"
+msgstr "Po zakończeniu"
+
+#: Main.pas
+msgid "Only when Scroll Lock is OFF"
+msgstr "... tylko gdy Scroll Lock jest WYŁĄCZONY"
+
+#: FileList.pas
+msgid "Open file"
+msgstr "Otwórz plik"
+
+#: FileList.pas
+msgid "Open folder"
+msgstr "Otwórz folder"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Opening via service:"
+msgstr "Otwarcie przez serwis"
+
+#: Main.pas
+msgid "Open main menu"
+msgstr "Otwórz menu główne"
+
+#: Main.pas
+msgid "Open transfers history"
+msgstr "Otwórz historię transferów"
+
+#: Constants.pas
+#: Main.pas
+msgid "Options"
+msgstr "Opcje"
+
+#: Main.pas
+msgid "Order License"
+msgstr "Zamów licencję"
+
+#: Constants.pas
+msgid "Overwrite"
+msgstr "Nadpisz"
+
+#: Constants.pas
+msgid "Overwrite all"
+msgstr "Nadpisz wszystkie"
+
+#: Constants.pas
+#. replace dialog
+# INSTRUCTION: replace dialog
+msgid "Overwrite all older files"
+msgstr "Nadpisz wszystkie starsze pliki"
+
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Pause"
+msgstr "Wstrzymaj"
+
+#: FileList.pas
+msgid "Paused"
+msgstr "Wstrzymano"
+
+#: Main.pas
+msgid "Play sound when complete"
+msgstr "Odtwarzaj dźwięk po ukończeniu operacji"
+
+#: Main.pas
+#: Main.pas
+#: FileList.pas
+msgid "Preferences"
+msgstr "Ustawienia"
+
+#: FileList.pas
+#: FileList.pas
+#. export dialog
+# INSTRUCTION: export dialog
+msgid "Print/export"
+msgstr "Drukowanie/eksportowanie"
+
+#: Constants.pas
+msgid "Prompt on filename collision"
+msgstr "Monit o kolizji nazwy pliku"
+
+#: Main.pas
+msgid "Read how to add Copy and Move buttons to the Directory Opus."
+msgstr "Jak dodać przyciski Kopiuj i Przenieś w Directory Opus?"
+
+#: FileList.pas
+#. Recycling N files
+# INSTRUCTION: Recycling N files
+msgid "Recycling %s..."
+msgstr "Recykling %s..."
+
+#: Main.pas
+msgid "Register Copy Handler"
+msgstr "Włącz integrację"
+
+#: FileList.pas
+#. remove selected items from list
+# INSTRUCTION: remove selected items from list
+msgid "Remove selected"
+msgstr "Usuń zaznaczone"
+
+#: FileList.pas
+msgid "Remove transferred"
+msgstr "Usuń przeniesione"
+
+#: Constants.pas
+msgid "Rename all copied files"
+msgstr "Zmień nazwę wszystkich skopiowanych plików"
+
+#: Constants.pas
+msgid "Rename all older target files"
+msgstr "Zmień nazwę wszystkich starszych plików docelowych"
+
+#: Constants.pas
+msgid "Rename all target files"
+msgstr "Zmień nazwę wszystkich docelowych plików"
+
+#: Constants.pas
+msgid "Replace all files if size different"
+msgstr "Zastąp wszystkie pliki, jeśli rozmiar jest inny"
+
+#: Constants.pas
+msgid "Replace all smaller files"
+msgstr "Zastąp wszystkie mniejsze pliki"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Resume"
+msgstr "Wznów"
+
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#. seconds
+# INSTRUCTION: seconds
+msgid "s"
+msgstr "sekund"
+
+#: FileList.pas
+msgid "Same date"
+msgstr "Ta sama data"
+
+#: FileList.pas
+#. select
+# INSTRUCTION: select
+msgid "Same extension"
+msgstr "Identyczne rozszrzenie"
+
+#: FileList.pas
+#. select
+# INSTRUCTION: select
+msgid "Same folder"
+msgstr "Identyczny folder"
+
+#: FileList.pas
+msgid "Same size"
+msgstr "Ten sam rozmiar"
+
+#: PanelUI.pas
+msgid "Save checksum file on finish"
+msgstr "Zapisz plik sum kontrolnych po zakończeniu"
+
+#: FileList.pas
+msgid "Save checksums"
+msgstr "Zapisz sumy kontrolne"
+
+#: FileList.pas
+#: FileList.pas
+#. save checksums file (e.g. *.md5)
+# INSTRUCTION: save checksums file (e.g. *.md5)
+msgid "Save Hash"
+msgstr "Zachowaj sumę kontrolną"
+
+#: FileList.pas
+msgid "Select"
+msgstr "Wybierz"
+
+#: FileList.pas
+msgid "Select target to continue operation"
+msgstr "Wybierz cel, by kontynuować działanie"
+
+#: FileList.pas
+#. single file name
+# INSTRUCTION: single file name
+msgid "Select the operation for \"%s\""
+msgstr "Wybierz operację dla \"%s\""
+
+msgid "%s hash file is saved to:"
+msgstr "%s plik hash jest zapisywany do:"
+
+#: FileList.pas
+#. compare with hash in clipboard
+# INSTRUCTION: compare with hash in clipboard
+msgid "%s hash in Clipboard matches"
+msgstr "Pasuje %s hashów ze schowka"
+
+#: Main.pas
+msgid "Shell Integration"
+msgstr "Integracja z powłoką systemową"
+
+#: Main.pas
+#: Main.pas
+msgid "Shutdown"
+msgstr "Zamknij sys."
+
+#: FileList.pas
+msgid "Sizes mismatch"
+msgstr "Różne rozmiary"
+
+#: Constants.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Skip"
+msgstr "Pomiń"
+
+#: Constants.pas
+msgid "Skip all"
+msgstr "Pomiń wszystkie"
+
+#: FileList.pas
+#. replace dialog, auto-select Skip all button in N seconds
+# INSTRUCTION: replace dialog, auto-select Skip all button in N seconds
+msgid "skip all in %d s"
+msgstr "Pomiń wszystko w %d s"
+
+#: Constants.pas
+#: FileList.pas
+#: FileList.pas
+#. File list filter
+# INSTRUCTION: File list filter
+msgid "Skipped"
+msgstr "Pominięto"
+
+#: FileList.pas
+#. skipped files count
+# INSTRUCTION: skipped files count
+msgid "Skipped: %d."
+msgstr "Pominięto: %d."
+
+#: FileList.pas
+msgid "Skip requested by user"
+msgstr "Pomiń żądanie użytkownika"
+
+#: Main.pas
+#: Main.pas
+msgid "Sleep"
+msgstr "Uśpij"
+
+#: FileList.pas
+#. Move to Recycle Bin
+# INSTRUCTION: Move to Recycle Bin
+msgid "Slower, easy to recover"
+msgstr "Wolniej, łatwe do odzyskania"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Smaller"
+msgstr "Mniejszy"
+
+#: FileList.pas
+#: FileList.pas
+#. source
+# INSTRUCTION: source
+msgid "Source"
+msgstr "Plik źródłowy"
+
+#: FileList.pas
+msgid "Source is the same as target"
+msgstr "Źródło jest takie same jak cel"
+
+#: FileList.pas
+#. space bar key
+# INSTRUCTION: space bar key
+msgid "Space"
+msgstr "Spacja"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Start Now"
+msgstr "Rozpocznij"
+
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Stop"
+msgstr "Zatrzymaj"
+
+#: FileList.pas
+msgid "Stopped"
+msgstr "Zatrzymano"
+
+#: FileList.pas
+msgid "Stop requested by user"
+msgstr "Zatrzymanie żądania przez użytkownika"
+
+#: Constants.pas
+#: FileList.pas
+#. File list filter
+# INSTRUCTION: File list filter
+msgid "Successful"
+msgstr "Powodzenie"
+
+#: FileList.pas
+msgid "target"
+msgstr "cel"
+
+#: Constants.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#. target
+# INSTRUCTION: target
+msgid "Target"
+msgstr "Plik docelowy"
+
+#: Utils.pas
+msgid "TB"
+msgstr "TB"
+
+#: FileList.pas
+#: FileList.pas
+#. options sub-menu
+# INSTRUCTION: options sub-menu
+msgid "Test"
+msgstr "Zweryfikuj"
+
+#: FileList.pas
+#. Testing N files
+# INSTRUCTION: Testing N files
+msgid "Testing %s..."
+msgstr "Testowanie %s..."
+
+#: FileList.pas
+#: FileList.pas
+msgid "The file is available again, resuming transfer..."
+msgstr "Plik jest ponownie dostępny, wznawianie transferu ..."
+
+#: FileList.pas
+#. select
+# INSTRUCTION: select
+msgid "This item"
+msgstr "Ta pozycja"
+
+#: PanelUI.pas
+msgid "Time"
+msgstr "Czas"
+
+#: FileList.pas
+#. options sub-menu
+# INSTRUCTION: options sub-menu
+msgid "Transfer"
+msgstr "Transfer"
+
+#: Main.pas
+msgid "Transfers history"
+msgstr "Historia transferów"
+
+#: FileList.pas
+msgid "Unattended"
+msgstr "Bez nadzoru"
+
+#: Main.pas
+msgid "Unregister Copy Handler"
+msgstr "Wyłącz integrację"
+
+#: Main.pas
+msgid "Use TeraCopy as default copy handler"
+msgstr "Użyj TeraCopy jako domyślnego programu kopiowania"
+
+#: FileList.pas
+#: FileList.pas
+#: PanelUI.pas
+#: PanelUI.pas
+#. Verify
+# INSTRUCTION: Verify
+msgid "Verify"
+msgstr "Zweryfikuj"
+
+#: FileList.pas
+#. Verifying N files in "source folder"
+# INSTRUCTION: Verifying N files in "source folder"
+msgid "Verifying %s in \"%s\"..."
+msgstr "Weryfikowanie %s w \"%s\"..."
+
+#: FileList.pas
+#. Wipe data
+# INSTRUCTION: Wipe data
+msgid "Very slow, one pass with random data, useless for solid state drives."
+msgstr "Bardzo wolne, jedno przejście z danymi losowymi, bezużyteczne dla dysków SSD."
+
+#: FileList.pas
+#: FileList.pas
+msgid "Waiting for other transfers..."
+msgstr "Oczekiwanie na inne transfery ..."
+
+#: FileList.pas
+msgid "Wipe data"
+msgstr "Wyczyść dane"
+
+#: FileList.pas
+#. Wiping N files
+# INSTRUCTION: Wiping N files
+msgid "Wiping %s..."
+msgstr "Czyszczenie %s..."

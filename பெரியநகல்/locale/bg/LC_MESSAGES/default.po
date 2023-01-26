@@ -1,0 +1,907 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TeraCopy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-10 10:22:20 UTC\n"
+"PO-Revision-Date: 2017-05-22 07:59:46 UTC\n"
+"Last-Translator: Web Translate It <support@webtranslateit.com>\n"
+"Language: bg\n"
+"Language-Team: Bulgarian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: WebTranslateIt.com\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: Main.pas
+#: FileList.pas
+msgid "About"
+msgstr "За програмата"
+
+#: FileList.pas
+msgid "Add files"
+msgstr "Добави файлове"
+
+#: FileList.pas
+msgid "Add folders"
+msgstr "Добави папки"
+
+#: FileList.pas
+msgid "Adding files [%d]..."
+msgstr "Добавяне на файлове [%d]..."
+
+#: Main.pas
+msgid "Adds Copy and Move buttons to the Total Commander default buttons bar."
+msgstr "Добавя Копирай и Премести бутони в програмата Total Commander."
+
+#: Main.pas
+msgid "Add to Explorer context menu"
+msgstr "Добави в контекстното меню"
+
+#: Main.pas
+msgid "After all transfers completed"
+msgstr "След като приключат всички трансфери"
+
+#: Main.pas
+msgid "After transfer completed"
+msgstr "След приключен трансфер"
+
+#: Constants.pas
+#. File list filter
+# INSTRUCTION: File list filter
+msgid "All files"
+msgstr "Всички файлове"
+
+#: Main.pas
+#: Main.pas
+msgid "Always On Top"
+msgstr "Винаги най-отгоре"
+
+#: Main.pas
+msgid "Always test after copy"
+msgstr "Винаги проверявай след копиране"
+
+#: FileList.pas
+msgid "Applying attributes and removing folders..."
+msgstr "Прилагам атрибутите и изтривам папките...."
+
+#: FileList.pas
+msgid "Applying folder attributes..."
+msgstr "Прилагам атрибутите на папката..."
+
+#: Main.pas
+msgid "Associate TeraCopy with .sfv and .md5 files"
+msgstr "Асоциирай TeraCopy със .sfv и .md5 файлове"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Bigger"
+msgstr "По-голямо"
+
+#: PanelUI.pas
+#: PanelUI.pas
+msgid "Browse"
+msgstr "Намери"
+
+#: Main.pas
+#: Main.pas
+#: FileList.pas
+msgid "Cancel"
+msgstr "Откажи"
+
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Cancelled"
+msgstr "Отказано"
+
+#: Main.pas
+msgid "Check free space"
+msgstr "Провери свободното място"
+
+#: Main.pas
+msgid "Clean history now"
+msgstr "Изчисти историята"
+
+#: Main.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Close"
+msgstr "Затвори"
+
+#: Main.pas
+#: FileList.pas
+msgid "Close all panels"
+msgstr "Затвори всички панели"
+
+#: Main.pas
+msgid "Close app"
+msgstr "Затвори програмата"
+
+#: Main.pas
+#: Main.pas
+msgid "Close panel"
+msgstr "Затвори панела"
+
+#: FileList.pas
+msgid "Compare skipped files?"
+msgstr "Да сравня ли пропуснатите файлове?"
+
+#: Main.pas
+msgid "Confirm drag and drop"
+msgstr "Потъврди за придръпване и пускане"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Copy"
+msgstr "Копирай"
+
+#: FileList.pas
+#. Copying N files to "target folder"
+# INSTRUCTION: Copying N files to "target folder"
+msgid "Copying %s to \"%s\"..."
+msgstr "Копирам %s в \"%s\"..."
+
+#: Main.pas
+msgid "Create a new list"
+msgstr "Състави нов списък"
+
+#: FileList.pas
+msgid "days"
+msgstr "дни"
+
+#: FileList.pas
+msgid "Delete"
+msgstr "Изтрий"
+
+#: FileList.pas
+#. second warning
+# INSTRUCTION: second warning
+msgid "Delete ALL files in the list?"
+msgstr "Изтрий ВСИЧКИ файлове от списъка ?"
+
+#: FileList.pas
+msgid "Delete from disk"
+msgstr "Изтрий от диска"
+
+#: FileList.pas
+#. Deleting N files
+# INSTRUCTION: Deleting N files
+msgid "Deleting %s..."
+msgstr "Изтриване %s"
+
+#: FileList.pas
+msgid "Destination File Already Exists"
+msgstr "Файлът вече съществува"
+
+#: Main.pas
+msgid "Disable asynchronous file transfer"
+msgstr "Изключи а-синхронния трансфер на файловете"
+
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Disk is full, please free up %s"
+msgstr "Дискът е пълен, моля освободете %s"
+
+#: FileList.pas
+#: FileView.pas
+#. idle state
+# INSTRUCTION: idle state
+msgid "Drag files or folders here"
+msgstr "Придърпайте файловете или папките тук"
+
+#: Main.pas
+#: Main.pas
+#: Main.pas
+#: FileList.pas
+msgid "Enter key"
+msgstr "Въведи ключ"
+
+#: Main.pas
+msgid "Enter registration key"
+msgstr "Въведете регистрационен лиценз"
+
+#: FileList.pas
+msgid "Error"
+msgstr "Грешка"
+
+#: FileList.pas
+msgid "Error creating folder"
+msgstr "Грешка при създаването на папката"
+
+#: FileList.pas
+msgid "Error deleting file"
+msgstr "Грешка при изтриването на файла"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Error reading file"
+msgstr "Грешка при четенето на файла"
+
+#: FileList.pas
+#. errors count
+# INSTRUCTION: errors count
+msgid "Errors: %d."
+msgstr "Грешки: %d."
+
+#: FileList.pas
+#: FileList.pas
+msgid "Error writing file"
+msgstr "Грешка при записването на файла"
+
+#: Main.pas
+msgid "Expanded panel"
+msgstr "Разширен панел"
+
+#: FileList.pas
+msgid "Expanded view"
+msgstr "Разширен изглед"
+
+#: Constants.pas
+#: FileList.pas
+#: FileList.pas
+#. File list filter
+# INSTRUCTION: File list filter
+msgid "Failed"
+msgstr "Провалено"
+
+#: FileList.pas
+#. Delete from disk
+# INSTRUCTION: Delete from disk
+msgid "Faster, hard to recover"
+msgstr "Бързо, трудно за възстановяване"
+
+#: PanelUI.pas
+msgid "Favorites & recent"
+msgstr "Любими и най-чести"
+
+#: FileList.pas
+#: FileList.pas
+msgid "File"
+msgstr "Файл"
+
+#: FileList.pas
+msgid "File info"
+msgstr "Информация за файла"
+
+#: FileList.pas
+msgid "File is offline, waiting..."
+msgstr "Файлът е офлайн, изчаквам...."
+
+#: FileList.pas
+msgid "File is too large for this file system"
+msgstr "Файлът е твърде голям за тази файлова система"
+
+#: Constants.pas
+msgid "File list"
+msgstr "Списък с файлове"
+
+#: FileList.pas
+#. multiple files
+# INSTRUCTION: multiple files
+msgid "File list contains %d items, select the operation"
+msgstr "Списъкът съдържа %d обекти, изжерете операция"
+
+#: Main.pas
+msgid "File Managers Integration"
+msgstr "Интегриране на файлов мениджър"
+
+#: FileList.pas
+#. Finished copying N files to "target folder".
+# INSTRUCTION: Finished copying N files to "target folder".
+msgid "Finished copying %s to \"%s\"."
+msgstr "Копирането на %s в \"%s\". завършено."
+
+#: FileList.pas
+#. Finished moving N files to "target folder".
+# INSTRUCTION: Finished moving N files to "target folder".
+msgid "Finished moving %s to \"%s\"."
+msgstr "Преместването на %s в \"%s\" завършено."
+
+#: FileList.pas
+#. Finished removing N files.
+# INSTRUCTION: Finished removing N files.
+msgid "Finished removing %s."
+msgstr "Изтриването на %s завърши."
+
+#: FileList.pas
+#. Finished testing N files.
+# INSTRUCTION: Finished testing N files.
+msgid "Finished testing %s."
+msgstr "Теста на %s завърши."
+
+#: FileList.pas
+#. Finished verifying N files in "target folder".
+# INSTRUCTION: Finished verifying N files in "target folder".
+msgid "Finished verifying %s in \"%s\"."
+msgstr "Проверката на %s в \"%s\" приключи."
+
+#: FileList.pas
+#: FileList.pas
+#. folder
+# INSTRUCTION: folder
+msgid "Folder"
+msgstr "Папка"
+
+#: Main.pas
+msgid "Free for Home Users"
+msgstr "Безплатна за домашна употреба"
+
+#: Utils.pas
+msgid "GB"
+msgstr "Гб"
+
+#: Main.pas
+#: Main.pas
+#: FileList.pas
+#. Buy Pro version
+# INSTRUCTION: Buy Pro version
+msgid "Get Pro version"
+msgstr "Закупи пълна версия"
+
+#: Main.pas
+msgid "Handle drag and drop files using left mouse button as well as copy and paste commands in Explorer."
+msgstr "Използвай \"приплъзни и пусни\" с левия бутон на мишката, както така и копирай и постави."
+
+#: FileList.pas
+#: FileList.pas
+msgid "Hash"
+msgstr "Хаш"
+
+#: Main.pas
+#: Main.pas
+msgid "Hibernate"
+msgstr "Хиберниране"
+
+#: FileList.pas
+msgid "hours"
+msgstr "часове"
+
+#: FileList.pas
+msgid "Ignore"
+msgstr "Игнорирай"
+
+#: Main.pas
+msgid "Interface"
+msgstr "Интерфейс"
+
+#: FileList.pas
+msgid "Inverse selection"
+msgstr "Обратна селекция"
+
+#: Utils.pas
+#: Utils.pas
+msgid "KB"
+msgstr "Кб"
+
+#: Main.pas
+msgid "Keep app open"
+msgstr "Запази програмата отворена"
+
+#: Constants.pas
+msgid "Keep both"
+msgstr "Запази и двете"
+
+#: Main.pas
+msgid "Keep history for 1 day"
+msgstr "Пази историята за 1 ден"
+
+#: Main.pas
+msgid "Keep history for 1 week"
+msgstr "Пази историята за 1 седмица"
+
+#: Main.pas
+#: Main.pas
+msgid "Keep panel open"
+msgstr "Запази панела отворен"
+
+#: Main.pas
+#: FileList.pas
+msgid "Large progress bar"
+msgstr "Голям бар за изпълнение"
+
+#: Constants.pas
+msgid "Log"
+msgstr "Лог"
+
+#: Utils.pas
+#: Utils.pas
+msgid "MB"
+msgstr "Мб"
+
+#: PanelUI.pas
+#: PanelUI.pas
+#. menu
+# INSTRUCTION: menu
+msgid "Menu"
+msgstr "Меню"
+
+#: PanelUI.pas
+msgid "Message"
+msgstr "Съобщение"
+
+#: FileList.pas
+#. minutes
+# INSTRUCTION: minutes
+msgid "min"
+msgstr "минути"
+
+#: Main.pas
+msgid "Misc"
+msgstr "Други"
+
+#: Constants.pas
+#: FileList.pas
+#. replace dialog
+# INSTRUCTION: replace dialog
+msgid "More"
+msgstr "Повече"
+
+#: FileList.pas
+msgid "More space is required: %s"
+msgstr "Необходимо е повече място %s"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Move"
+msgstr "Премести"
+
+#: FileList.pas
+msgid "Move to Recycle Bin"
+msgstr "Премести в кошчето"
+
+#: FileList.pas
+#. Moving N files to "target folder"
+# INSTRUCTION: Moving N files to "target folder"
+msgid "Moving %s to \"%s\"..."
+msgstr "Премествам %s в \"%s\"..."
+
+#: Main.pas
+#. history options
+# INSTRUCTION: history options
+msgid "Never keep history"
+msgstr "Никога не пази история"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Newer"
+msgstr "По-нови"
+
+#: FileList.pas
+msgid "New file list"
+msgstr "Нов файлов списък"
+
+#: Main.pas
+msgid "New list"
+msgstr "Нов списък"
+
+#: FileList.pas
+msgid "No checksums are available, please copy or test files first."
+msgstr "Няма налична сума за проверка, моля копирайте или тествайте файла."
+
+#: Main.pas
+#. no history
+# INSTRUCTION: no history
+msgid "No previous transfers"
+msgstr "Няма предишни трансфери"
+
+#: Main.pas
+msgid "Not registered for Commercial Use"
+msgstr "Нерегистрирана за комерсиално използване"
+
+#: FileList.pas
+msgid "OK"
+msgstr "ОК"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Older"
+msgstr "По-стари"
+
+#: Utils.pas
+msgid "Byte"
+msgid_plural "Bytes"
+msgstr[0] "Байт"
+msgstr[1] "Байтове"
+
+#: FileList.pas
+msgid "Delete %d file from disk?"
+msgid_plural "Delete %d files from disk?"
+msgstr[0] "{\"one\"=>\"Изтрий %d файла от диска?\", \"other\"=>\"Изтрий %d файловете от диска?\"}"
+
+#: Main.pas
+#. bottom toolbar
+# INSTRUCTION: bottom toolbar
+msgid "On finish"
+msgstr "При финал"
+
+#: Main.pas
+msgid "Only when Scroll Lock is OFF"
+msgstr "Само когато Scroll Lock е Изключен"
+
+#: FileList.pas
+msgid "Open file"
+msgstr "Отвори файл"
+
+#: FileList.pas
+msgid "Open folder"
+msgstr "Отвори папка"
+
+#: Main.pas
+msgid "Open main menu"
+msgstr "Отвори основното меню"
+
+#: Main.pas
+msgid "Open transfers history"
+msgstr "Отвори историята на трансферите"
+
+#: Constants.pas
+#: Main.pas
+msgid "Options"
+msgstr "Опции"
+
+#: Main.pas
+msgid "Order License"
+msgstr "Закупи лиценз"
+
+#: Constants.pas
+msgid "Overwrite"
+msgstr "Замени"
+
+#: Constants.pas
+msgid "Overwrite all"
+msgstr "Презапиши всички"
+
+#: Constants.pas
+#. replace dialog
+# INSTRUCTION: replace dialog
+msgid "Overwrite all older files"
+msgstr "Презапиши всички по-стари файлове"
+
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Pause"
+msgstr "Паузирай"
+
+#: FileList.pas
+msgid "Paused"
+msgstr "Паузиран"
+
+#: Main.pas
+msgid "Play sound when complete"
+msgstr "Пусни звук когато завърши"
+
+#: Main.pas
+#: Main.pas
+#: FileList.pas
+msgid "Preferences"
+msgstr "Настройки"
+
+#: FileList.pas
+#: FileList.pas
+#. export dialog
+# INSTRUCTION: export dialog
+msgid "Print/export"
+msgstr "Принтиране/експортиране"
+
+#: Main.pas
+msgid "Read how to add Copy and Move buttons to the Directory Opus."
+msgstr "Прочети как да добавиш Копирай и Премести бутони към \"Directory Opus\"."
+
+#: FileList.pas
+#. Recycling N files
+# INSTRUCTION: Recycling N files
+msgid "Recycling %s..."
+msgstr "Възстановявам %s..."
+
+#: Main.pas
+msgid "Register Copy Handler"
+msgstr "Регистрирай метода за копиране"
+
+#: FileList.pas
+#. remove selected items from list
+# INSTRUCTION: remove selected items from list
+msgid "Remove selected"
+msgstr "Премахни избраните"
+
+#: FileList.pas
+msgid "Remove transferred"
+msgstr "Премахни прехвърлените"
+
+#: Constants.pas
+msgid "Rename all copied files"
+msgstr "Преименувай всички копирани файлове"
+
+#: Constants.pas
+msgid "Rename all older target files"
+msgstr "Преименувай всички по-стари целеви файлове"
+
+#: Constants.pas
+msgid "Rename all target files"
+msgstr "Преименувай всички файлове"
+
+#: Constants.pas
+msgid "Replace all files if size different"
+msgstr "Замени всички файлове ако размера е различен"
+
+#: Constants.pas
+msgid "Replace all smaller files"
+msgstr "Замени всички по-малки файлове"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Resume"
+msgstr "Продължи"
+
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#. seconds
+# INSTRUCTION: seconds
+msgid "s"
+msgstr "секунди"
+
+#: FileList.pas
+msgid "Same date"
+msgstr "Същата дата"
+
+#: FileList.pas
+#. select
+# INSTRUCTION: select
+msgid "Same extension"
+msgstr "Със еднакво разширение"
+
+#: FileList.pas
+#. select
+# INSTRUCTION: select
+msgid "Same folder"
+msgstr "Същата папка"
+
+#: FileList.pas
+msgid "Same size"
+msgstr "Същия размер"
+
+#: FileList.pas
+msgid "Save checksums"
+msgstr "Запази чек-сумите"
+
+#: FileList.pas
+#: FileList.pas
+#. save checksums file (e.g. *.md5)
+# INSTRUCTION: save checksums file (e.g. *.md5)
+msgid "Save Hash"
+msgstr "Запази хаш"
+
+#: FileList.pas
+msgid "Select"
+msgstr "Избери"
+
+#: FileList.pas
+msgid "Select target to continue operation"
+msgstr "Изберете крайна цел за да продължим операцията"
+
+#: FileList.pas
+#. single file name
+# INSTRUCTION: single file name
+msgid "Select the operation for \"%s\""
+msgstr "Изберете операция за \"%s\""
+
+#: FileList.pas
+#: FileList.pas
+msgid "%s hash file is saved to:"
+msgstr "%s хеш файл записан в:"
+
+#: FileList.pas
+#. compare with hash in clipboard
+# INSTRUCTION: compare with hash in clipboard
+msgid "%s hash in Clipboard matches"
+msgstr "%s в копирания хеш съвпада"
+
+#: Main.pas
+msgid "Shell Integration"
+msgstr "Интегрирай в контекстното меню"
+
+#: Main.pas
+#: Main.pas
+msgid "Shutdown"
+msgstr "Изключване на системата"
+
+#: FileList.pas
+msgid "Sizes mismatch"
+msgstr "Грешка в размера"
+
+#: Constants.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Skip"
+msgstr "Прескочи"
+
+#: Constants.pas
+msgid "Skip all"
+msgstr "Прескочи всички"
+
+#: Constants.pas
+#: FileList.pas
+#: FileList.pas
+#. File list filter
+# INSTRUCTION: File list filter
+msgid "Skipped"
+msgstr "Прескочен"
+
+#: FileList.pas
+#. skipped files count
+# INSTRUCTION: skipped files count
+msgid "Skipped: %d."
+msgstr "Пропуснати %d."
+
+#: FileList.pas
+msgid "Skip requested by user"
+msgstr "Пропускане поискано от потребителя"
+
+#: Main.pas
+#: Main.pas
+msgid "Sleep"
+msgstr "Заспиване"
+
+#: FileList.pas
+#. Move to Recycle Bin
+# INSTRUCTION: Move to Recycle Bin
+msgid "Slower, easy to recover"
+msgstr "Бавно, лесно за възстановяване"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Smaller"
+msgstr "По-малък"
+
+#: FileList.pas
+#: FileList.pas
+#. source
+# INSTRUCTION: source
+msgid "Source"
+msgstr "Източник"
+
+#: FileList.pas
+msgid "Source is the same as target"
+msgstr "Входът е еднакъв с крайната цел."
+
+#: FileList.pas
+#. space bar key
+# INSTRUCTION: space bar key
+msgid "Space"
+msgstr "Място"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Start Now"
+msgstr "Стартиране"
+
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Stop"
+msgstr "Спри"
+
+#: FileList.pas
+msgid "Stopped"
+msgstr "Спря"
+
+#: FileList.pas
+msgid "Stop requested by user"
+msgstr "Спиране поискано от потребителя"
+
+#: Constants.pas
+#: FileList.pas
+#. File list filter
+# INSTRUCTION: File list filter
+msgid "Successful"
+msgstr "Успешно"
+
+#: Constants.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#. target
+# INSTRUCTION: target
+msgid "Target"
+msgstr "Обект"
+
+#: FileList.pas
+msgid "target"
+msgstr "цел"
+
+#: Utils.pas
+msgid "TB"
+msgstr "Тб"
+
+#: FileList.pas
+#: FileList.pas
+#. options sub-menu
+# INSTRUCTION: options sub-menu
+msgid "Test"
+msgstr "Проба"
+
+#: FileList.pas
+#. Testing N files
+# INSTRUCTION: Testing N files
+msgid "Testing %s..."
+msgstr "Проверявам %s..."
+
+#: FileList.pas
+#: FileList.pas
+msgid "The file is available again, resuming transfer..."
+msgstr "Файлът е достъпен, възобновявам трансфера..."
+
+#: FileList.pas
+#. select
+# INSTRUCTION: select
+msgid "This item"
+msgstr "Този елемент"
+
+#: PanelUI.pas
+msgid "Time"
+msgstr "Време"
+
+#: FileList.pas
+#. options sub-menu
+# INSTRUCTION: options sub-menu
+msgid "Transfer"
+msgstr "Трансфер"
+
+#: Main.pas
+msgid "Transfers history"
+msgstr "История на трансферите"
+
+#: Main.pas
+msgid "Unregister Copy Handler"
+msgstr "Не използвай метода за копиране"
+
+#: Main.pas
+msgid "Use TeraCopy as default copy handler"
+msgstr "Използвай TeraCopy като основен начин на копиране"
+
+#: FileList.pas
+#: FileList.pas
+#: PanelUI.pas
+#: PanelUI.pas
+#. Verify
+# INSTRUCTION: Verify
+msgid "Verify"
+msgstr "Проверка"
+
+#: FileList.pas
+#. Verifying N files in "source folder"
+# INSTRUCTION: Verifying N files in "source folder"
+msgid "Verifying %s in \"%s\"..."
+msgstr "Проверявам %s в \"%s\"..."
+
+#: FileList.pas
+#. Wipe data
+# INSTRUCTION: Wipe data
+msgid "Very slow, one pass with random data, useless for solid state drives."
+msgstr "Много бавно, едно преминаване с произволни данни, неподходящо за SSD."
+
+#: FileList.pas
+#: FileList.pas
+msgid "Waiting for other transfers..."
+msgstr "Изчакване за други трансфери..."
+
+#: FileList.pas
+msgid "Wipe data"
+msgstr "Изтрий данните"
+
+#: FileList.pas
+#. Wiping N files
+# INSTRUCTION: Wiping N files
+msgid "Wiping %s..."
+msgstr "Изтривам %s..."
+

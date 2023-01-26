@@ -1,0 +1,262 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TeraCopy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-10 10:22:20 UTC\n"
+"PO-Revision-Date: 2017-05-15 11:43:46 UTC\n"
+"Last-Translator: Web Translate It <support@webtranslateit.com>\n"
+"Language: fi-FI\n"
+"Language-Team: Finnish, Finland\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: WebTranslateIt.com\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: Main.pas
+msgid "Adds Copy and Move buttons to the Total Commander default buttons bar."
+msgstr "Lisää kopioi ja siirrä -painikkeet Total Commanderin oletuspainike palkkiin."
+
+#: Main.pas
+msgid "Add to Explorer context menu"
+msgstr "Lisää Explorerin kontekstivalikkoon"
+
+#: Main.pas
+#: Main.pas
+msgid "Always On Top"
+msgstr "Aina päällimmäisenä"
+
+#: Main.pas
+msgid "Always test after copy"
+msgstr "Testaa aina kopioinnin jälkeen"
+
+#: Main.pas
+msgid "Associate TeraCopy with .sfv and .md5 files"
+msgstr "Liitä TeraCopy .sfv ja .md5 -tiedostoihin"
+
+#: PanelUI.pas
+#: PanelUI.pas
+msgid "Browse"
+msgstr "Selaa"
+
+#: Main.pas
+#: Main.pas
+#: FileList.pas
+msgid "Cancel"
+msgstr "Peruuta"
+
+#: Main.pas
+msgid "Check free space"
+msgstr "Tarkista vapaa tila"
+
+#: Main.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Close"
+msgstr "Sulje"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Copy"
+msgstr "Kopioi"
+
+#: FileList.pas
+msgid "Delete"
+msgstr "Poista"
+
+#: Main.pas
+#: Main.pas
+#: Main.pas
+#: FileList.pas
+msgid "Enter key"
+msgstr "Syötä avain"
+
+#: Main.pas
+msgid "Enter registration key"
+msgstr "Syötä rekisteröintiavain"
+
+#: FileList.pas
+msgid "Error"
+msgstr "Virhe"
+
+#: FileList.pas
+#: FileList.pas
+msgid "File"
+msgstr "Tiedosto"
+
+#: Main.pas
+msgid "File Managers Integration"
+msgstr "Tiedostonhallinta-integraatio"
+
+#: Main.pas
+msgid "Free for Home Users"
+msgstr "Ilmainen yksityiseen käyttöön"
+
+#: Main.pas
+#: Main.pas
+#: FileList.pas
+#. Buy Pro version
+# INSTRUCTION: Buy Pro version
+msgid "Get Pro version"
+msgstr "Hanki Pro-versio"
+
+#: Main.pas
+msgid "Handle drag and drop files using left mouse button as well as copy and paste commands in Explorer."
+msgstr "Käsittele vedä ja pudota -toiminto, sekä kopioi ja liitä toiminnot Explorerissa."
+
+#: FileList.pas
+msgid "Ignore"
+msgstr "Sivuuta"
+
+#: PanelUI.pas
+#: PanelUI.pas
+#. menu
+# INSTRUCTION: menu
+msgid "Menu"
+msgstr "Valikko"
+
+#: Main.pas
+msgid "Misc"
+msgstr "Sekalaiset"
+
+#: Constants.pas
+#: FileList.pas
+#. replace dialog
+# INSTRUCTION: replace dialog
+msgid "More"
+msgstr "Enemmän"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Move"
+msgstr "Siirrä"
+
+#: Main.pas
+msgid "Not registered for Commercial Use"
+msgstr "Ei rekisteröity kaupalliseen käyttöön"
+
+#: Main.pas
+msgid "Only when Scroll Lock is OFF"
+msgstr "Vain kun Scroll Lock on pois päältä"
+
+#: Main.pas
+msgid "Order License"
+msgstr "Tilaa lisenssi"
+
+#: Constants.pas
+msgid "Overwrite"
+msgstr "Ylikirjoita"
+
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Pause"
+msgstr "Keskeytä"
+
+#: FileList.pas
+msgid "Paused"
+msgstr "Keskeytetty"
+
+#: Main.pas
+msgid "Play sound when complete"
+msgstr "Soita ääni kun valmis"
+
+#: Main.pas
+#: Main.pas
+#: FileList.pas
+msgid "Preferences"
+msgstr "Asetukset"
+
+#: Main.pas
+msgid "Read how to add Copy and Move buttons to the Directory Opus."
+msgstr "Lue kuinka voit lisätä kopioi ja siirrä -painikkeet Directory Opukseen."
+
+#: Main.pas
+msgid "Register Copy Handler"
+msgstr "Käytä ohjelmaa kopioitaessa"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Resume"
+msgstr "Jatka"
+
+#: FileList.pas
+msgid "Select"
+msgstr "Valitse"
+
+#: Main.pas
+msgid "Shell Integration"
+msgstr "Shell-integraatio"
+
+#: Main.pas
+#: Main.pas
+msgid "Shutdown"
+msgstr "Sammuta"
+
+#: FileList.pas
+msgid "Sizes mismatch"
+msgstr "Koot eivät täsmää"
+
+#: Constants.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Skip"
+msgstr "Ohita"
+
+#: Constants.pas
+#: FileList.pas
+#: FileList.pas
+#. File list filter
+# INSTRUCTION: File list filter
+msgid "Skipped"
+msgstr "Ohitettu"
+
+#: FileList.pas
+#: FileList.pas
+#. source
+# INSTRUCTION: source
+msgid "Source"
+msgstr "Lähde"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Start Now"
+msgstr "Aloita nyt"
+
+#: Constants.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#. target
+# INSTRUCTION: target
+msgid "Target"
+msgstr "Kohde"
+
+#: FileList.pas
+#: FileList.pas
+#. options sub-menu
+# INSTRUCTION: options sub-menu
+msgid "Test"
+msgstr "Testaa"
+
+#: Main.pas
+msgid "Unregister Copy Handler"
+msgstr "Älä käytä ohjelmaa kopioitaessa"
+
+#: Main.pas
+msgid "Use TeraCopy as default copy handler"
+msgstr "Käytä TeraCopyä oletuksena tiedostojen kopioinnille"
+
+#: FileList.pas
+#: FileList.pas
+#: PanelUI.pas
+#: PanelUI.pas
+#. Verify
+# INSTRUCTION: Verify
+msgid "Verify"
+msgstr "Todenna"
+

@@ -1,0 +1,996 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TeraCopy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-10 10:22:20 UTC\n"
+"PO-Revision-Date: 2017-05-21 11:00:06 UTC\n"
+"Last-Translator: Web Translate It <support@webtranslateit.com>\n"
+"Language: el-GR\n"
+"Language-Team: Greek, Greece\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: WebTranslateIt.com\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: Main.pas
+#: FileList.pas
+msgid "About"
+msgstr "Περί"
+
+#: FileList.pas
+msgid "Add files"
+msgstr "Προσθήκη αρχείων"
+
+#: FileList.pas
+msgid "Add folders"
+msgstr "Προσθήκη φακέλων"
+
+#: FileList.pas
+msgid "Adding files [%d]..."
+msgstr "Προσθήκη αρχείων [%d]..."
+
+#: Main.pas
+msgid "Adds Copy and Move buttons to the Total Commander default buttons bar."
+msgstr "Προσθέτει τα κουμπιά της Αντιγραφής και Μετακίνησης για τα αρχικά κουμπιά της γραμμής του Total Commander."
+
+#: Main.pas
+msgid "Add to Explorer context menu"
+msgstr "Προσθήκη στο 'δεξί κλικ' μενού του Explorer"
+
+#: Main.pas
+msgid "After all transfers completed"
+msgstr "Μετά την ολοκλήρωση όλων των μεταφορών"
+
+#: Main.pas
+msgid "After transfer completed"
+msgstr "Μετά την ολοκλήρωση της μεταφοράς"
+
+#: Constants.pas
+#. File list filter
+# INSTRUCTION: File list filter
+msgid "All files"
+msgstr "Όλα τα αρχεία"
+
+#: FileList.pas
+msgid "All items"
+msgstr "Όλα τα στοιχεία"
+
+#: Main.pas
+#: Main.pas
+msgid "Always On Top"
+msgstr "Πάντα σε πρώτο πλάνο"
+
+#: Main.pas
+msgid "Always test after copy"
+msgstr "Πάντα δοκιμή, μετά την αντιγραφή"
+
+#: FileList.pas
+msgid "Applying attributes and removing folders..."
+msgstr "Εφαρμογή ιδιοτήτων και αφαίρεση φακέλων..."
+
+#: FileList.pas
+msgid "Applying folder attributes..."
+msgstr "Εφαρμογή ιδιοτήτων φακέλου..."
+
+#: Main.pas
+msgid "Associate TeraCopy with .sfv and .md5 files"
+msgstr "Συσχέτιση του TeraCopy με τα .Sfv και .MD5 αρχεία"
+
+#: PanelUI.pas
+#: PanelUI.pas
+#. auto scroll checkbox
+# INSTRUCTION: auto scroll checkbox
+msgid "Auto-scroll"
+msgstr "Αυτόματη κύλιση"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Bigger"
+msgstr "Μεγαλύτερο"
+
+#: PanelUI.pas
+#: PanelUI.pas
+msgid "Browse"
+msgstr "Αναζήτηση"
+
+#: Main.pas
+#: Main.pas
+#: FileList.pas
+msgid "Cancel"
+msgstr "Ακύρωση"
+
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Cancelled"
+msgstr "Ακυρώθηκε"
+
+#: Main.pas
+msgid "Check free space"
+msgstr "Έλεγχος για ελεύθερο χώρο"
+
+#: Main.pas
+msgid "Clean history now"
+msgstr "Εκκαθάριση ιστορικού"
+
+#: Main.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Close"
+msgstr "Κλείσιμο"
+
+#: Main.pas
+#: FileList.pas
+msgid "Close all panels"
+msgstr "Κλείσιμο όλων των πλαισίων"
+
+#: Main.pas
+msgid "Close app"
+msgstr "Κλείσε την εφαρμογή"
+
+#: Main.pas
+#: Main.pas
+msgid "Close panel"
+msgstr "Κλείσιμο του πλαισίου"
+
+#: FileList.pas
+msgid "Compare skipped files?"
+msgstr "Να γίνει σύγκριση των αγνοημένων αρχείων;"
+
+#: Main.pas
+msgid "Confirm drag and drop"
+msgstr "Επιβεβαίωση μεταφοράς και απόθεσης"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Copy"
+msgstr "Αντιγραφή"
+
+#: FileList.pas
+#. Copying N files to "target folder"
+# INSTRUCTION: Copying N files to "target folder"
+msgid "Copying %s to \"%s\"..."
+msgstr "Αντιγραφή %s στο %s..."
+
+#: Main.pas
+msgid "Create a new list"
+msgstr "Δημιουργία νέας λίστας"
+
+#: FileList.pas
+msgid "CSV (to import in Excel, etc)"
+msgstr "CSV (για εισαγωγή στο Excel, κτλ)"
+
+#: FileList.pas
+msgid "days"
+msgstr "μέρες"
+
+#: FileList.pas
+msgid "Delete"
+msgstr "Διαγραφή"
+
+#: FileList.pas
+#. second warning
+# INSTRUCTION: second warning
+msgid "Delete ALL files in the list?"
+msgstr "Διαγραφή ΟΛΩΝ των αρχείων στη λίστα;"
+
+#: FileList.pas
+msgid "Delete from disk"
+msgstr "Διαγραφή από το δίσκο"
+
+#: FileList.pas
+#. Deleting N files
+# INSTRUCTION: Deleting N files
+msgid "Deleting %s..."
+msgstr "Διαγραφή %s..."
+
+#: FileList.pas
+msgid "Deselect all"
+msgstr "Αποεπιλογή όλων"
+
+#: FileList.pas
+msgid "Destination File Already Exists"
+msgstr "Το αρχείο προορισμού υπάρχει ήδη"
+
+#: Main.pas
+msgid "Disable asynchronous file transfer"
+msgstr "Απενεργοποίηση ασύγχρονης μεταφοράς αρχείων"
+
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Disk is full, please free up %s"
+msgstr "Ο δίσκος είναι πλήρης, αποδεσμεύστε %s"
+
+#: FileList.pas
+#: FileView.pas
+#. idle state
+# INSTRUCTION: idle state
+msgid "Drag files or folders here"
+msgstr "Σύρετε αρχεία ή φακέλους εδώ"
+
+#: Main.pas
+#: Main.pas
+#: Main.pas
+#: FileList.pas
+msgid "Enter key"
+msgstr "Εισαγωγή κλειδιού"
+
+#: Main.pas
+msgid "Enter registration key"
+msgstr "Εισαγωγή κλειδιού εγγραφής"
+
+#: FileList.pas
+msgid "Error"
+msgstr "Σφάλμα"
+
+#: FileList.pas
+msgid "Error creating folder"
+msgstr "Σφάλμα κατά τη δημιουργία φακέλου"
+
+#: FileList.pas
+msgid "Error deleting file"
+msgstr "Σφάλμα κατά τη διαγραφή αρχείου"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Error reading file"
+msgstr "Σφάλμα κατά την ανάγνωση αρχείου"
+
+#: FileList.pas
+#. errors count
+# INSTRUCTION: errors count
+msgid "Errors: %d."
+msgstr "Σφάλματα: %d."
+
+#: FileList.pas
+#: FileList.pas
+msgid "Error writing file"
+msgstr "Σφάλμα κατά την εγγραφή αρχείου"
+
+#: Main.pas
+msgid "Expanded panel"
+msgstr "Διευρυμένο πλαίσιο"
+
+#: FileList.pas
+msgid "Expanded view"
+msgstr "Διευρυμένη προβολή"
+
+#: FileList.pas
+msgid "Export as"
+msgstr "Εξαγωγή ως"
+
+#: FileList.pas
+msgid "Export only"
+msgstr "Μόνο εξαγωγή"
+
+#: Constants.pas
+#: FileList.pas
+#: FileList.pas
+#. File list filter
+# INSTRUCTION: File list filter
+msgid "Failed"
+msgstr "Aνεπιτυχής μεταφορά"
+
+#: FileList.pas
+#. Delete from disk
+# INSTRUCTION: Delete from disk
+msgid "Faster, hard to recover"
+msgstr "Πιο γρήγορο αλλά με πιο δύσκολή ανάκτηση"
+
+#: PanelUI.pas
+msgid "Favorites & recent"
+msgstr "Αγαπημένα & πρόσφατα"
+
+#: FileList.pas
+#: FileList.pas
+msgid "File"
+msgstr "Αρχείο"
+
+#: FileList.pas
+msgid "File info"
+msgstr "Πληροφορίες αρχείου"
+
+#: FileList.pas
+msgid "File is offline, waiting..."
+msgstr "Δεν υπάρχει πρόσβαση στο αρχείο. Σε αναμονή..."
+
+#: FileList.pas
+msgid "File is too large for this file system"
+msgstr "Το αρχείο είναι πολύ μεγάλο για αυτό το σύστημα αρχείων"
+
+#: Constants.pas
+msgid "File list"
+msgstr "Λίστα αρχείων"
+
+#: FileList.pas
+#. multiple files
+# INSTRUCTION: multiple files
+msgid "File list contains %d items, select the operation"
+msgstr "Η λίστα αρχείων περιέχει %d στοιχεία, επιλέξτε τη λειτουργία"
+
+#: PanelUI.pas
+msgid "File managers"
+msgstr "Διαχειριστές αρχείων"
+
+#: Main.pas
+msgid "File Managers Integration"
+msgstr "Ενσωμάτωση στους διαχειριστές αρχείων"
+
+#: FileList.pas
+msgid "File skipped"
+msgstr "Το αρχείο αγνοήθηκε"
+
+#: FileList.pas
+#. Finished copying N files to "target folder".
+# INSTRUCTION: Finished copying N files to "target folder".
+msgid "Finished copying %s to \"%s\"."
+msgstr "Ολοκληρώθηκε η αντιγραφή %s στο \"%s\"."
+
+#: FileList.pas
+#. Finished moving N files to "target folder".
+# INSTRUCTION: Finished moving N files to "target folder".
+msgid "Finished moving %s to \"%s\"."
+msgstr "Ολοκληρώθηκε η μετακίνηση %s στο \"%s\"."
+
+#: FileList.pas
+#. Finished removing N files.
+# INSTRUCTION: Finished removing N files.
+msgid "Finished removing %s."
+msgstr "Ολοκληρώθηκε η αφαίρεση %s ."
+
+#: FileList.pas
+#. Finished testing N files.
+# INSTRUCTION: Finished testing N files.
+msgid "Finished testing %s."
+msgstr "Ολοκληρώθηκε ο έλεγχος %s."
+
+#: FileList.pas
+#. Finished verifying N files in "target folder".
+# INSTRUCTION: Finished verifying N files in "target folder".
+msgid "Finished verifying %s in \"%s\"."
+msgstr "Ολοκληρώθηκε η επαλήθευση %s στο \"%s\"."
+
+#: FileList.pas
+#: FileList.pas
+#. folder
+# INSTRUCTION: folder
+msgid "Folder"
+msgstr "Φάκελος"
+
+#: Main.pas
+msgid "Free for Home Users"
+msgstr "Δωρεάν για τους οικιακούς χρήστες"
+
+#: Utils.pas
+msgid "GB"
+msgstr "GB"
+
+#: Main.pas
+#: Main.pas
+#: FileList.pas
+#. Buy Pro version
+# INSTRUCTION: Buy Pro version
+msgid "Get Pro version"
+msgstr "Επαγγελματική έκδοση"
+
+#: Main.pas
+msgid "Handle drag and drop files using left mouse button as well as copy and paste commands in Explorer."
+msgstr "Διαχειριστείτε τη λειτουργία συρσίματος των αρχείων χρησιμοποιώντας το αριστερό πλήκτρο του ποντικιού, καθώς και τις εντολές αντιγραφής και επικόλλησης στην Εξερευνητή των windows."
+
+#: FileList.pas
+#: FileList.pas
+msgid "Hash"
+msgstr "Κατακερματισμός"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Hashes mismatch"
+msgstr "Αναντιστοιχία κατακερματισμών"
+
+#: Main.pas
+#: Main.pas
+msgid "Hibernate"
+msgstr "Αδρανοποίηση υπολογιστή"
+
+#: FileList.pas
+msgid "hours"
+msgstr "ώρες"
+
+#: FileList.pas
+msgid "HTML (with sortable columns)"
+msgstr "HTML (με ταξινόμηση στηλών)"
+
+#: FileList.pas
+msgid "Ignore"
+msgstr "Παράλειψη"
+
+#: Main.pas
+msgid "Interface"
+msgstr "Διεπαφή"
+
+#: FileList.pas
+msgid "Inverse selection"
+msgstr "Αντιστροφή επιλογής"
+
+#: Utils.pas
+#: Utils.pas
+msgid "KB"
+msgstr "KB"
+
+#: Main.pas
+msgid "Keep app open"
+msgstr "Διατήρησε την εφαρμογή ανοιχτή"
+
+#: Constants.pas
+msgid "Keep both"
+msgstr "Επιλογή και των δύο"
+
+#: Main.pas
+msgid "Keep history for 1 day"
+msgstr "Διατήρηση ιστορικού για 1 ημέρα"
+
+#: Main.pas
+msgid "Keep history for 1 week"
+msgstr "Διατήρηση ιστορικού για 1 εβδομάδα"
+
+#: Main.pas
+#: Main.pas
+msgid "Keep panel open"
+msgstr "Παραμονή του πλαισίου"
+
+#: Main.pas
+#: FileList.pas
+msgid "Large progress bar"
+msgstr "Μεγάλη γραμμή προόδου"
+
+#: Constants.pas
+msgid "Log"
+msgstr "Αρχείο καταγραφής"
+
+#: Utils.pas
+#: Utils.pas
+msgid "MB"
+msgstr "MB"
+
+#: PanelUI.pas
+#: PanelUI.pas
+#. menu
+# INSTRUCTION: menu
+msgid "Menu"
+msgstr "Μενού"
+
+#: PanelUI.pas
+msgid "Message"
+msgstr "Μήνυμα"
+
+#: FileList.pas
+#. minutes
+# INSTRUCTION: minutes
+msgid "min"
+msgstr "λεπτά"
+
+#: Main.pas
+msgid "Misc"
+msgstr "Διάφορα"
+
+#: Constants.pas
+#: FileList.pas
+#. replace dialog
+# INSTRUCTION: replace dialog
+msgid "More"
+msgstr "Περισσότερα"
+
+#: FileList.pas
+#. more options in file replace dialog
+# INSTRUCTION: more options in file replace dialog
+msgid "More options, applicable to all files"
+msgstr "Περισσότερες επιλογές, που ισχύουν για όλα τα αρχεία"
+
+#: FileList.pas
+msgid "More space is required: %s"
+msgstr "Απαιτείται περισσότερος χώρος: %s"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Move"
+msgstr "Μετακίνηση"
+
+#: FileList.pas
+msgid "Move to Recycle Bin"
+msgstr "Μετακίνηση στον Κάδο Ανακύκλωσης"
+
+#: FileList.pas
+#. Moving N files to "target folder"
+# INSTRUCTION: Moving N files to "target folder"
+msgid "Moving %s to \"%s\"..."
+msgstr "Μετακίνηση %s στο %s..."
+
+#: Main.pas
+#. history options
+# INSTRUCTION: history options
+msgid "Never keep history"
+msgstr "Να μην διατηρείται ιστορικό"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Newer"
+msgstr "Νεότερο"
+
+#: FileList.pas
+msgid "New file list"
+msgstr "Νέα λίστα αρχείων"
+
+#: Main.pas
+msgid "New list"
+msgstr "Νέα λίστα"
+
+#: FileList.pas
+msgid "No checksums are available, please copy or test files first."
+msgstr "Δεν υπάρχουν αθροίσματα ελέγχου διαθέσιμα, παρακαλούμε κάντε πρώτα μια μια αντιγραφή ή δοκιμή αρχείων."
+
+#: FileView.pas
+msgid "No items. Remove filters to see all files."
+msgstr "Δεν βρέθηκαν αποτελέσματα. Αφαιρέστε τα φίλτρα για να δείτε όλα τα αρχεία."
+
+#: Main.pas
+#. no history
+# INSTRUCTION: no history
+msgid "No previous transfers"
+msgstr "Δεν υπάρχουν μεταφορές στο ιστορικό."
+
+#: FileList.pas
+#: FileList.pas
+msgid "Not calculated"
+msgstr "Δεν έχει υπολογιστεί"
+
+#: Main.pas
+msgid "Not registered for Commercial Use"
+msgstr "Δεν έχετε εγγραφεί για εμπορική χρήση"
+
+#: FileList.pas
+msgid "OK"
+msgstr "Εντάξει"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Older"
+msgstr "Παλαιότερο"
+
+#: Utils.pas
+msgid "Byte"
+msgid_plural "Bytes"
+msgstr[0] "Byte"
+msgstr[1] "Bytes"
+
+#: FileList.pas
+msgid "Delete %d file from disk?"
+msgid_plural "Delete %d files from disk?"
+msgstr[0] "Διαγραφή %d αρχείου από δίσκο"
+msgstr[1] "Διαγραφή %d αρχείων από δίσκο"
+
+#: FileList.pas
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d στοιχείο"
+msgstr[1] "%d στοιχεία"
+
+#: Main.pas
+#. bottom toolbar
+# INSTRUCTION: bottom toolbar
+msgid "On finish"
+msgstr "Όταν τελειώσει η διαδικασία"
+
+#: Main.pas
+msgid "Only when Scroll Lock is OFF"
+msgstr "Μόνο όταν το Scroll Lock είναι OFF"
+
+#: FileList.pas
+msgid "Open file"
+msgstr "Άνοιγμα αρχείου"
+
+#: FileList.pas
+msgid "Open folder"
+msgstr "Άνοιγμα φακέλου"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Opening via service:"
+msgstr "Άνοιγμα μέσω υπηρεσίας:"
+
+#: Main.pas
+msgid "Open main menu"
+msgstr "Άνοιγμα κεντρικού μενού"
+
+#: Main.pas
+msgid "Open transfers history"
+msgstr "Άνοιγμα ιστορικού μεταφορών"
+
+#: Constants.pas
+#: Main.pas
+msgid "Options"
+msgstr "Επιλογές"
+
+#: Main.pas
+msgid "Order License"
+msgstr "Παραγγείλετε Άδεια"
+
+#: Constants.pas
+msgid "Overwrite"
+msgstr "Αντικατάσταση"
+
+#: Constants.pas
+msgid "Overwrite all"
+msgstr "Αντικατάσταση όλων"
+
+#: Constants.pas
+#. replace dialog
+# INSTRUCTION: replace dialog
+msgid "Overwrite all older files"
+msgstr "Αντικατάσταση όλων των παλαιότερων αρχείων"
+
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Pause"
+msgstr "Παύση"
+
+#: FileList.pas
+msgid "Paused"
+msgstr "Σε παύση"
+
+#: Main.pas
+msgid "Play sound when complete"
+msgstr "Αναπαραγωγή ήχου κατά την ολοκλήρωση"
+
+#: Main.pas
+#: Main.pas
+#: FileList.pas
+msgid "Preferences"
+msgstr "Προτιμήσεις"
+
+#: FileList.pas
+#: FileList.pas
+#. export dialog
+# INSTRUCTION: export dialog
+msgid "Print/export"
+msgstr "Εκτύπωση/εξαγωγή"
+
+#: Constants.pas
+msgid "Prompt on filename collision"
+msgstr "Ερώτηση όταν υπάρχει συνωνυμία αρχείου"
+
+#: Main.pas
+msgid "Read how to add Copy and Move buttons to the Directory Opus."
+msgstr "Διαβάστε πώς μπορείτε να προσθέσετε τα κουμπιά Αντιγραφή και Μετακίνηση στο Directory Opus."
+
+#: FileList.pas
+#. Recycling N files
+# INSTRUCTION: Recycling N files
+msgid "Recycling %s..."
+msgstr "Ανακύκλωση %s..."
+
+#: Main.pas
+msgid "Register Copy Handler"
+msgstr "Εγγραφή ως διαχειριστή Αντιγραφής"
+
+#: FileList.pas
+#. remove selected items from list
+# INSTRUCTION: remove selected items from list
+msgid "Remove selected"
+msgstr "Αφαίρεση επιλεγμένων"
+
+#: FileList.pas
+msgid "Remove transferred"
+msgstr "Αφαίρεση μεταφερμένων"
+
+#: Constants.pas
+msgid "Rename all copied files"
+msgstr "Μετονομασία όλων των αντιγραμμένων αρχείων"
+
+#: Constants.pas
+msgid "Rename all older target files"
+msgstr "Μετονομασία όλων των παλαιότερων αρχείων προορισμού"
+
+#: Constants.pas
+msgid "Rename all target files"
+msgstr "Μετονομασία όλων των αρχείων προορισμού"
+
+#: Constants.pas
+msgid "Replace all files if size different"
+msgstr "Αντικατάσταση όλων των αρχείων αν το μέγεθος είναι διαφορετικό"
+
+#: Constants.pas
+msgid "Replace all smaller files"
+msgstr "Αντικατάσταση όλων των μικρότερων αρχείων"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Resume"
+msgstr "Συνέχεια"
+
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#. seconds
+# INSTRUCTION: seconds
+msgid "s"
+msgstr "δ"
+
+#: FileList.pas
+msgid "Same date"
+msgstr "Ίδια ημερομηνία"
+
+#: FileList.pas
+#. select
+# INSTRUCTION: select
+msgid "Same extension"
+msgstr "Στοιχεία με την ίδια επέκταση"
+
+#: FileList.pas
+#. select
+# INSTRUCTION: select
+msgid "Same folder"
+msgstr "Στοιχεία στον ίδιο φάκελο"
+
+#: FileList.pas
+msgid "Same size"
+msgstr "Ίδιο μέγεθος"
+
+#: PanelUI.pas
+msgid "Save checksum file on finish"
+msgstr "Αποθήκευση αρχείου ελέγχου αθροίσματος στο τέλος"
+
+#: FileList.pas
+msgid "Save checksums"
+msgstr "Αποθήκευση αθροισμάτων ελέγχου"
+
+#: FileList.pas
+#: FileList.pas
+#. save checksums file (e.g. *.md5)
+# INSTRUCTION: save checksums file (e.g. *.md5)
+msgid "Save Hash"
+msgstr "Αποθήκευση κατακερματισμού"
+
+#: FileList.pas
+msgid "Select"
+msgstr "Επιλογή"
+
+#: FileList.pas
+msgid "Select target to continue operation"
+msgstr "Επιλέξτε προορισμό για να συνεχίσετε τη διαδικασία"
+
+#: FileList.pas
+#. single file name
+# INSTRUCTION: single file name
+msgid "Select the operation for \"%s\""
+msgstr "Επιλέξτε τη λειτουργία για το \"%s\""
+
+#: FileList.pas
+#: FileList.pas
+msgid "%s hash file is saved to:"
+msgstr "%s αρχείο κατακερματισμού αποθηκεύτηκε στο:"
+
+#: FileList.pas
+#. compare with hash in clipboard
+# INSTRUCTION: compare with hash in clipboard
+msgid "%s hash in Clipboard matches"
+msgstr "ταιριάζει με %s κατακερματισμούς στο Πρόχειρο"
+
+#: Main.pas
+msgid "Shell Integration"
+msgstr "Ενσωμάτωση στο Shell"
+
+#: Main.pas
+#: Main.pas
+msgid "Shutdown"
+msgstr "Σβήσιμο Η/Υ"
+
+#: FileList.pas
+msgid "Sizes mismatch"
+msgstr "Αναντιστοιχία μεγέθους"
+
+#: Constants.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Skip"
+msgstr "Παράλειψη"
+
+#: Constants.pas
+msgid "Skip all"
+msgstr "Αγνόηση όλων"
+
+#: FileList.pas
+#. replace dialog, auto-select Skip all button in N seconds
+# INSTRUCTION: replace dialog, auto-select Skip all button in N seconds
+msgid "skip all in %d s"
+msgstr "Αγνόηση όλων σε %d δ"
+
+#: Constants.pas
+#: FileList.pas
+#: FileList.pas
+#. File list filter
+# INSTRUCTION: File list filter
+msgid "Skipped"
+msgstr "Αγνοήθηκαν "
+
+#: FileList.pas
+#. skipped files count
+# INSTRUCTION: skipped files count
+msgid "Skipped: %d."
+msgstr "Αγνοήθηκαν: %d ."
+
+#: FileList.pas
+msgid "Skip requested by user"
+msgstr "Αγνόηση μετά από αίτημα του χρήστη"
+
+#: Main.pas
+#: Main.pas
+msgid "Sleep"
+msgstr "Αναστολή λειτουργίας"
+
+#: FileList.pas
+#. Move to Recycle Bin
+# INSTRUCTION: Move to Recycle Bin
+msgid "Slower, easy to recover"
+msgstr "Πιο αργό αλλά με πιο εύκολη ανάκτηση"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Smaller"
+msgstr "Μικρότερο"
+
+#: FileList.pas
+#: FileList.pas
+#. source
+# INSTRUCTION: source
+msgid "Source"
+msgstr "Προέλευση"
+
+#: FileList.pas
+msgid "Source is the same as target"
+msgstr "Η πηγή προέλευσης είναι ίδια με τον προορισμό"
+
+#: FileList.pas
+#. space bar key
+# INSTRUCTION: space bar key
+msgid "Space"
+msgstr "Χαρακτήρας Space"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Start Now"
+msgstr "Ξεκινήστε τώρα"
+
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Stop"
+msgstr "Διακοπή"
+
+#: FileList.pas
+msgid "Stopped"
+msgstr "Διακόπηκε"
+
+#: FileList.pas
+msgid "Stop requested by user"
+msgstr "Διακοπή μετά από αίτημα του χρήστη"
+
+#: Constants.pas
+#: FileList.pas
+#. File list filter
+# INSTRUCTION: File list filter
+msgid "Successful"
+msgstr "Επιτυχής μεταφορά"
+
+#: FileList.pas
+msgid "target"
+msgstr "προορισμός"
+
+#: Constants.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#. target
+# INSTRUCTION: target
+msgid "Target"
+msgstr "Προορισμός"
+
+#: Utils.pas
+msgid "TB"
+msgstr "TB"
+
+#: FileList.pas
+#: FileList.pas
+#. options sub-menu
+# INSTRUCTION: options sub-menu
+msgid "Test"
+msgstr "Έλεγχος"
+
+#: FileList.pas
+#. Testing N files
+# INSTRUCTION: Testing N files
+msgid "Testing %s..."
+msgstr "Έλεγχος %s..."
+
+#: FileList.pas
+#: FileList.pas
+msgid "The file is available again, resuming transfer..."
+msgstr "Το αρχείο είναι πλέον διαθέσιμο. Συνέχιση της μεταφοράς..."
+
+#: FileList.pas
+#. select
+# INSTRUCTION: select
+msgid "This item"
+msgstr "Αυτό το στοιχείο"
+
+#: PanelUI.pas
+msgid "Time"
+msgstr "Ώρα"
+
+#: FileList.pas
+#. options sub-menu
+# INSTRUCTION: options sub-menu
+msgid "Transfer"
+msgstr "Μεταφορά"
+
+#: Main.pas
+msgid "Transfers history"
+msgstr "Ιστορικό μεταφορών"
+
+#: FileList.pas
+msgid "Unattended"
+msgstr "Χωρίς επιτήρηση"
+
+#: Main.pas
+msgid "Unregister Copy Handler"
+msgstr "Διαγραφή από διαχειριστή Αντιγραφής"
+
+#: Main.pas
+msgid "Use TeraCopy as default copy handler"
+msgstr "Χρησιμοποιήστε TeraCopy ως προεπιλεγμένο πρόγραμμα διαχείρισης αντιγραφών"
+
+#: FileList.pas
+#: FileList.pas
+#: PanelUI.pas
+#: PanelUI.pas
+#. Verify
+# INSTRUCTION: Verify
+msgid "Verify"
+msgstr "Επαλήθευση"
+
+#: FileList.pas
+#. Verifying N files in "source folder"
+# INSTRUCTION: Verifying N files in "source folder"
+msgid "Verifying %s in \"%s\"..."
+msgstr "Επαλήθευση %s στο %s..."
+
+#: FileList.pas
+#. Wipe data
+# INSTRUCTION: Wipe data
+msgid "Very slow, one pass with random data, useless for solid state drives."
+msgstr "Πολύ αργό. Eπικάλυψη με τυχαία δεδομένα σε 1 πέρασμα. Άχρηστο για μονάδες SSD."
+
+#: FileList.pas
+#: FileList.pas
+msgid "Waiting for other transfers..."
+msgstr "Σε αναμονή μέχρι το τελείωμα άλλων μεταφορών..."
+
+#: FileList.pas
+msgid "Wipe data"
+msgstr "Εκκαθάριση δεδομένων"
+
+#: FileList.pas
+#. Wiping N files
+# INSTRUCTION: Wiping N files
+msgid "Wiping %s..."
+msgstr "Εκκαθάριση %s..."
+

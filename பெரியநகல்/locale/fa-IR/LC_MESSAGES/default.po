@@ -1,0 +1,935 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TeraCopy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-10 10:22:20 UTC\n"
+"PO-Revision-Date: 2017-05-16 05:31:25 UTC\n"
+"Last-Translator: Web Translate It <support@webtranslateit.com>\n"
+"Language: fa-IR\n"
+"Language-Team: Persian, Iran\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: WebTranslateIt.com\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: Main.pas
+#: FileList.pas
+msgid "About"
+msgstr "درباره"
+
+#: FileList.pas
+msgid "Add files"
+msgstr "افزودن فایل‌ها"
+
+#: FileList.pas
+msgid "Add folders"
+msgstr "افزون پوشه‌ها"
+
+#: FileList.pas
+msgid "Adding files [%d]..."
+msgstr "در حال افزودن فایل [‎%d‎]..."
+
+#: Main.pas
+msgid "Adds Copy and Move buttons to the Total Commander default buttons bar."
+msgstr "افزودن دکمه‌های کپی و انتقال، به نوار دکمه‌های پیش فرض این برنامه"
+
+#: Main.pas
+msgid "Add to Explorer context menu"
+msgstr "افزودن به منوی راست کلیک"
+
+#: Main.pas
+msgid "After all transfers completed"
+msgstr "در پایان تمام انتقال‌ها"
+
+#: Main.pas
+msgid "After transfer completed"
+msgstr "در پایان انتقال"
+
+#: Constants.pas
+#. File list filter
+# INSTRUCTION: File list filter
+msgid "All files"
+msgstr "همه فایل‌ها"
+
+#: FileList.pas
+msgid "All items"
+msgstr "همه موارد"
+
+msgid "Always On Top"
+msgstr "همواره روی پنجره‌های دیگر باز بماند"
+
+#: Main.pas
+msgid "Always test after copy"
+msgstr "همواره پس از کپی، سنجش انجام شود"
+
+#: FileList.pas
+msgid "Applying attributes and removing folders..."
+msgstr "در حال اعمال ویژگی‌ها و پاک کردن پوشه‌ها..."
+
+#: FileList.pas
+msgid "Applying folder attributes..."
+msgstr "در حال اعمال ویژگی‌های پوشه..."
+
+#: Main.pas
+msgid "Associate TeraCopy with .sfv and .md5 files"
+msgstr "TeraCopy به .sfv و .md5 وابسته کردن فایل‌های"
+
+#: PanelUI.pas
+#: PanelUI.pas
+#. auto scroll checkbox
+# INSTRUCTION: auto scroll checkbox
+msgid "Auto-scroll"
+msgstr "اسکرول خودکار"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Bigger"
+msgstr "بزرگ‌تر"
+
+#: PanelUI.pas
+#: PanelUI.pas
+msgid "Browse"
+msgstr "از لیست"
+
+#: Main.pas
+#: Main.pas
+#: FileList.pas
+msgid "Cancel"
+msgstr "لغو"
+
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Cancelled"
+msgstr "لغو شده"
+
+#: Main.pas
+msgid "Check free space"
+msgstr "بررسی فضای آزاد موجود"
+
+#: Main.pas
+msgid "Clean history now"
+msgstr "پاک کردن تاریخچه"
+
+#: Main.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Close"
+msgstr "بستن"
+
+#: Main.pas
+#: FileList.pas
+msgid "Close all panels"
+msgstr "تمام پنل‌ها بسته شود"
+
+#: Main.pas
+msgid "Close app"
+msgstr "برنامه بسته شود"
+
+#: Main.pas
+#: Main.pas
+msgid "Close panel"
+msgstr "پنل بسته شود"
+
+msgid "Compare skipped files?"
+msgstr "مقایسه فایل‌های صرف نظر شده انجام شود؟"
+
+#: Main.pas
+msgid "Confirm drag and drop"
+msgstr "تایید هنگام کشیدن و رها کردن موارد جدید با ماوس"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Copy"
+msgstr "کپی"
+
+#: FileList.pas
+#. Copying N files to "target folder"
+# INSTRUCTION: Copying N files to "target folder"
+msgid "Copying %s to \"%s\"..."
+msgstr "در حال کپی ‎%s‎ فایل به \"‎%s‎\""
+
+#: Main.pas
+msgid "Create a new list"
+msgstr "ایجاد یک لیست جدید"
+
+#: FileList.pas
+msgid "CSV (to import in Excel, etc)"
+msgstr "CSV (برای خواندن در اکسل و غیره)"
+
+#: FileList.pas
+msgid "days"
+msgstr "روز"
+
+#: FileList.pas
+msgid "Delete"
+msgstr "پاک کردن"
+
+#: FileList.pas
+#. second warning
+# INSTRUCTION: second warning
+msgid "Delete ALL files in the list?"
+msgstr "تمام فایل‌های موجود در لیست پاک شوند؟"
+
+#: FileList.pas
+msgid "Delete from disk"
+msgstr "پاک کردن از دیسک"
+
+#: FileList.pas
+#. Deleting N files
+# INSTRUCTION: Deleting N files
+msgid "Deleting %s..."
+msgstr "در حال پاک کردن ‎%s‎ فایل..."
+
+#: FileList.pas
+msgid "Deselect all"
+msgstr "عدم انتخاب همه موارد"
+
+#: FileList.pas
+msgid "Destination File Already Exists"
+msgstr "فایل مقصد در حال حاضر وجود دارد"
+
+#: Main.pas
+msgid "Disable asynchronous file transfer"
+msgstr "از کار انداختن انتقال به‌صورت آسنکرون"
+
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Disk is full, please free up %s"
+msgstr "دیسک پر است، لطفا ‎%s‎ فضای خالی ایجاد کنید"
+
+#: FileList.pas
+#: FileView.pas
+#. idle state
+# INSTRUCTION: idle state
+msgid "Drag files or folders here"
+msgstr "فایل‌ها یا پوشه‌ها را کشیده و اینجا بیندازید"
+
+#: Main.pas
+#: Main.pas
+#: Main.pas
+#: FileList.pas
+msgid "Enter key"
+msgstr "کلید را وارد کنید"
+
+msgid "Enter registration key"
+msgstr "ورود کلید ثبت نرم‌افزار"
+
+#: FileList.pas
+msgid "Error"
+msgstr "خطا"
+
+#: FileList.pas
+msgid "Error creating folder"
+msgstr "خطا هنگام ایجاد پوشه"
+
+#: FileList.pas
+msgid "Error deleting file"
+msgstr "خطا هنگام پاک کردن فایل"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Error reading file"
+msgstr "خطا هنگام خواندن فایل"
+
+#: FileList.pas
+#. errors count
+# INSTRUCTION: errors count
+msgid "Errors: %d."
+msgstr "خطا: ‎%d‎."
+
+#: FileList.pas
+#: FileList.pas
+msgid "Error writing file"
+msgstr "خطا هنگام نوشتن فایل"
+
+#: Main.pas
+msgid "Expanded panel"
+msgstr "پنل باز شده"
+
+msgid "Expanded view"
+msgstr "حالت نمایشی گسترده"
+
+#: FileList.pas
+msgid "Export as"
+msgstr "ذخیره به‌صورت"
+
+#: Constants.pas
+#: FileList.pas
+#: FileList.pas
+#. File list filter
+# INSTRUCTION: File list filter
+msgid "Failed"
+msgstr "ناموفق"
+
+#: FileList.pas
+#. Delete from disk
+# INSTRUCTION: Delete from disk
+msgid "Faster, hard to recover"
+msgstr "سریع‌تر، با امکان بازیابی دشوارتر"
+
+#: PanelUI.pas
+msgid "Favorites & recent"
+msgstr "موارد برگزیده و اخیر"
+
+#: FileList.pas
+#: FileList.pas
+msgid "File"
+msgstr "فایل"
+
+#: FileList.pas
+msgid "File info"
+msgstr "اطلاعات فایل"
+
+#: FileList.pas
+msgid "File is offline, waiting..."
+msgstr "فایل در دسترس نیست، منتظر باشید..."
+
+#: FileList.pas
+msgid "File is too large for this file system"
+msgstr "اندازه فایل برای این فایل سیستم خیلی بزرگ است"
+
+#: Constants.pas
+msgid "File list"
+msgstr "لیست فایل"
+
+#: FileList.pas
+#. multiple files
+# INSTRUCTION: multiple files
+msgid "File list contains %d items, select the operation"
+msgstr "لیست فایل‌ها حاوی ‎%d‎ مورد است، عملیات مورد نظر را انتخاب کنید"
+
+#: PanelUI.pas
+msgid "File managers"
+msgstr "برنامه‌های مدیریت فایل"
+
+#: Main.pas
+msgid "File Managers Integration"
+msgstr "یکپارچه‌سازی با برنامه‌های مدیریت فایل"
+
+msgid "File skipped"
+msgstr "فایل صرف نظر شد"
+
+#: FileList.pas
+#. Finished copying N files to "target folder".
+# INSTRUCTION: Finished copying N files to "target folder".
+msgid "Finished copying %s to \"%s\"."
+msgstr "پایان کپی ‎%s‎ فایل به \"‎%s‎\"."
+
+#: FileList.pas
+#. Finished moving N files to "target folder".
+# INSTRUCTION: Finished moving N files to "target folder".
+msgid "Finished moving %s to \"%s\"."
+msgstr "پایان جابجایی ‎%s‎ فایل به \"‎%s‎\"."
+
+#: FileList.pas
+#. Finished removing N files.
+# INSTRUCTION: Finished removing N files.
+msgid "Finished removing %s."
+msgstr "پایان جابجایی ‎%s‎ فایل."
+
+#. Finished testing N files.
+# INSTRUCTION: Finished testing N files.
+msgid "Finished testing %s."
+msgstr "پایان سنجش ‎%s‎ فایل."
+
+#: FileList.pas
+#. Finished verifying N files in "target folder".
+# INSTRUCTION: Finished verifying N files in "target folder".
+msgid "Finished verifying %s in \"%s\"."
+msgstr "پایان بررسی صحت ‎%s‎ فایل در\"‎%s‎\"."
+
+#: FileList.pas
+#: FileList.pas
+#. folder
+# INSTRUCTION: folder
+msgid "Folder"
+msgstr "پوشه"
+
+#: Main.pas
+msgid "Free for Home Users"
+msgstr "برای استفاده کننده‌ی خانگی مجانی است"
+
+#: Utils.pas
+msgid "GB"
+msgstr "گیگابایت"
+
+#. Buy Pro version
+# INSTRUCTION: Buy Pro version
+msgid "Get Pro version"
+msgstr "دریافت نسخه پیشرفته"
+
+#: Main.pas
+msgid "Handle drag and drop files using left mouse button as well as copy and paste commands in Explorer."
+msgstr "ثبت به عنوان کپی استاندارد در منوی راست کلیک همانند دستور کپی در ویندوز"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Hash"
+msgstr "Hash"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Hashes mismatch"
+msgstr "مطابقت نداشتن Hashها"
+
+#: Main.pas
+#: Main.pas
+msgid "Hibernate"
+msgstr "هایبرنیت"
+
+#: FileList.pas
+msgid "hours"
+msgstr "ساعت"
+
+#: FileList.pas
+msgid "HTML (with sortable columns)"
+msgstr "HTML (همراه با ستون‌هایی با قابلیت مرتب‌سازی)"
+
+#: FileList.pas
+msgid "Ignore"
+msgstr "نادیده گرفتن"
+
+#: Main.pas
+msgid "Interface"
+msgstr "رابط کاربر"
+
+#: FileList.pas
+msgid "Inverse selection"
+msgstr "معکوس کردن موارد انتخاب شده"
+
+#: Utils.pas
+#: Utils.pas
+msgid "KB"
+msgstr "کیلوبایت"
+
+#: Main.pas
+msgid "Keep app open"
+msgstr "برنامه باز بماند"
+
+#: Constants.pas
+msgid "Keep both"
+msgstr "نگهداری هر دو"
+
+#: Main.pas
+msgid "Keep history for 1 day"
+msgstr "نگهداری تاریخچه برای یک روز"
+
+#: Main.pas
+msgid "Keep history for 1 week"
+msgstr "نگهداری تاریخچه برای یک هفته"
+
+msgid "Keep panel open"
+msgstr "پنل باز بماند"
+
+#: Main.pas
+#: FileList.pas
+msgid "Large progress bar"
+msgstr "نوار پیشرفت بزرگ"
+
+#: Constants.pas
+msgid "Log"
+msgstr "لاگ"
+
+#: Utils.pas
+#: Utils.pas
+msgid "MB"
+msgstr "مگابایت"
+
+#: PanelUI.pas
+#: PanelUI.pas
+#. menu
+# INSTRUCTION: menu
+msgid "Menu"
+msgstr "منو"
+
+#: PanelUI.pas
+msgid "Message"
+msgstr "پیام"
+
+#: FileList.pas
+#. minutes
+# INSTRUCTION: minutes
+msgid "min"
+msgstr "دقیقه"
+
+#: Main.pas
+msgid "Misc"
+msgstr "متفرقه"
+
+#: Constants.pas
+#: FileList.pas
+#. replace dialog
+# INSTRUCTION: replace dialog
+msgid "More"
+msgstr "بیشتر"
+
+#: FileList.pas
+#. more options in file replace dialog
+# INSTRUCTION: more options in file replace dialog
+msgid "More options, applicable to all files"
+msgstr "گرینه‌های بیشتر، قابل اجرا برای همه فایل‌ها"
+
+#: FileList.pas
+msgid "More space is required: %s"
+msgstr "فضای خالی بیشتری مورد نیاز است: ‎%s‎"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Move"
+msgstr "انتقال"
+
+#: FileList.pas
+msgid "Move to Recycle Bin"
+msgstr "انتقال به سطل آشغال"
+
+#: FileList.pas
+#. Moving N files to "target folder"
+# INSTRUCTION: Moving N files to "target folder"
+msgid "Moving %s to \"%s\"..."
+msgstr "در حال جابجایی ‎%s‎ فایل به \"‎%s‎\""
+
+#: Main.pas
+#. history options
+# INSTRUCTION: history options
+msgid "Never keep history"
+msgstr "تاریخچه نگهداری نشود"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Newer"
+msgstr "جدیدتر"
+
+#: FileList.pas
+msgid "New file list"
+msgstr "لیست فایل جدید"
+
+#: Main.pas
+msgid "New list"
+msgstr "لیست جدید"
+
+msgid "No checksums are available, please copy or test files first."
+msgstr "‏‏checksum وجود ندارد. لطفا ابتدا عملیات کپی یا سنجش فایل‌ها را انجام دهید."
+
+#: FileView.pas
+msgid "No items. Remove filters to see all files."
+msgstr "موردی وجود ندارد. برای نمایش تمام فایل‌ها، فیلترها را حذف کنید."
+
+#: Main.pas
+#. no history
+# INSTRUCTION: no history
+msgid "No previous transfers"
+msgstr "انتقالی انجام نشده"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Not calculated"
+msgstr "محاسبه نشده"
+
+#: Main.pas
+msgid "Not registered for Commercial Use"
+msgstr "برای استفاده‌ی تجاری ثبت نشده است"
+
+#: FileList.pas
+msgid "OK"
+msgstr "خب"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Older"
+msgstr "قدیمی‌تر"
+
+#: Main.pas
+#. bottom toolbar
+# INSTRUCTION: bottom toolbar
+msgid "On finish"
+msgstr "در پایان"
+
+#: Main.pas
+msgid "Only when Scroll Lock is OFF"
+msgstr "تنها در زمان خاموش خاموش بودن Scroll Lock"
+
+#: FileList.pas
+msgid "Open file"
+msgstr "باز کردن فایل"
+
+#: FileList.pas
+msgid "Open folder"
+msgstr "باز کردن پوشه"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Opening via service:"
+msgstr "اجرا به صورت سرویس: "
+
+#: Main.pas
+msgid "Open main menu"
+msgstr "باز کردن منو اصلی"
+
+#: Main.pas
+msgid "Open transfers history"
+msgstr "باز کردن تاریخچه انتقال‌ها"
+
+#: Constants.pas
+#: Main.pas
+msgid "Options"
+msgstr "گزینه‌ها"
+
+#: Main.pas
+msgid "Order License"
+msgstr "سفارش مجوز استفاده"
+
+#: Constants.pas
+msgid "Overwrite"
+msgstr "بازنویسی"
+
+#: Constants.pas
+msgid "Overwrite all"
+msgstr "بازنویسی همگی"
+
+#: Constants.pas
+#. replace dialog
+# INSTRUCTION: replace dialog
+msgid "Overwrite all older files"
+msgstr "بازنویسی همه فایل‌های قدیمی"
+
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Pause"
+msgstr "مکث"
+
+#: FileList.pas
+msgid "Paused"
+msgstr "مکث"
+
+#: Main.pas
+msgid "Play sound when complete"
+msgstr "پخش صدا پس از پایان عملیات"
+
+#: Main.pas
+#: Main.pas
+#: FileList.pas
+msgid "Preferences"
+msgstr "ترجیحات"
+
+#. export dialog
+# INSTRUCTION: export dialog
+msgid "Print/export"
+msgstr "چاپ/ذخیره به‌صورت"
+
+#: Constants.pas
+msgid "Prompt on filename collision"
+msgstr "نمایش اعلان هنگام خطا در نام فایل"
+
+#: Main.pas
+msgid "Read how to add Copy and Move buttons to the Directory Opus."
+msgstr "برای افزودن دکمه‌های کپی و انتقال به برنامه دایرکتوری اوپوس، اینجا را مطالعه کنید"
+
+#: FileList.pas
+#. Recycling N files
+# INSTRUCTION: Recycling N files
+msgid "Recycling %s..."
+msgstr "در حال انتقال به سطل آشغال ‎%s‎ فایل..."
+
+#: Main.pas
+msgid "Register Copy Handler"
+msgstr "ثبت به عنوان اداره‌کننده عملیات کپی"
+
+#: FileList.pas
+#. remove selected items from list
+# INSTRUCTION: remove selected items from list
+msgid "Remove selected"
+msgstr "پاک کردن موارد اننتخاب شده"
+
+#: FileList.pas
+msgid "Remove transferred"
+msgstr "پاک کردن موارد منتقل شده"
+
+#: Constants.pas
+msgid "Rename all copied files"
+msgstr "تغییر نام همه فایل‌های کپی شده"
+
+#: Constants.pas
+msgid "Rename all older target files"
+msgstr "تغییر نام همه فایل‌های هدف قدیمی"
+
+#: Constants.pas
+msgid "Rename all target files"
+msgstr "تغییر نام همه فایل‌های هدف"
+
+#: Constants.pas
+msgid "Replace all files if size different"
+msgstr "جایگزینی همه فایل‌ها هنگام تفاوت در اندازه"
+
+#: Constants.pas
+msgid "Replace all smaller files"
+msgstr "جایگزینی همه فایل‌های کوچک‌تر"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Resume"
+msgstr "شروع مجدد"
+
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#. seconds
+# INSTRUCTION: seconds
+msgid "s"
+msgstr "ثانیه"
+
+#: FileList.pas
+msgid "Same date"
+msgstr "هم تاریخ"
+
+#. select
+# INSTRUCTION: select
+msgid "Same extension"
+msgstr "پسوند یکسان"
+
+#. select
+# INSTRUCTION: select
+msgid "Same folder"
+msgstr "پوشه یکسان"
+
+#: FileList.pas
+msgid "Same size"
+msgstr "هم اندازه"
+
+#: PanelUI.pas
+msgid "Save checksum file on finish"
+msgstr "در پایان فایل checksum ذخیره شود"
+
+#: FileList.pas
+msgid "Save checksums"
+msgstr "ذخیره checksum"
+
+#: FileList.pas
+#: FileList.pas
+#. save checksums file (e.g. *.md5)
+# INSTRUCTION: save checksums file (e.g. *.md5)
+msgid "Save Hash"
+msgstr "ذخیره کردن Hash"
+
+#: FileList.pas
+msgid "Select"
+msgstr "انتخاب"
+
+#: FileList.pas
+msgid "Select target to continue operation"
+msgstr "برای ادامه عملیات، هدف را انتخاب کنید"
+
+#: FileList.pas
+#. single file name
+# INSTRUCTION: single file name
+msgid "Select the operation for \"%s\""
+msgstr "عملیات مورد نظر برای \"‎%s‎\" را انتخاب کنید"
+
+#: FileList.pas
+#: FileList.pas
+msgid "%s hash file is saved to:"
+msgstr "‎%s‎ فایل hash در این آدرس ذخیره شد:"
+
+#: Main.pas
+msgid "Shell Integration"
+msgstr "یکپارچه‌سازی با ویندوز"
+
+#: Main.pas
+#: Main.pas
+msgid "Shutdown"
+msgstr "خاموش"
+
+#: FileList.pas
+msgid "Sizes mismatch"
+msgstr "اندازه‌ها مطابقت ندارند"
+
+#: Constants.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Skip"
+msgstr "صرف نظر"
+
+msgid "Skip all"
+msgstr "صرف نظر از همگی"
+
+#. replace dialog, auto-select Skip all button in N seconds
+# INSTRUCTION: replace dialog, auto-select Skip all button in N seconds
+msgid "skip all in %d s"
+msgstr "در ‎%d‎ ثانیه همگی موارد صرف نظر شود"
+
+#. File list filter
+# INSTRUCTION: File list filter
+msgid "Skipped"
+msgstr "صرف نظر شده"
+
+#. skipped files count
+# INSTRUCTION: skipped files count
+msgid "Skipped: %d."
+msgstr "صرف نظر شده: ‎%d‎."
+
+msgid "Skip requested by user"
+msgstr "به درخواست کاربر صرف نظر شد"
+
+#: Main.pas
+#: Main.pas
+msgid "Sleep"
+msgstr "خواب"
+
+#: FileList.pas
+#. Move to Recycle Bin
+# INSTRUCTION: Move to Recycle Bin
+msgid "Slower, easy to recover"
+msgstr "کندتر، با امکان بازیابی آسان‌تر"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Smaller"
+msgstr "کوچک‌تر"
+
+#: FileList.pas
+#: FileList.pas
+#. source
+# INSTRUCTION: source
+msgid "Source"
+msgstr "مبدا"
+
+#: FileList.pas
+msgid "Source is the same as target"
+msgstr "فایل منبع و هدف یکسان هستند"
+
+#: FileList.pas
+#. space bar key
+# INSTRUCTION: space bar key
+msgid "Space"
+msgstr "کلید \"فاصله\""
+
+#: FileList.pas
+#: FileList.pas
+msgid "Start Now"
+msgstr "شروع کن"
+
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Stop"
+msgstr "پایان"
+
+#: FileList.pas
+msgid "Stopped"
+msgstr "متوقف شده"
+
+#: FileList.pas
+msgid "Stop requested by user"
+msgstr "به درخواست کاربر متوقف شد"
+
+#: Constants.pas
+#: FileList.pas
+#. File list filter
+# INSTRUCTION: File list filter
+msgid "Successful"
+msgstr "موفقیت‌آمیز"
+
+#: Constants.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#. target
+# INSTRUCTION: target
+msgid "Target"
+msgstr "مقصد"
+
+#: FileList.pas
+msgid "target"
+msgstr "هدف"
+
+#: Utils.pas
+msgid "TB"
+msgstr "ترابایت"
+
+#: FileList.pas
+#: FileList.pas
+#. options sub-menu
+# INSTRUCTION: options sub-menu
+msgid "Test"
+msgstr "سنجش"
+
+#. Testing N files
+# INSTRUCTION: Testing N files
+msgid "Testing %s..."
+msgstr "در حال سنجش %s‎ فایل..."
+
+#: FileList.pas
+#: FileList.pas
+msgid "The file is available again, resuming transfer..."
+msgstr "فایل مجددا در دسترس قرار گرفت، انتقال از سرگرفته شد..."
+
+#: FileList.pas
+#. select
+# INSTRUCTION: select
+msgid "This item"
+msgstr "این مورد"
+
+#: PanelUI.pas
+msgid "Time"
+msgstr "ساعت"
+
+#: FileList.pas
+#. options sub-menu
+# INSTRUCTION: options sub-menu
+msgid "Transfer"
+msgstr "انتقال"
+
+#: Main.pas
+msgid "Transfers history"
+msgstr "تاریخچه انتقال‌ها"
+
+#: FileList.pas
+msgid "Unattended"
+msgstr "به‌طور خودکار"
+
+#: Main.pas
+msgid "Unregister Copy Handler"
+msgstr "لغو ثبت به عنوان اداره‌کننده عملیات کپی"
+
+#: Main.pas
+msgid "Use TeraCopy as default copy handler"
+msgstr "استفاده از تراکپی به عنوان اداره‌کننده عملیات کپی"
+
+#. Verify
+# INSTRUCTION: Verify
+msgid "Verify"
+msgstr "بررسی صحت"
+
+#: FileList.pas
+#. Verifying N files in "source folder"
+# INSTRUCTION: Verifying N files in "source folder"
+msgid "Verifying %s in \"%s\"..."
+msgstr "در حال بررسی صحت ‎%s‎ فایل در \"‎\"%s‎"
+
+#. Wipe data
+# INSTRUCTION: Wipe data
+msgid "Very slow, one pass with random data, useless for solid state drives."
+msgstr "بسیار آهسته، یک دور با نوشتن داده‌های اتفاقی. برای درایوهای SSD بی‌فایده است."
+
+msgid "Waiting for other transfers..."
+msgstr "در انتظار پایان عملیات انتقال در حال انجام..."
+
+#: FileList.pas
+msgid "Wipe data"
+msgstr "محو کردن داده‌ها"
+
+#: FileList.pas
+#. Wiping N files
+# INSTRUCTION: Wiping N files
+msgid "Wiping %s..."
+msgstr "در حال محو کردن ‎%s‎ فایل..."

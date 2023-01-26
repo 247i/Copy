@@ -1,0 +1,578 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TeraCopy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-10 10:22:20 UTC\n"
+"PO-Revision-Date: 2017-05-15 12:08:13 UTC\n"
+"Last-Translator: Web Translate It <support@webtranslateit.com>\n"
+"Language: th-TH\n"
+"Language-Team: Thai, Thailand\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: WebTranslateIt.com\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: Main.pas
+#: FileList.pas
+msgid "About"
+msgstr "เกี่ยวกับ"
+
+#: FileList.pas
+msgid "Add files"
+msgstr "เพิ่มไฟล์"
+
+#: FileList.pas
+msgid "Add folders"
+msgstr "เพิ่มโฟลเดอร์"
+
+#: Main.pas
+msgid "Adds Copy and Move buttons to the Total Commander default buttons bar."
+msgstr "เพิ่มปุ่มคัดลอกและย้ายให้กับปุ่มมาตรฐานของ Total Commander."
+
+#: Main.pas
+msgid "Add to Explorer context menu"
+msgstr "เพิ่มไปที่เมนูคลิกขวาของ Explorer"
+
+#: Main.pas
+msgid "After all transfers completed"
+msgstr "หลังจากเคลื่อนย้ายข้อมูลเสร็จทั้งหมด"
+
+#: Main.pas
+msgid "After transfer completed"
+msgstr "หลังจากเคลื่อนย้ายข้อมูลเสร็จ"
+
+#: Constants.pas
+#. File list filter
+# INSTRUCTION: File list filter
+msgid "All files"
+msgstr "ไฟล์ทั้งหมด"
+
+#: FileList.pas
+msgid "All items"
+msgstr "ไฟล์ทั้งหมด"
+
+#: Main.pas
+#: Main.pas
+msgid "Always On Top"
+msgstr "อยู่เหนือหน้าต่างทุกโปรแกรม"
+
+#: Main.pas
+msgid "Always test after copy"
+msgstr "หลังจากคัดลอกเสร็จให้ทดสอบไฟล์ทุกครั้ง"
+
+#: Main.pas
+msgid "Associate TeraCopy with .sfv and .md5 files"
+msgstr "ให้ TeraCopy รองรับไฟล์นามสกุล .sfv และ .md5"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Bigger"
+msgstr "ใหญ่กว่า"
+
+#: PanelUI.pas
+#: PanelUI.pas
+msgid "Browse"
+msgstr "ค้นหา"
+
+#: Main.pas
+#: Main.pas
+#: FileList.pas
+msgid "Cancel"
+msgstr "ยกเลิก"
+
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Cancelled"
+msgstr "ถูกยกเลิก"
+
+#: Main.pas
+msgid "Check free space"
+msgstr "ตรวจสอบพื้นที่ว่างของดิสก์ก่อนคัดลอก"
+
+#: Main.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Close"
+msgstr "ปิด"
+
+#: Main.pas
+#: FileList.pas
+msgid "Close all panels"
+msgstr "ปิดแผงควบคุมทั้งหมด"
+
+#: Main.pas
+msgid "Close app"
+msgstr "ปิดโปรแกรม"
+
+#: Main.pas
+#: Main.pas
+msgid "Close panel"
+msgstr "ปิดแผงควบคุม"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Copy"
+msgstr "คัดลอก"
+
+#: Main.pas
+msgid "Create a new list"
+msgstr "สร้างรายการใหม่"
+
+#: FileList.pas
+msgid "Delete"
+msgstr "ลบ"
+
+#: FileList.pas
+#. second warning
+# INSTRUCTION: second warning
+msgid "Delete ALL files in the list?"
+msgstr "ลบไฟล์ทั้งหมดในรายการหรือไหม?"
+
+#: FileList.pas
+msgid "Delete from disk"
+msgstr "ลบออกจากดิสก์"
+
+#: FileList.pas
+msgid "Deselect all"
+msgstr "ยกเลิกทั้งหมด"
+
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Disk is full, please free up %s"
+msgstr "พื้นที่ไดร์ฟเต็ม กรุณาเคลียร์พื้นที่ %s"
+
+#: Main.pas
+#: Main.pas
+#: Main.pas
+#: FileList.pas
+msgid "Enter key"
+msgstr "กรอกรหัส"
+
+#: Main.pas
+msgid "Enter registration key"
+msgstr "กรอกรหัสลงทะเบียน"
+
+#: FileList.pas
+msgid "Error"
+msgstr "ผิดพลาด"
+
+#: FileList.pas
+msgid "Error creating folder"
+msgstr "เกิดข้อผิดพลาดในการสร้างโฟลเดอร์"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Error reading file"
+msgstr "เกิดข้อผิดพลาดในการอ่านไฟล์"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Error writing file"
+msgstr "เกิดข้อผิดพลาดในการเขียนไฟล์"
+
+#: Main.pas
+msgid "Expanded panel"
+msgstr "ขยายแผงควบคุม"
+
+#: Constants.pas
+#: FileList.pas
+#: FileList.pas
+#. File list filter
+# INSTRUCTION: File list filter
+msgid "Failed"
+msgstr "ล้มเหลว"
+
+#: FileList.pas
+#: FileList.pas
+msgid "File"
+msgstr "ไฟล์"
+
+#: FileList.pas
+msgid "File info"
+msgstr "ข้อมูลไฟล์"
+
+#: FileList.pas
+msgid "File is offline, waiting..."
+msgstr "ไฟล์ไม่ตอบสนอง รอสักครู่..."
+
+#: FileList.pas
+msgid "File is too large for this file system"
+msgstr "ไฟล์ใหย่เกินไปสำหรับไฟล์ระบบนี้"
+
+#: Constants.pas
+msgid "File list"
+msgstr "รายการไฟล์"
+
+#: FileList.pas
+#. multiple files
+# INSTRUCTION: multiple files
+msgid "File list contains %d items, select the operation"
+msgstr "รายการไฟล์มี %d ไฟล์ โปรดเลือกการดำเนินงาน"
+
+#: Main.pas
+msgid "File Managers Integration"
+msgstr "ระบบจัดการไฟล์แบบฝังตัว"
+
+#: FileList.pas
+#: FileList.pas
+#. folder
+# INSTRUCTION: folder
+msgid "Folder"
+msgstr "โฟลเดอร์"
+
+#: Main.pas
+msgid "Free for Home Users"
+msgstr "ฟรีสำหรับใช้ส่วนบุคคล"
+
+#: Main.pas
+#: Main.pas
+#: FileList.pas
+#. Buy Pro version
+# INSTRUCTION: Buy Pro version
+msgid "Get Pro version"
+msgstr "สั่งซื้อเวอร์ชั่น Pro"
+
+#: Main.pas
+msgid "Handle drag and drop files using left mouse button as well as copy and paste commands in Explorer."
+msgstr "แทนทีการคัดลอกแบบลากและวางเหมือนกับคำสั้ง Copy และ Paste ที่ใช้ในเอ็กซ์พอเรอร์"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Hash"
+msgstr "แฮช"
+
+#: FileList.pas
+msgid "Ignore"
+msgstr "ละเลย"
+
+#: Main.pas
+msgid "Interface"
+msgstr "หน้าตา"
+
+#: Constants.pas
+msgid "Keep both"
+msgstr "เก็บไว้ทั้งคู่"
+
+#: Main.pas
+#: Main.pas
+msgid "Keep panel open"
+msgstr "เปิดแผงควบคุมไว้"
+
+#: Constants.pas
+msgid "Log"
+msgstr "ประวัติ"
+
+#: PanelUI.pas
+#: PanelUI.pas
+#. menu
+# INSTRUCTION: menu
+msgid "Menu"
+msgstr "เมนู"
+
+#: Main.pas
+msgid "Misc"
+msgstr "อื่นๆ"
+
+#: Constants.pas
+#: FileList.pas
+#. replace dialog
+# INSTRUCTION: replace dialog
+msgid "More"
+msgstr "เพิ่มเติม"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Move"
+msgstr "ย้าย"
+
+#: FileList.pas
+msgid "Move to Recycle Bin"
+msgstr "ย้ายไปที่ถังขยะ"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Newer"
+msgstr "ใหม่กว่า"
+
+#: FileList.pas
+msgid "New file list"
+msgstr "รายการไฟล์ใหม่"
+
+#: Main.pas
+msgid "New list"
+msgstr "รายการใหม่"
+
+#: Main.pas
+#. no history
+# INSTRUCTION: no history
+msgid "No previous transfers"
+msgstr "ไม่มีประวัติเคลื่อนย้ายข้อมูล"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Not calculated"
+msgstr "ไม่ถูกคำนวณ"
+
+#: Main.pas
+msgid "Not registered for Commercial Use"
+msgstr "ไม่ได้ลงทะเบียนเพื่อการใช้เชิงพาณิชย์"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Older"
+msgstr "เก่ากว่า"
+
+#: Main.pas
+msgid "Only when Scroll Lock is OFF"
+msgstr "เมื่อปุ่ม Scroll Lock เป็น OFF เท่านั้น"
+
+#: FileList.pas
+msgid "Open file"
+msgstr "เปิดไฟล์"
+
+#: FileList.pas
+msgid "Open folder"
+msgstr "เปิดโฟลเดอร์"
+
+#: Main.pas
+msgid "Open main menu"
+msgstr "เปิดเมนูหลัก"
+
+#: Main.pas
+msgid "Open transfers history"
+msgstr "เปิดประวัติการเคลื่อนย้ายข้อมูล"
+
+#: Constants.pas
+#: Main.pas
+msgid "Options"
+msgstr "ตัวเลือก"
+
+#: Main.pas
+msgid "Order License"
+msgstr "สั่งซื้อลิขสิทธิ์"
+
+#: Constants.pas
+msgid "Overwrite"
+msgstr "เขียนทับ"
+
+#: Constants.pas
+msgid "Overwrite all"
+msgstr "เขียนทับทั้งหมด"
+
+#: Constants.pas
+#. replace dialog
+# INSTRUCTION: replace dialog
+msgid "Overwrite all older files"
+msgstr "เขียนทับไฟล์เก่ากว่าทั้งหมด"
+
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Pause"
+msgstr "หยุดชั่วคราว"
+
+#: FileList.pas
+msgid "Paused"
+msgstr "หยุดชั่วคราว"
+
+#: Main.pas
+msgid "Play sound when complete"
+msgstr "เล่นไฟล์เสียงเมื่อเสร็จสิ้น"
+
+#: Main.pas
+#: Main.pas
+#: FileList.pas
+msgid "Preferences"
+msgstr "การตั้งค่า"
+
+#: Main.pas
+msgid "Read how to add Copy and Move buttons to the Directory Opus."
+msgstr "อ่านวิธีการเพิ่มปุ่มคัดลอกและย้ายให้กับ Directory Opus."
+
+#: Main.pas
+msgid "Register Copy Handler"
+msgstr "ให้เป็นโปรแกรมคัดลอกมาตรฐาน"
+
+#: FileList.pas
+#. remove selected items from list
+# INSTRUCTION: remove selected items from list
+msgid "Remove selected"
+msgstr "ลบที่เลือกไว้"
+
+#: FileList.pas
+msgid "Remove transferred"
+msgstr "ลบการเคลื่อนย้ายข้อมูล"
+
+#: Constants.pas
+msgid "Rename all copied files"
+msgstr "เปลี่ยนชื่อไฟล์ที่ถูกคัดลอกไว้ทั้งหมด"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Resume"
+msgstr "ดำเนินการต่อ"
+
+#: FileList.pas
+msgid "Same date"
+msgstr "วันเดียวกัน"
+
+#: FileList.pas
+msgid "Same size"
+msgstr "ขนาดเดียวกัน"
+
+#: FileList.pas
+#: FileList.pas
+#. save checksums file (e.g. *.md5)
+# INSTRUCTION: save checksums file (e.g. *.md5)
+msgid "Save Hash"
+msgstr "บันทึกค่าแฮช"
+
+#: FileList.pas
+msgid "Select"
+msgstr "เลือก"
+
+#: Main.pas
+msgid "Shell Integration"
+msgstr "การฝังตัวในเชลล์"
+
+#: Main.pas
+#: Main.pas
+msgid "Shutdown"
+msgstr "ปิดเครื่อง"
+
+#: FileList.pas
+msgid "Sizes mismatch"
+msgstr "ขนาดไม่ตรงกัน"
+
+#: Constants.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Skip"
+msgstr "ข้าม"
+
+#: Constants.pas
+msgid "Skip all"
+msgstr "ข้ามทั้งหมด"
+
+#: Constants.pas
+#: FileList.pas
+#: FileList.pas
+#. File list filter
+# INSTRUCTION: File list filter
+msgid "Skipped"
+msgstr "ถูกข้าม"
+
+#: FileList.pas
+msgid "Skip requested by user"
+msgstr "ถูกข้ามโดยผู้ใช้"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Smaller"
+msgstr "เล็กกว่า"
+
+#: FileList.pas
+#: FileList.pas
+#. source
+# INSTRUCTION: source
+msgid "Source"
+msgstr "ที่มา"
+
+#: FileList.pas
+#. space bar key
+# INSTRUCTION: space bar key
+msgid "Space"
+msgstr "พื้นที่"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Start Now"
+msgstr "เริ่มเดี๋ยวนี้"
+
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Stop"
+msgstr "หยุด"
+
+#: FileList.pas
+msgid "Stopped"
+msgstr "ถูกหยุด"
+
+#: FileList.pas
+msgid "Stop requested by user"
+msgstr "ถูกหยุดโดยผู้ใช้"
+
+#: Constants.pas
+#: FileList.pas
+#. File list filter
+# INSTRUCTION: File list filter
+msgid "Successful"
+msgstr "สำเร็จแล้ว"
+
+#: Constants.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#. target
+# INSTRUCTION: target
+msgid "Target"
+msgstr "เป้าหมาย"
+
+#: Utils.pas
+msgid "TB"
+msgstr "เทราไบต์"
+
+#: FileList.pas
+#: FileList.pas
+#. options sub-menu
+# INSTRUCTION: options sub-menu
+msgid "Test"
+msgstr "ทดสอบ"
+
+#: FileList.pas
+#: FileList.pas
+msgid "The file is available again, resuming transfer..."
+msgstr "ไฟล์พร้อมอีกครั้งแล้ว กำลังกลับมาเคลื่อนย้ายข้อมูล"
+
+#: FileList.pas
+#. options sub-menu
+# INSTRUCTION: options sub-menu
+msgid "Transfer"
+msgstr "การเคลื่อนย้าย"
+
+#: Main.pas
+msgid "Transfers history"
+msgstr "ประวัติเคลื่อนย้ายข้อมูล"
+
+#: Main.pas
+msgid "Unregister Copy Handler"
+msgstr "ยกเลิกการตั้งเป็นโปรแกรมคัดลอกมาตรฐาน "
+
+#: Main.pas
+msgid "Use TeraCopy as default copy handler"
+msgstr "ตั้งให้ TeraCopy เป็นโปรแกรมคัดลอกมาตรฐาน "
+
+#: FileList.pas
+#: FileList.pas
+#: PanelUI.pas
+#: PanelUI.pas
+#. Verify
+# INSTRUCTION: Verify
+msgid "Verify"
+msgstr "ตรวจสอบ"
+
+#: FileList.pas
+msgid "Wipe data"
+msgstr "ล้างข้อมูล"
+

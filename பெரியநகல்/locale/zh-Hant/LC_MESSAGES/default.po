@@ -1,0 +1,957 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TeraCopy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-10 10:22:20 UTC\n"
+"PO-Revision-Date: 2017-06-02 14:00:54 UTC\n"
+"Last-Translator: Web Translate It <support@webtranslateit.com>\n"
+"Language: zh-Hant\n"
+"Language-Team: Chinese (Traditional Han)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: WebTranslateIt.com\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: Main.pas
+#: FileList.pas
+msgid "About"
+msgstr "關於"
+
+#: FileList.pas
+msgid "Add files"
+msgstr "新增檔案"
+
+#: FileList.pas
+msgid "Add folders"
+msgstr "新增資料夾"
+
+#: FileList.pas
+msgid "Adding files [%d]..."
+msgstr "添加檔案 [%d]…"
+
+#: Main.pas
+msgid "Adds Copy and Move buttons to the Total Commander default buttons bar."
+msgstr "增加複製和移動按鈕至 Total Commander 預設按鈕列"
+
+#: Main.pas
+msgid "Add to Explorer context menu"
+msgstr "增加至右鍵選單"
+
+#: Main.pas
+msgid "After all transfers completed"
+msgstr "全部的傳輸完成後"
+
+#: Main.pas
+msgid "After transfer completed"
+msgstr "傳輸完成後"
+
+#: Constants.pas
+#. File list filter
+# INSTRUCTION: File list filter
+msgid "All files"
+msgstr "所有檔案"
+
+#: FileList.pas
+msgid "All items"
+msgstr "全部項目"
+
+#: Main.pas
+#: Main.pas
+msgid "Always On Top"
+msgstr "總在最前方"
+
+#: Main.pas
+msgid "Always test after copy"
+msgstr "複製後總是測試"
+
+#: FileList.pas
+msgid "Applying attributes and removing folders..."
+msgstr "套用屬性並移除資料夾…"
+
+#: FileList.pas
+msgid "Applying folder attributes..."
+msgstr "套用資料夾屬性…"
+
+#: Main.pas
+msgid "Associate TeraCopy with .sfv and .md5 files"
+msgstr "將 .sfv 和 .md5 檔案關連至 TeraCopy"
+
+#. auto scroll checkbox
+# INSTRUCTION: auto scroll checkbox
+msgid "Auto-scroll"
+msgstr "自動捲動視窗"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Bigger"
+msgstr "大於"
+
+#: PanelUI.pas
+#: PanelUI.pas
+msgid "Browse"
+msgstr "瀏覽"
+
+#: Main.pas
+#: Main.pas
+#: FileList.pas
+msgid "Cancel"
+msgstr "取消"
+
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Cancelled"
+msgstr "已取消"
+
+#: Main.pas
+msgid "Check free space"
+msgstr "檢查可用空間"
+
+#: Main.pas
+msgid "Clean history now"
+msgstr "立刻清除紀錄"
+
+#: Main.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Close"
+msgstr "關閉"
+
+#: Main.pas
+#: FileList.pas
+msgid "Close all panels"
+msgstr "關閉所有面板"
+
+#: Main.pas
+msgid "Close app"
+msgstr "關閉應用程式"
+
+#: Main.pas
+#: Main.pas
+msgid "Close panel"
+msgstr "關閉面板"
+
+#: FileList.pas
+msgid "Compare skipped files?"
+msgstr "比較略過的檔案？"
+
+#: Main.pas
+msgid "Confirm drag and drop"
+msgstr "確認托放動作"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Copy"
+msgstr "複製"
+
+#: FileList.pas
+#. Copying N files to "target folder"
+# INSTRUCTION: Copying N files to "target folder"
+msgid "Copying %s to \"%s\"..."
+msgstr "複製 %s 到 \"%s\"…"
+
+#: Main.pas
+msgid "Create a new list"
+msgstr "新建一個清單"
+
+#: FileList.pas
+msgid "CSV (to import in Excel, etc)"
+msgstr "CSV (可在Excel中導入)"
+
+#: FileList.pas
+msgid "days"
+msgstr "天"
+
+#: FileList.pas
+msgid "Delete"
+msgstr "刪除"
+
+#: FileList.pas
+#. second warning
+# INSTRUCTION: second warning
+msgid "Delete ALL files in the list?"
+msgstr "刪除清單中的全部檔案？"
+
+#: FileList.pas
+msgid "Delete from disk"
+msgstr "從磁碟中刪除"
+
+#: FileList.pas
+#. Deleting N files
+# INSTRUCTION: Deleting N files
+msgid "Deleting %s..."
+msgstr "正在刪除 %s…"
+
+#: FileList.pas
+msgid "Deselect all"
+msgstr "取消所有選定"
+
+msgid "Destination File Already Exists"
+msgstr "目標檔案已存在"
+
+#: Main.pas
+msgid "Disable asynchronous file transfer"
+msgstr "關閉非同步檔案傳輸"
+
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Disk is full, please free up %s"
+msgstr "磁碟已滿，請把空間釋出 %s"
+
+#: FileList.pas
+#: FileView.pas
+#. idle state
+# INSTRUCTION: idle state
+msgid "Drag files or folders here"
+msgstr "拖拉檔案或資料夾到此處"
+
+#: Main.pas
+#: Main.pas
+#: Main.pas
+#: FileList.pas
+msgid "Enter key"
+msgstr "輸入註冊碼"
+
+#: Main.pas
+msgid "Enter registration key"
+msgstr "輸入註冊碼"
+
+#: FileList.pas
+msgid "Error"
+msgstr "錯誤"
+
+#: FileList.pas
+msgid "Error creating folder"
+msgstr "建立資料夾時發生錯誤"
+
+#: FileList.pas
+msgid "Error deleting file"
+msgstr "刪除檔案時發生錯誤"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Error reading file"
+msgstr "讀取檔案發生錯誤"
+
+#: FileList.pas
+#. errors count
+# INSTRUCTION: errors count
+msgid "Errors: %d."
+msgstr "錯誤：%d。"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Error writing file"
+msgstr "寫入檔案發生錯誤"
+
+#: Main.pas
+msgid "Expanded panel"
+msgstr "擴展面板"
+
+#: FileList.pas
+msgid "Expanded view"
+msgstr "擴展檢視"
+
+#: FileList.pas
+msgid "Export as"
+msgstr "導出為"
+
+#: FileList.pas
+msgid "Export only"
+msgstr "僅有導出"
+
+#: Constants.pas
+#: FileList.pas
+#: FileList.pas
+#. File list filter
+# INSTRUCTION: File list filter
+msgid "Failed"
+msgstr "失敗"
+
+#: FileList.pas
+#. Delete from disk
+# INSTRUCTION: Delete from disk
+msgid "Faster, hard to recover"
+msgstr "較快，不易還原"
+
+#: PanelUI.pas
+msgid "Favorites & recent"
+msgstr "我的最愛與最近項目"
+
+#: FileList.pas
+#: FileList.pas
+msgid "File"
+msgstr "檔案"
+
+#: FileList.pas
+msgid "File info"
+msgstr "檔案資訊"
+
+#: FileList.pas
+msgid "File is offline, waiting..."
+msgstr "檔案離線，等待中…"
+
+msgid "File is too large for this file system"
+msgstr "本檔案系統上此檔案太大"
+
+#: Constants.pas
+msgid "File list"
+msgstr "檔案清單"
+
+#: FileList.pas
+#. multiple files
+# INSTRUCTION: multiple files
+msgid "File list contains %d items, select the operation"
+msgstr "檔案清單包含 %d 個項目，選取動作"
+
+#: PanelUI.pas
+msgid "File managers"
+msgstr "檔案管理器"
+
+#: Main.pas
+msgid "File Managers Integration"
+msgstr "檔案管理器整合"
+
+#: FileList.pas
+msgid "File skipped"
+msgstr "已略過的檔案"
+
+#: FileList.pas
+#. Finished copying N files to "target folder".
+# INSTRUCTION: Finished copying N files to "target folder".
+msgid "Finished copying %s to \"%s\"."
+msgstr "完成複製 %s 到 \"%s\"。"
+
+#: FileList.pas
+#. Finished moving N files to "target folder".
+# INSTRUCTION: Finished moving N files to "target folder".
+msgid "Finished moving %s to \"%s\"."
+msgstr "完成移動 %s 到 \"%s\"。"
+
+#: FileList.pas
+#. Finished removing N files.
+# INSTRUCTION: Finished removing N files.
+msgid "Finished removing %s."
+msgstr "完成移除 %s。"
+
+#: FileList.pas
+#. Finished testing N files.
+# INSTRUCTION: Finished testing N files.
+msgid "Finished testing %s."
+msgstr "完成測試 %s。"
+
+#: FileList.pas
+#. Finished verifying N files in "target folder".
+# INSTRUCTION: Finished verifying N files in "target folder".
+msgid "Finished verifying %s in \"%s\"."
+msgstr "完成驗證 %s 在 \"%s\"。"
+
+#: FileList.pas
+#: FileList.pas
+#. folder
+# INSTRUCTION: folder
+msgid "Folder"
+msgstr "資料夾"
+
+#: Main.pas
+msgid "Free for Home Users"
+msgstr "一般家庭使用者免費"
+
+#: Utils.pas
+msgid "GB"
+msgstr "GB"
+
+#: Main.pas
+#: Main.pas
+#: FileList.pas
+#. Buy Pro version
+# INSTRUCTION: Buy Pro version
+msgid "Get Pro version"
+msgstr "取得專業版"
+
+#: Main.pas
+msgid "Handle drag and drop files using left mouse button as well as copy and paste commands in Explorer."
+msgstr "使用滑鼠左鍵處理拖放檔案，如同於檔案總管的複製和貼上指令。"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Hash"
+msgstr "Hash"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Hashes mismatch"
+msgstr "Hash值有異"
+
+#: Main.pas
+#: Main.pas
+msgid "Hibernate"
+msgstr "休眠"
+
+#: FileList.pas
+msgid "hours"
+msgstr "時"
+
+#: FileList.pas
+msgid "HTML (with sortable columns)"
+msgstr "HTML (包含可排序的欄位)"
+
+#: FileList.pas
+msgid "Ignore"
+msgstr "忽略"
+
+#: Main.pas
+msgid "Interface"
+msgstr "介面"
+
+#: FileList.pas
+msgid "Inverse selection"
+msgstr "反選"
+
+#: Utils.pas
+#: Utils.pas
+msgid "KB"
+msgstr "KB"
+
+#: Main.pas
+msgid "Keep app open"
+msgstr "保持應用程式開啟"
+
+#: Constants.pas
+msgid "Keep both"
+msgstr "兩者皆保存"
+
+msgid "Keep history for 1 day"
+msgstr "僅保存一天的紀錄"
+
+msgid "Keep history for 1 week"
+msgstr "僅保存一週的紀錄"
+
+#: Main.pas
+#: Main.pas
+msgid "Keep panel open"
+msgstr "保持面板開啟"
+
+#: Main.pas
+#: FileList.pas
+msgid "Large progress bar"
+msgstr "大型進度條"
+
+#: Constants.pas
+msgid "Log"
+msgstr "日誌"
+
+#: Utils.pas
+#: Utils.pas
+msgid "MB"
+msgstr "MB"
+
+#: PanelUI.pas
+#: PanelUI.pas
+#. menu
+# INSTRUCTION: menu
+msgid "Menu"
+msgstr "功能選單"
+
+#: PanelUI.pas
+msgid "Message"
+msgstr "訊息"
+
+#: FileList.pas
+#. minutes
+# INSTRUCTION: minutes
+msgid "min"
+msgstr "分"
+
+#: Main.pas
+msgid "Misc"
+msgstr "雜項"
+
+#: Constants.pas
+#: FileList.pas
+#. replace dialog
+# INSTRUCTION: replace dialog
+msgid "More"
+msgstr "更多"
+
+#: FileList.pas
+#. more options in file replace dialog
+# INSTRUCTION: more options in file replace dialog
+msgid "More options, applicable to all files"
+msgstr "更多選項，適用於所有檔案"
+
+#: FileList.pas
+msgid "More space is required: %s"
+msgstr "需要更多儲存空間：%s"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Move"
+msgstr "移動"
+
+#: FileList.pas
+msgid "Move to Recycle Bin"
+msgstr "移到資源回收桶"
+
+#: FileList.pas
+#. Moving N files to "target folder"
+# INSTRUCTION: Moving N files to "target folder"
+msgid "Moving %s to \"%s\"..."
+msgstr "正在移動 %s 到 \"%s\"…"
+
+#: Main.pas
+#. history options
+# INSTRUCTION: history options
+msgid "Never keep history"
+msgstr "永遠不要保存紀錄"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Newer"
+msgstr "較新"
+
+#: FileList.pas
+msgid "New file list"
+msgstr "新檔案清單"
+
+#: Main.pas
+msgid "New list"
+msgstr "新清單"
+
+msgid "No checksums are available, please copy or test files first."
+msgstr "沒有可用的校驗值，請先複製或測試檔案。"
+
+msgid "No items. Remove filters to see all files."
+msgstr "沒有項目，移除過濾器以檢視全部檔案。"
+
+#: Main.pas
+#. no history
+# INSTRUCTION: no history
+msgid "No previous transfers"
+msgstr "沒有之前的傳輸紀錄"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Not calculated"
+msgstr "未計算"
+
+#: Main.pas
+msgid "Not registered for Commercial Use"
+msgstr "未註冊為商業使用"
+
+#: FileList.pas
+msgid "OK"
+msgstr "確認"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Older"
+msgstr "較舊"
+
+#: Main.pas
+#. bottom toolbar
+# INSTRUCTION: bottom toolbar
+msgid "On finish"
+msgstr "完成時"
+
+#: Main.pas
+msgid "Only when Scroll Lock is OFF"
+msgstr "僅在 Scroll Lock 關閉時"
+
+#: FileList.pas
+msgid "Open file"
+msgstr "開啟檔案"
+
+#: FileList.pas
+msgid "Open folder"
+msgstr "開啟資料夾"
+
+msgid "Opening via service:"
+msgstr "正經由服務開啟："
+
+#: Main.pas
+msgid "Open main menu"
+msgstr "開啟主選單"
+
+#: Main.pas
+msgid "Open transfers history"
+msgstr "開啟傳輸紀錄"
+
+#: Constants.pas
+#: Main.pas
+msgid "Options"
+msgstr "選項"
+
+#: Main.pas
+msgid "Order License"
+msgstr "訂購授權"
+
+#: Constants.pas
+msgid "Overwrite"
+msgstr "覆蓋"
+
+#: Constants.pas
+msgid "Overwrite all"
+msgstr "全部覆蓋"
+
+#: Constants.pas
+#. replace dialog
+# INSTRUCTION: replace dialog
+msgid "Overwrite all older files"
+msgstr "覆蓋全部舊檔"
+
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Pause"
+msgstr "暫停"
+
+#: FileList.pas
+msgid "Paused"
+msgstr "暫停"
+
+#: Main.pas
+msgid "Play sound when complete"
+msgstr "完成後播放音效"
+
+#: Main.pas
+#: Main.pas
+#: FileList.pas
+msgid "Preferences"
+msgstr "偏好設定"
+
+#: FileList.pas
+#: FileList.pas
+#. export dialog
+# INSTRUCTION: export dialog
+msgid "Print/export"
+msgstr "列印/導出"
+
+#: Constants.pas
+msgid "Prompt on filename collision"
+msgstr "檔名衝突時提示"
+
+#: Main.pas
+msgid "Read how to add Copy and Move buttons to the Directory Opus."
+msgstr "閱讀如何增加複製和移動按鈕至目錄中"
+
+#: FileList.pas
+#. Recycling N files
+# INSTRUCTION: Recycling N files
+msgid "Recycling %s..."
+msgstr "正在移到資源回收桶 %s…"
+
+#: Main.pas
+msgid "Register Copy Handler"
+msgstr "註冊複製處理器"
+
+#: FileList.pas
+#. remove selected items from list
+# INSTRUCTION: remove selected items from list
+msgid "Remove selected"
+msgstr "移除已選定"
+
+#: FileList.pas
+msgid "Remove transferred"
+msgstr "移除已傳輸"
+
+msgid "Rename all copied files"
+msgstr "更名全部已複製的檔案"
+
+msgid "Rename all older target files"
+msgstr "將目標較舊的檔案全部更名"
+
+#: Constants.pas
+msgid "Rename all target files"
+msgstr "更名全部目的檔案名"
+
+#: Constants.pas
+msgid "Replace all files if size different"
+msgstr "檔案大小不同時覆蓋所有檔案"
+
+#: Constants.pas
+msgid "Replace all smaller files"
+msgstr "覆蓋全部較小的檔案"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Resume"
+msgstr "繼續"
+
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#. seconds
+# INSTRUCTION: seconds
+msgid "s"
+msgstr "秒"
+
+#: FileList.pas
+msgid "Same date"
+msgstr "相同日期"
+
+#. select
+# INSTRUCTION: select
+msgid "Same extension"
+msgstr "相同附檔名"
+
+#: FileList.pas
+#. select
+# INSTRUCTION: select
+msgid "Same folder"
+msgstr "同一資料夾"
+
+#: FileList.pas
+msgid "Same size"
+msgstr "相同大小"
+
+#: PanelUI.pas
+msgid "Save checksum file on finish"
+msgstr "完成時儲存校驗檔"
+
+#: FileList.pas
+msgid "Save checksums"
+msgstr "儲存校驗檔"
+
+#: FileList.pas
+#: FileList.pas
+#. save checksums file (e.g. *.md5)
+# INSTRUCTION: save checksums file (e.g. *.md5)
+msgid "Save Hash"
+msgstr "儲存Hash"
+
+#: FileList.pas
+msgid "Select"
+msgstr "選擇"
+
+msgid "Select target to continue operation"
+msgstr "選取目標來繼續動作"
+
+#: FileList.pas
+#. single file name
+# INSTRUCTION: single file name
+msgid "Select the operation for \"%s\""
+msgstr "為 \"%s\" 選取動作"
+
+#: FileList.pas
+#: FileList.pas
+msgid "%s hash file is saved to:"
+msgstr "%s hash檔已儲存在："
+
+#: FileList.pas
+#. compare with hash in clipboard
+# INSTRUCTION: compare with hash in clipboard
+msgid "%s hash in Clipboard matches"
+msgstr "與剪貼簿的hash值 %s 相符"
+
+#: Main.pas
+msgid "Shell Integration"
+msgstr "右鍵選單整合"
+
+#: Main.pas
+#: Main.pas
+msgid "Shutdown"
+msgstr "關機"
+
+#: FileList.pas
+msgid "Sizes mismatch"
+msgstr "檔案大小不相符"
+
+#: Constants.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Skip"
+msgstr "略過"
+
+msgid "Skip all"
+msgstr "全部略過"
+
+#: FileList.pas
+#. replace dialog, auto-select Skip all button in N seconds
+# INSTRUCTION: replace dialog, auto-select Skip all button in N seconds
+msgid "skip all in %d s"
+msgstr "%d 秒後自動全部略過"
+
+#: Constants.pas
+#: FileList.pas
+#: FileList.pas
+#. File list filter
+# INSTRUCTION: File list filter
+msgid "Skipped"
+msgstr "已略過"
+
+#: FileList.pas
+#. skipped files count
+# INSTRUCTION: skipped files count
+msgid "Skipped: %d."
+msgstr "略過：%d。"
+
+msgid "Skip requested by user"
+msgstr "使用者要求略過的"
+
+#: Main.pas
+#: Main.pas
+msgid "Sleep"
+msgstr "睡眠"
+
+#: FileList.pas
+#. Move to Recycle Bin
+# INSTRUCTION: Move to Recycle Bin
+msgid "Slower, easy to recover"
+msgstr "較慢，容易還原"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Smaller"
+msgstr "小於"
+
+#: FileList.pas
+#: FileList.pas
+#. source
+# INSTRUCTION: source
+msgid "Source"
+msgstr "來源"
+
+msgid "Source is the same as target"
+msgstr "來源與目標相同"
+
+#. space bar key
+# INSTRUCTION: space bar key
+msgid "Space"
+msgstr "空格鍵"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Start Now"
+msgstr "立刻開始"
+
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Stop"
+msgstr "停止"
+
+#: FileList.pas
+msgid "Stopped"
+msgstr "已停止"
+
+msgid "Stop requested by user"
+msgstr "使用者要求停止的"
+
+#: Constants.pas
+#: FileList.pas
+#. File list filter
+# INSTRUCTION: File list filter
+msgid "Successful"
+msgstr "成功"
+
+msgid "target"
+msgstr "目標"
+
+#: Constants.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#. target
+# INSTRUCTION: target
+msgid "Target"
+msgstr "目標"
+
+#: Utils.pas
+msgid "TB"
+msgstr "TB"
+
+#: FileList.pas
+#: FileList.pas
+#. options sub-menu
+# INSTRUCTION: options sub-menu
+msgid "Test"
+msgstr "測試"
+
+#: FileList.pas
+#. Testing N files
+# INSTRUCTION: Testing N files
+msgid "Testing %s..."
+msgstr "正在測試 %s…"
+
+#: FileList.pas
+#: FileList.pas
+msgid "The file is available again, resuming transfer..."
+msgstr "檔案已可用，恢復續傳…"
+
+#: FileList.pas
+#. select
+# INSTRUCTION: select
+msgid "This item"
+msgstr "此項目"
+
+#: PanelUI.pas
+msgid "Time"
+msgstr "時間"
+
+#: FileList.pas
+#. options sub-menu
+# INSTRUCTION: options sub-menu
+msgid "Transfer"
+msgstr "傳輸"
+
+#: Main.pas
+msgid "Transfers history"
+msgstr "傳輸紀錄"
+
+#: FileList.pas
+msgid "Unattended"
+msgstr "無人值守"
+
+#: Main.pas
+msgid "Unregister Copy Handler"
+msgstr "註銷複製處理器"
+
+#: Main.pas
+msgid "Use TeraCopy as default copy handler"
+msgstr "使用 TeraCopy 作為預設複製處理器"
+
+#: FileList.pas
+#: FileList.pas
+#: PanelUI.pas
+#: PanelUI.pas
+#. Verify
+# INSTRUCTION: Verify
+msgid "Verify"
+msgstr "校驗"
+
+#: FileList.pas
+#. Verifying N files in "source folder"
+# INSTRUCTION: Verifying N files in "source folder"
+msgid "Verifying %s in \"%s\"..."
+msgstr "正在驗證 %s 位於 \"%s\"…"
+
+#: FileList.pas
+#. Wipe data
+# INSTRUCTION: Wipe data
+msgid "Very slow, one pass with random data, useless for solid state drives."
+msgstr "非常慢，一次性隨機寫入資料，對固態硬碟無效。"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Waiting for other transfers..."
+msgstr "等待其它傳輸..."
+
+#: FileList.pas
+msgid "Wipe data"
+msgstr "抹除資料"
+
+#: FileList.pas
+#. Wiping N files
+# INSTRUCTION: Wiping N files
+msgid "Wiping %s..."
+msgstr "正在抹除 %s…"

@@ -1,0 +1,512 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TeraCopy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-10 10:22:20 UTC\n"
+"PO-Revision-Date: 2017-05-15 16:12:42 UTC\n"
+"Last-Translator: Web Translate It <support@webtranslateit.com>\n"
+"Language: zh\n"
+"Language-Team: Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: WebTranslateIt.com\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: Main.pas
+#: FileList.pas
+msgid "About"
+msgstr "关于"
+
+#: FileList.pas
+msgid "Add files"
+msgstr "添加文件"
+
+#: FileList.pas
+msgid "Add folders"
+msgstr "添加文件夹"
+
+#: FileList.pas
+msgid "Adding files [%d]..."
+msgstr "正在添加文件 [%d]..."
+
+#: Constants.pas
+#. File list filter
+# INSTRUCTION: File list filter
+msgid "All files"
+msgstr "所有文件"
+
+#: FileList.pas
+msgid "All items"
+msgstr "所有项目"
+
+#: Main.pas
+#: Main.pas
+msgid "Always On Top"
+msgstr "总在最前面"
+
+#: PanelUI.pas
+#: PanelUI.pas
+msgid "Browse"
+msgstr "浏览"
+
+#: Main.pas
+#: Main.pas
+#: FileList.pas
+msgid "Cancel"
+msgstr "取消"
+
+#: Main.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Close"
+msgstr "关闭"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Copy"
+msgstr "复制"
+
+#: FileList.pas
+msgid "days"
+msgstr "天"
+
+#: FileList.pas
+msgid "Delete"
+msgstr "删除"
+
+#: Main.pas
+msgid "Enter registration key"
+msgstr "输入注册码"
+
+#: FileList.pas
+msgid "Error"
+msgstr "错误"
+
+#: FileList.pas
+msgid "Error creating folder"
+msgstr "创建文件夹时出错"
+
+#: FileList.pas
+msgid "Error deleting file"
+msgstr "删除文件时出错"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Error reading file"
+msgstr "读取文件时出错"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Error writing file"
+msgstr "写入文件时出错"
+
+#. File list filter
+# INSTRUCTION: File list filter
+msgid "Failed"
+msgstr "失败"
+
+#: FileList.pas
+#: FileList.pas
+msgid "File"
+msgstr "文件"
+
+#: Constants.pas
+msgid "File list"
+msgstr "文件列表"
+
+#: Main.pas
+msgid "File Managers Integration"
+msgstr "文件管理器集成"
+
+#: FileList.pas
+msgid "File skipped"
+msgstr "文件已跳过"
+
+#: FileList.pas
+#: FileList.pas
+#. folder
+# INSTRUCTION: folder
+msgid "Folder"
+msgstr "文件夹"
+
+#: Main.pas
+msgid "Free for Home Users"
+msgstr "免费为家庭用户"
+
+#: Main.pas
+#: Main.pas
+#: FileList.pas
+#. Buy Pro version
+# INSTRUCTION: Buy Pro version
+msgid "Get Pro version"
+msgstr "获得专业版本"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Hash"
+msgstr "哈希"
+
+#: FileList.pas
+msgid "hours"
+msgstr "小时"
+
+#: FileList.pas
+msgid "Ignore"
+msgstr "忽略"
+
+#: Main.pas
+msgid "Interface"
+msgstr "界面"
+
+#: FileList.pas
+msgid "Inverse selection"
+msgstr "反向选择"
+
+#: Main.pas
+msgid "Keep app open"
+msgstr "保持应用打开"
+
+#: Constants.pas
+msgid "Keep both"
+msgstr "保留两者"
+
+#: Main.pas
+#: Main.pas
+msgid "Keep panel open"
+msgstr "保持面板打开"
+
+#: Main.pas
+#: FileList.pas
+msgid "Large progress bar"
+msgstr "大进度条"
+
+#: Constants.pas
+msgid "Log"
+msgstr "日志"
+
+#: Utils.pas
+#: Utils.pas
+msgid "MB"
+msgstr "MB"
+
+#: PanelUI.pas
+#: PanelUI.pas
+#. menu
+# INSTRUCTION: menu
+msgid "Menu"
+msgstr "菜单"
+
+#: FileList.pas
+#. minutes
+# INSTRUCTION: minutes
+msgid "min"
+msgstr "分钟"
+
+#: Constants.pas
+#: FileList.pas
+#. replace dialog
+# INSTRUCTION: replace dialog
+msgid "More"
+msgstr "更多"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Move"
+msgstr "移动"
+
+#: FileList.pas
+msgid "Move to Recycle Bin"
+msgstr "移动到回收站"
+
+#: FileList.pas
+#. Moving N files to "target folder"
+# INSTRUCTION: Moving N files to "target folder"
+msgid "Moving %s to \"%s\"..."
+msgstr "正在移动 %s 到 \"%s“..."
+
+#: Main.pas
+#. history options
+# INSTRUCTION: history options
+msgid "Never keep history"
+msgstr "永不保留历史"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Newer"
+msgstr "更新的"
+
+#: FileList.pas
+msgid "New file list"
+msgstr "新文件列表"
+
+#: Main.pas
+msgid "New list"
+msgstr "新列表"
+
+#: FileList.pas
+msgid "OK"
+msgstr "确定"
+
+#: FileList.pas
+msgid "Open file"
+msgstr "打开文件"
+
+#: FileList.pas
+msgid "Open folder"
+msgstr "打开文件夹"
+
+#: Main.pas
+msgid "Open main menu"
+msgstr "打开主菜单"
+
+#: Constants.pas
+#: Main.pas
+msgid "Options"
+msgstr "选项"
+
+#: Main.pas
+msgid "Order License"
+msgstr "订购许可证"
+
+#: Constants.pas
+msgid "Overwrite"
+msgstr "覆盖"
+
+#: Constants.pas
+msgid "Overwrite all"
+msgstr "覆盖所有"
+
+#: Constants.pas
+#. replace dialog
+# INSTRUCTION: replace dialog
+msgid "Overwrite all older files"
+msgstr "覆盖所有旧文件"
+
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Pause"
+msgstr "暂停"
+
+#: FileList.pas
+msgid "Paused"
+msgstr "暂停"
+
+#: Main.pas
+msgid "Play sound when complete"
+msgstr "完成时播放声音"
+
+#: Main.pas
+#: Main.pas
+#: FileList.pas
+msgid "Preferences"
+msgstr "首选项"
+
+#: FileList.pas
+#: FileList.pas
+#. export dialog
+# INSTRUCTION: export dialog
+msgid "Print/export"
+msgstr "打印/导出"
+
+#: Main.pas
+msgid "Register Copy Handler"
+msgstr "注册复制处理程序"
+
+#: FileList.pas
+#. remove selected items from list
+# INSTRUCTION: remove selected items from list
+msgid "Remove selected"
+msgstr "移除选定的"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Resume"
+msgstr "恢复"
+
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#. seconds
+# INSTRUCTION: seconds
+msgid "s"
+msgstr "秒"
+
+#: FileList.pas
+#: FileList.pas
+#. save checksums file (e.g. *.md5)
+# INSTRUCTION: save checksums file (e.g. *.md5)
+msgid "Save Hash"
+msgstr "保存哈希"
+
+#: FileList.pas
+msgid "Select"
+msgstr "选择"
+
+#: FileList.pas
+msgid "Select target to continue operation"
+msgstr "选择目标继续操作"
+
+#: Main.pas
+msgid "Shell Integration"
+msgstr "外壳集成"
+
+#: Main.pas
+#: Main.pas
+msgid "Shutdown"
+msgstr "关机"
+
+#: FileList.pas
+msgid "Sizes mismatch"
+msgstr "大小不匹配"
+
+#: Constants.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Skip"
+msgstr "跳过"
+
+#: Constants.pas
+msgid "Skip all"
+msgstr "跳过所有"
+
+#: Constants.pas
+#: FileList.pas
+#: FileList.pas
+#. File list filter
+# INSTRUCTION: File list filter
+msgid "Skipped"
+msgstr "已跳过"
+
+#: FileList.pas
+#. skipped files count
+# INSTRUCTION: skipped files count
+msgid "Skipped: %d."
+msgstr "正在跳过: %d."
+
+#: FileList.pas
+msgid "Skip requested by user"
+msgstr "用户请求跳过"
+
+#: FileList.pas
+#: FileList.pas
+#. source
+# INSTRUCTION: source
+msgid "Source"
+msgstr "源"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Start Now"
+msgstr "现在开始"
+
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Stop"
+msgstr "停止"
+
+#: FileList.pas
+msgid "Stopped"
+msgstr "已停止"
+
+#: FileList.pas
+msgid "Stop requested by user"
+msgstr "用户请求停止"
+
+#: Constants.pas
+#: FileList.pas
+#. File list filter
+# INSTRUCTION: File list filter
+msgid "Successful"
+msgstr "成功"
+
+#: Constants.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#. target
+# INSTRUCTION: target
+msgid "Target"
+msgstr "目标"
+
+#: FileList.pas
+msgid "target"
+msgstr "目标"
+
+#: Utils.pas
+msgid "TB"
+msgstr "TB"
+
+#: FileList.pas
+#: FileList.pas
+#. options sub-menu
+# INSTRUCTION: options sub-menu
+msgid "Test"
+msgstr "测试"
+
+#: FileList.pas
+#. Testing N files
+# INSTRUCTION: Testing N files
+msgid "Testing %s..."
+msgstr "正在测试 %s..."
+
+#: FileList.pas
+#: FileList.pas
+msgid "The file is available again, resuming transfer..."
+msgstr "文件再次可用, 恢复传输..."
+
+#: FileList.pas
+#. select
+# INSTRUCTION: select
+msgid "This item"
+msgstr "此项目"
+
+#: PanelUI.pas
+msgid "Time"
+msgstr "时间"
+
+#: FileList.pas
+#. options sub-menu
+# INSTRUCTION: options sub-menu
+msgid "Transfer"
+msgstr "传输"
+
+#: Main.pas
+msgid "Transfers history"
+msgstr "传输历史"
+
+#: Main.pas
+msgid "Unregister Copy Handler"
+msgstr "注销复制处理程序"
+
+#: Main.pas
+msgid "Use TeraCopy as default copy handler"
+msgstr "使用 TeraCopy 作为默认的复制处理程序"
+
+#: FileList.pas
+#: FileList.pas
+#: PanelUI.pas
+#: PanelUI.pas
+#. Verify
+# INSTRUCTION: Verify
+msgid "Verify"
+msgstr "校验"
+
+#: FileList.pas
+msgid "Wipe data"
+msgstr "擦除数据"
+
+#: FileList.pas
+#. Wiping N files
+# INSTRUCTION: Wiping N files
+msgid "Wiping %s..."
+msgstr "正在擦除 %s..."

@@ -1,0 +1,988 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TeraCopy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-10 10:22:20 UTC\n"
+"PO-Revision-Date: 2017-05-28 00:57:04 UTC\n"
+"Last-Translator: Web Translate It <support@webtranslateit.com>\n"
+"Language: ko\n"
+"Language-Team: coréen\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: WebTranslateIt.com\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: Main.pas
+#: FileList.pas
+msgid "About"
+msgstr "이 프로그램은"
+
+#: FileList.pas
+msgid "Add files"
+msgstr "파일 추가"
+
+#: FileList.pas
+msgid "Add folders"
+msgstr "폴더 추가"
+
+#: FileList.pas
+msgid "Adding files [%d]..."
+msgstr "파일 추가중 [%d}......"
+
+#: Main.pas
+msgid "Adds Copy and Move buttons to the Total Commander default buttons bar."
+msgstr "탐색기의 기본 도구 모음에 복사와 붙여넣기 단추를 추가합니다."
+
+#: Main.pas
+msgid "Add to Explorer context menu"
+msgstr "탐색기 메뉴에 추가"
+
+#: Main.pas
+msgid "After all transfers completed"
+msgstr "모든 전송이 완료된 후"
+
+#: Main.pas
+msgid "After transfer completed"
+msgstr "전송이 완료된 후"
+
+#: Constants.pas
+#. File list filter
+# INSTRUCTION: File list filter
+msgid "All files"
+msgstr "모든 파일"
+
+#: FileList.pas
+msgid "All items"
+msgstr "모든 항목"
+
+#: Main.pas
+#: Main.pas
+msgid "Always On Top"
+msgstr "항상 위에"
+
+#: Main.pas
+msgid "Always test after copy"
+msgstr "파일을 복사한 후에는 항상 검사하기"
+
+#: FileList.pas
+msgid "Applying attributes and removing folders..."
+msgstr "속성을 적용하고 폴더를 제거 중......"
+
+#: FileList.pas
+msgid "Applying folder attributes..."
+msgstr "폴더 속성을 적용하는 중......"
+
+#: Main.pas
+msgid "Associate TeraCopy with .sfv and .md5 files"
+msgstr ".sfv 와 .md5 확장자를 테라카피에 연결"
+
+#: PanelUI.pas
+#: PanelUI.pas
+#. auto scroll checkbox
+# INSTRUCTION: auto scroll checkbox
+msgid "Auto-scroll"
+msgstr "자동 스크롤"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Bigger"
+msgstr "클 경우"
+
+#: PanelUI.pas
+#: PanelUI.pas
+msgid "Browse"
+msgstr "찾아보기"
+
+#: Main.pas
+#: Main.pas
+#: FileList.pas
+msgid "Cancel"
+msgstr "취소"
+
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Cancelled"
+msgstr "취소됨"
+
+#: Main.pas
+msgid "Check free space"
+msgstr "빈 공간 크기를 확인"
+
+#: Main.pas
+msgid "Clean history now"
+msgstr "기록 지금 지우기"
+
+#: Main.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Close"
+msgstr "닫기"
+
+#: Main.pas
+#: FileList.pas
+msgid "Close all panels"
+msgstr "모든 패널 닫기"
+
+#: Main.pas
+msgid "Close app"
+msgstr "프로그램 닫기"
+
+#: Main.pas
+#: Main.pas
+msgid "Close panel"
+msgstr "패널 닫음"
+
+#: FileList.pas
+msgid "Compare skipped files?"
+msgstr "건너뛰기한 파일을 검사합니까?"
+
+#: Main.pas
+msgid "Confirm drag and drop"
+msgstr "드래그 앤 드롭시 확인"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Copy"
+msgstr "복사"
+
+#: FileList.pas
+#. Copying N files to "target folder"
+# INSTRUCTION: Copying N files to "target folder"
+msgid "Copying %s to \"%s\"..."
+msgstr "%s 를 \"%s\" 에 복사중......"
+
+#: Main.pas
+msgid "Create a new list"
+msgstr "새 목록 만들기"
+
+#: FileList.pas
+msgid "CSV (to import in Excel, etc)"
+msgstr "CSV (엑셀에서 가져오기 가능하거나, 그 외)"
+
+#: FileList.pas
+msgid "days"
+msgstr "일"
+
+#: FileList.pas
+msgid "Delete"
+msgstr "삭제"
+
+#: FileList.pas
+#. second warning
+# INSTRUCTION: second warning
+msgid "Delete ALL files in the list?"
+msgstr "목록에 있는 모든 파일을 삭제 하시겠습니까?"
+
+#: FileList.pas
+msgid "Delete from disk"
+msgstr "디스크에서 삭제"
+
+#: FileList.pas
+#. Deleting N files
+# INSTRUCTION: Deleting N files
+msgid "Deleting %s..."
+msgstr "%s 삭제 중......"
+
+#: FileList.pas
+msgid "Deselect all"
+msgstr "선택 모두 해제"
+
+#: FileList.pas
+msgid "Destination File Already Exists"
+msgstr "목적지에 파일이 이미 존재함"
+
+#: Main.pas
+msgid "Disable asynchronous file transfer"
+msgstr "비동기 파일 전송 끄기"
+
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Disk is full, please free up %s"
+msgstr "디스크가 가득찼습니다, %s 만큼 비워주세요"
+
+#: FileList.pas
+#: FileView.pas
+#. idle state
+# INSTRUCTION: idle state
+msgid "Drag files or folders here"
+msgstr "파일이나 폴더를 여기로 드래그 하십시오"
+
+#: Main.pas
+#: Main.pas
+#: Main.pas
+#: FileList.pas
+msgid "Enter key"
+msgstr "등록키 입력"
+
+#: Main.pas
+msgid "Enter registration key"
+msgstr "등록 키 입력"
+
+#: FileList.pas
+msgid "Error"
+msgstr "오류"
+
+#: FileList.pas
+msgid "Error creating folder"
+msgstr "폴더 생성 중 오류"
+
+#: FileList.pas
+msgid "Error deleting file"
+msgstr "파일 삭제 오류"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Error reading file"
+msgstr "파일 읽기 오류"
+
+#: FileList.pas
+#. errors count
+# INSTRUCTION: errors count
+msgid "Errors: %d."
+msgstr "오류: %d."
+
+#: FileList.pas
+#: FileList.pas
+msgid "Error writing file"
+msgstr "파일 기록 중 오류"
+
+#: Main.pas
+msgid "Expanded panel"
+msgstr "패널 확장하기"
+
+#: FileList.pas
+msgid "Expanded view"
+msgstr "세부사항 보기"
+
+#: FileList.pas
+msgid "Export as"
+msgstr "다음으로 내보내기"
+
+#: FileList.pas
+msgid "Export only"
+msgstr "내보내기 만 하기"
+
+#: Constants.pas
+#: FileList.pas
+#: FileList.pas
+#. File list filter
+# INSTRUCTION: File list filter
+msgid "Failed"
+msgstr "실패함"
+
+#: FileList.pas
+#. Delete from disk
+# INSTRUCTION: Delete from disk
+msgid "Faster, hard to recover"
+msgstr "빠름, 복구가 어렵습니다."
+
+#: PanelUI.pas
+msgid "Favorites & recent"
+msgstr "즐겨찾기 및 최근"
+
+#: FileList.pas
+#: FileList.pas
+msgid "File"
+msgstr "파일"
+
+#: FileList.pas
+msgid "File info"
+msgstr "파일 정보"
+
+#: FileList.pas
+msgid "File is offline, waiting..."
+msgstr "파일 상태가 오프라인입니다, 기다리는 중......."
+
+#: FileList.pas
+msgid "File is too large for this file system"
+msgstr "이 파일 시스템에 복사하기에는 파일이 너무 큽니다."
+
+#: Constants.pas
+msgid "File list"
+msgstr "파일 목록"
+
+#: FileList.pas
+#. multiple files
+# INSTRUCTION: multiple files
+msgid "File list contains %d items, select the operation"
+msgstr "파일 리스트에 %d 항목이 있습니다, 조치를 선택하십시오"
+
+#: PanelUI.pas
+msgid "File managers"
+msgstr "파일 관리자"
+
+#: Main.pas
+msgid "File Managers Integration"
+msgstr "파일 관리자 통합"
+
+#: FileList.pas
+msgid "File skipped"
+msgstr "파일 건너뜀"
+
+#: FileList.pas
+#. Finished copying N files to "target folder".
+# INSTRUCTION: Finished copying N files to "target folder".
+msgid "Finished copying %s to \"%s\"."
+msgstr "%s 로부터 \"%s\" 로의 복사가 끝났습니다."
+
+#: FileList.pas
+#. Finished moving N files to "target folder".
+# INSTRUCTION: Finished moving N files to "target folder".
+msgid "Finished moving %s to \"%s\"."
+msgstr "%s 로부터 \"%s\" 로의 이동이 끝났습니다."
+
+#: FileList.pas
+#. Finished removing N files.
+# INSTRUCTION: Finished removing N files.
+msgid "Finished removing %s."
+msgstr "%s 의 제거가 끝났습니다."
+
+#: FileList.pas
+#. Finished testing N files.
+# INSTRUCTION: Finished testing N files.
+msgid "Finished testing %s."
+msgstr "%s 의 검사가 끝났습니다."
+
+#: FileList.pas
+#. Finished verifying N files in "target folder".
+# INSTRUCTION: Finished verifying N files in "target folder".
+msgid "Finished verifying %s in \"%s\"."
+msgstr "\"%s\" 에 있는 %s 의 검증이 끝났습니다."
+
+#: FileList.pas
+#: FileList.pas
+#. folder
+# INSTRUCTION: folder
+msgid "Folder"
+msgstr "폴더"
+
+#: Main.pas
+msgid "Free for Home Users"
+msgstr "가정용 사용자에 대해서 무료"
+
+#: Utils.pas
+msgid "GB"
+msgstr "기가바이트"
+
+#: Main.pas
+#: Main.pas
+#: FileList.pas
+#. Buy Pro version
+# INSTRUCTION: Buy Pro version
+msgid "Get Pro version"
+msgstr "프로 버전 구매"
+
+#: Main.pas
+msgid "Handle drag and drop files using left mouse button as well as copy and paste commands in Explorer."
+msgstr "탐색기의 복사, 붙여넣기 명령과 왼쪽 마우스를 이용한 끌어다 놓기를 사용합니다."
+
+#: FileList.pas
+#: FileList.pas
+msgid "Hash"
+msgstr "해시"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Hashes mismatch"
+msgstr "해시 불일치"
+
+#: Main.pas
+#: Main.pas
+msgid "Hibernate"
+msgstr "최대 절전"
+
+#: FileList.pas
+msgid "hours"
+msgstr "시"
+
+#: FileList.pas
+msgid "HTML (with sortable columns)"
+msgstr "HTML (정렬 가능한 열)"
+
+#: FileList.pas
+msgid "Ignore"
+msgstr "무시"
+
+#: Main.pas
+msgid "Interface"
+msgstr "인터페이스"
+
+#: FileList.pas
+msgid "Inverse selection"
+msgstr "선택 반전"
+
+#: Utils.pas
+#: Utils.pas
+msgid "KB"
+msgstr "킬로바이트"
+
+#: Main.pas
+msgid "Keep app open"
+msgstr "프로그램 열린 상태로"
+
+#: Constants.pas
+msgid "Keep both"
+msgstr "모두 유지"
+
+#: Main.pas
+msgid "Keep history for 1 day"
+msgstr "1일 동안 기록 유지"
+
+#: Main.pas
+msgid "Keep history for 1 week"
+msgstr "1주일 동안 기록 유지"
+
+#: Main.pas
+#: Main.pas
+msgid "Keep panel open"
+msgstr "패널 열린 상태 유지"
+
+#: Main.pas
+#: FileList.pas
+msgid "Large progress bar"
+msgstr "커다란 진행 바"
+
+#: Constants.pas
+msgid "Log"
+msgstr "로그"
+
+#: Utils.pas
+#: Utils.pas
+msgid "MB"
+msgstr "메가바이트"
+
+#: PanelUI.pas
+#: PanelUI.pas
+#. menu
+# INSTRUCTION: menu
+msgid "Menu"
+msgstr "메뉴"
+
+#: PanelUI.pas
+msgid "Message"
+msgstr "메세지"
+
+#: FileList.pas
+#. minutes
+# INSTRUCTION: minutes
+msgid "min"
+msgstr "분"
+
+#: Main.pas
+msgid "Misc"
+msgstr "기타"
+
+#: Constants.pas
+#: FileList.pas
+#. replace dialog
+# INSTRUCTION: replace dialog
+msgid "More"
+msgstr "더 보기"
+
+#: FileList.pas
+#. more options in file replace dialog
+# INSTRUCTION: more options in file replace dialog
+msgid "More options, applicable to all files"
+msgstr "모든 파일에 적용 가능한 추가 옵션"
+
+#: FileList.pas
+msgid "More space is required: %s"
+msgstr "더 많은 공간이 필요합니다: %s"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Move"
+msgstr "이동"
+
+#: FileList.pas
+msgid "Move to Recycle Bin"
+msgstr "휴지통으로 보내기"
+
+#: FileList.pas
+#. Moving N files to "target folder"
+# INSTRUCTION: Moving N files to "target folder"
+msgid "Moving %s to \"%s\"..."
+msgstr "%s 를 \"%s\" 로 이동 중......"
+
+#: Main.pas
+#. history options
+# INSTRUCTION: history options
+msgid "Never keep history"
+msgstr "기록 유지 안함"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Newer"
+msgstr "새로운 경우"
+
+#: FileList.pas
+msgid "New file list"
+msgstr "새 파일 목록"
+
+#: Main.pas
+msgid "New list"
+msgstr "새 목록"
+
+#: FileList.pas
+msgid "No checksums are available, please copy or test files first."
+msgstr "사용 가능한 체크섬이 없습니다. 먼저 파일 복사나 테스트를 해주십시오."
+
+#: FileView.pas
+msgid "No items. Remove filters to see all files."
+msgstr "항목이 없음. 모든 파일을 보려면 필터를 제거하세요."
+
+#: Main.pas
+#. no history
+# INSTRUCTION: no history
+msgid "No previous transfers"
+msgstr "전송 이력이 없습니다"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Not calculated"
+msgstr "계산 안됨"
+
+#: Main.pas
+msgid "Not registered for Commercial Use"
+msgstr "상업적 용도로 등록하지 않음"
+
+#: FileList.pas
+msgid "OK"
+msgstr "확인"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Older"
+msgstr "오래된 경우"
+
+#: Utils.pas
+msgid "Byte"
+msgid_plural "Bytes"
+msgstr[0] "{\"one\"=>\"바이트\", \"other\"=>\"바이트들\"}"
+
+#: FileList.pas
+msgid "Delete %d file from disk?"
+msgid_plural "Delete %d files from disk?"
+msgstr[0] "{\"one\"=>\"%d 파일을 디스크에서 삭제 하시겠습니까?\", \"other\"=>\"%d 파일들을 디스크에서 삭제 하시겠습니까?\"}"
+
+#: FileList.pas
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "{\"one\"=>\"%d 항목\", \"other\"=>\"%d 항목들\"}"
+
+#: Main.pas
+#. bottom toolbar
+# INSTRUCTION: bottom toolbar
+msgid "On finish"
+msgstr "완료시"
+
+#: Main.pas
+msgid "Only when Scroll Lock is OFF"
+msgstr "Scroll Lock이 해제되어 있을 때만"
+
+#: FileList.pas
+msgid "Open file"
+msgstr "파일 열기"
+
+#: FileList.pas
+msgid "Open folder"
+msgstr "폴더 열기"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Opening via service:"
+msgstr "서비스를 통해 여는 중:"
+
+#: Main.pas
+msgid "Open main menu"
+msgstr "주 메뉴 열기"
+
+#: Main.pas
+msgid "Open transfers history"
+msgstr "전송 기록 열기"
+
+#: Constants.pas
+#: Main.pas
+msgid "Options"
+msgstr "설정"
+
+#: Main.pas
+msgid "Order License"
+msgstr "라이센스 구입"
+
+#: Constants.pas
+msgid "Overwrite"
+msgstr "덮어쓰기"
+
+#: Constants.pas
+msgid "Overwrite all"
+msgstr "모두 덮어쓰기"
+
+#: Constants.pas
+#. replace dialog
+# INSTRUCTION: replace dialog
+msgid "Overwrite all older files"
+msgstr "오래된 파일 모두 덮어쓰기"
+
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Pause"
+msgstr "일시중지"
+
+#: FileList.pas
+msgid "Paused"
+msgstr "일시중지됨"
+
+#: Main.pas
+msgid "Play sound when complete"
+msgstr "완료 시 소리로 알림"
+
+#: Main.pas
+#: Main.pas
+#: FileList.pas
+msgid "Preferences"
+msgstr "설정"
+
+#: FileList.pas
+#: FileList.pas
+#. export dialog
+# INSTRUCTION: export dialog
+msgid "Print/export"
+msgstr "인쇄/내보내기"
+
+#: Constants.pas
+msgid "Prompt on filename collision"
+msgstr "파일이름 충돌시 확인하기"
+
+#: Main.pas
+msgid "Read how to add Copy and Move buttons to the Directory Opus."
+msgstr "Directory Opus에 복사와 붙여넣기 단추를 추가하는 방법"
+
+#: FileList.pas
+#. Recycling N files
+# INSTRUCTION: Recycling N files
+msgid "Recycling %s..."
+msgstr "%s 를 재활용 중:"
+
+#: Main.pas
+msgid "Register Copy Handler"
+msgstr "파일 복사 핸들러 등록"
+
+#: FileList.pas
+#. remove selected items from list
+# INSTRUCTION: remove selected items from list
+msgid "Remove selected"
+msgstr "선택된 것 제거"
+
+#: FileList.pas
+msgid "Remove transferred"
+msgstr "전송된 것 제거"
+
+#: Constants.pas
+msgid "Rename all copied files"
+msgstr "복사된 파일 모두 이름 바꿈"
+
+#: Constants.pas
+msgid "Rename all older target files"
+msgstr "오래된 대상 파일 모두 이름 바꿈"
+
+#: Constants.pas
+msgid "Rename all target files"
+msgstr "대상 파일 모두 이름 바꿈"
+
+#: Constants.pas
+msgid "Replace all files if size different"
+msgstr "크기가 다른 경우 모두 교체"
+
+#: Constants.pas
+msgid "Replace all smaller files"
+msgstr "크기가 작은 파일 모두 교체하기"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Resume"
+msgstr "계속"
+
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#. seconds
+# INSTRUCTION: seconds
+msgid "s"
+msgstr "초"
+
+msgid "Same date"
+msgstr "같은 날짜"
+
+#: FileList.pas
+#. select
+# INSTRUCTION: select
+msgid "Same extension"
+msgstr "같은 확장자"
+
+#: FileList.pas
+#. select
+# INSTRUCTION: select
+msgid "Same folder"
+msgstr "같은 폴더"
+
+msgid "Same size"
+msgstr "같은 크기"
+
+#: PanelUI.pas
+msgid "Save checksum file on finish"
+msgstr "완료시 체크섬 기록한 파일 저장"
+
+#: FileList.pas
+msgid "Save checksums"
+msgstr "체크섬 저장"
+
+#: FileList.pas
+#: FileList.pas
+#. save checksums file (e.g. *.md5)
+# INSTRUCTION: save checksums file (e.g. *.md5)
+msgid "Save Hash"
+msgstr "해시 저장"
+
+#: FileList.pas
+msgid "Select"
+msgstr "선택"
+
+#: FileList.pas
+msgid "Select target to continue operation"
+msgstr "동작을 계속하기 위해서는 목표를 선택하시오"
+
+#: FileList.pas
+#. single file name
+# INSTRUCTION: single file name
+msgid "Select the operation for \"%s\""
+msgstr "\"%s\" 의 조치를 선택하십시오"
+
+msgid "%s hash file is saved to:"
+msgstr "%s 해시 파일이 저장됨:"
+
+#: FileList.pas
+#. compare with hash in clipboard
+# INSTRUCTION: compare with hash in clipboard
+msgid "%s hash in Clipboard matches"
+msgstr "클립보드에 있는 %s 해시가 일치합니다."
+
+#: Main.pas
+msgid "Shell Integration"
+msgstr "쉘에 통합"
+
+#: Main.pas
+#: Main.pas
+msgid "Shutdown"
+msgstr "시스템 종료"
+
+#: FileList.pas
+msgid "Sizes mismatch"
+msgstr "파일크기가 일치하지 않습니다."
+
+#: Constants.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Skip"
+msgstr "건너뛰기"
+
+#: Constants.pas
+msgid "Skip all"
+msgstr "모두 건너뛰기"
+
+#: FileList.pas
+#. replace dialog, auto-select Skip all button in N seconds
+# INSTRUCTION: replace dialog, auto-select Skip all button in N seconds
+msgid "skip all in %d s"
+msgstr "모두 건너뛰기, 남은시간: %d s"
+
+#: Constants.pas
+#: FileList.pas
+#: FileList.pas
+#. File list filter
+# INSTRUCTION: File list filter
+msgid "Skipped"
+msgstr "건너뜀"
+
+#: FileList.pas
+#. skipped files count
+# INSTRUCTION: skipped files count
+msgid "Skipped: %d."
+msgstr "건너뜀: %d"
+
+#: FileList.pas
+msgid "Skip requested by user"
+msgstr "사용자에 의해 건너뛰기 요청됨"
+
+#: Main.pas
+#: Main.pas
+msgid "Sleep"
+msgstr "절전"
+
+#: FileList.pas
+#. Move to Recycle Bin
+# INSTRUCTION: Move to Recycle Bin
+msgid "Slower, easy to recover"
+msgstr "느림, 복구가 쉽습니다"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Smaller"
+msgstr "작을 경우"
+
+#: FileList.pas
+#: FileList.pas
+#. source
+# INSTRUCTION: source
+msgid "Source"
+msgstr "원본"
+
+#: FileList.pas
+msgid "Source is the same as target"
+msgstr "원본이 대상과 같은 경우"
+
+#: FileList.pas
+#. space bar key
+# INSTRUCTION: space bar key
+msgid "Space"
+msgstr "스페이스 바"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Start Now"
+msgstr "지금 시작"
+
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Stop"
+msgstr "정지"
+
+#: FileList.pas
+msgid "Stopped"
+msgstr "멈춤"
+
+#: FileList.pas
+msgid "Stop requested by user"
+msgstr "사용자에 의해 멈춤 요청됨"
+
+#: Constants.pas
+#: FileList.pas
+#. File list filter
+# INSTRUCTION: File list filter
+msgid "Successful"
+msgstr "성공함"
+
+#: FileList.pas
+msgid "target"
+msgstr "대상"
+
+#: Constants.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#. target
+# INSTRUCTION: target
+msgid "Target"
+msgstr "대상"
+
+#: Utils.pas
+msgid "TB"
+msgstr "테라바이트"
+
+#: FileList.pas
+#: FileList.pas
+#. options sub-menu
+# INSTRUCTION: options sub-menu
+msgid "Test"
+msgstr "검사"
+
+#: FileList.pas
+#. Testing N files
+# INSTRUCTION: Testing N files
+msgid "Testing %s..."
+msgstr "%s 검사 중......"
+
+#: FileList.pas
+#: FileList.pas
+msgid "The file is available again, resuming transfer..."
+msgstr "파일이 사용가능 해졌습니다, 전송을 재개합니다."
+
+#: FileList.pas
+#. select
+# INSTRUCTION: select
+msgid "This item"
+msgstr "이 항목"
+
+#: PanelUI.pas
+msgid "Time"
+msgstr "시간"
+
+#: FileList.pas
+#. options sub-menu
+# INSTRUCTION: options sub-menu
+msgid "Transfer"
+msgstr "전송"
+
+#: Main.pas
+msgid "Transfers history"
+msgstr "전송 가록"
+
+#: FileList.pas
+msgid "Unattended"
+msgstr "무인"
+
+#: Main.pas
+msgid "Unregister Copy Handler"
+msgstr "파일 복사 핸들러 해제"
+
+#: Main.pas
+msgid "Use TeraCopy as default copy handler"
+msgstr "시스템의 기본 파일 복사 기능으로 사용"
+
+#: FileList.pas
+#: FileList.pas
+#: PanelUI.pas
+#: PanelUI.pas
+#. Verify
+# INSTRUCTION: Verify
+msgid "Verify"
+msgstr "검증"
+
+#: FileList.pas
+#. Verifying N files in "source folder"
+# INSTRUCTION: Verifying N files in "source folder"
+msgid "Verifying %s in \"%s\"..."
+msgstr "\"%s\" 에 있는 %s 를 검증 중......"
+
+#: FileList.pas
+#. Wipe data
+# INSTRUCTION: Wipe data
+msgid "Very slow, one pass with random data, useless for solid state drives."
+msgstr "아주 느림, 랜덤값으로 1회 시도, SSD에는 무용지물입니다."
+
+#: FileList.pas
+#: FileList.pas
+msgid "Waiting for other transfers..."
+msgstr "다른 전송이 끝나기를 기다리는 중......"
+
+#: FileList.pas
+msgid "Wipe data"
+msgstr "데이터 말소"
+
+#: FileList.pas
+#. Wiping N files
+# INSTRUCTION: Wiping N files
+msgid "Wiping %s..."
+msgstr "%s 말소 중......"

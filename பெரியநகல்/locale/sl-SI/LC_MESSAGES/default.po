@@ -1,0 +1,1002 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TeraCopy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-10 10:22:20 UTC\n"
+"PO-Revision-Date: 2017-05-15 11:58:02 UTC\n"
+"Last-Translator: Web Translate It <support@webtranslateit.com>\n"
+"Language: sl-SI\n"
+"Language-Team: Slovenian, Slovenia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: WebTranslateIt.com\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n%100==4 ? 3 : 0);\n"
+
+#: Main.pas
+#: FileList.pas
+msgid "About"
+msgstr "O nas"
+
+#: FileList.pas
+msgid "Add files"
+msgstr "Dodaj datoteke"
+
+#: FileList.pas
+msgid "Add folders"
+msgstr "Dodaj mape"
+
+#: FileList.pas
+msgid "Adding files [%d]..."
+msgstr "Dodajanje datotek [ %d ] ..."
+
+#: Main.pas
+msgid "Adds Copy and Move buttons to the Total Commander default buttons bar."
+msgstr "Doda gumbe Kopiraj in Premakni v Total Commanderjevo privzeto vrstico z gumbi."
+
+#: Main.pas
+msgid "Add to Explorer context menu"
+msgstr "Dodaj v Raziskovalčev kontekstni meni"
+
+#: Main.pas
+msgid "After all transfers completed"
+msgstr "Po zaključenih vseh prenosih"
+
+#: Main.pas
+msgid "After transfer completed"
+msgstr "Po zaključenem prenosu"
+
+#: Constants.pas
+#. File list filter
+# INSTRUCTION: File list filter
+msgid "All files"
+msgstr "Vse datoteke"
+
+#: FileList.pas
+msgid "All items"
+msgstr "Vse postavke"
+
+#: Main.pas
+#: Main.pas
+msgid "Always On Top"
+msgstr "Vedno na vrhu"
+
+#: Main.pas
+msgid "Always test after copy"
+msgstr "Vedno testiraj po kopiranju"
+
+#: FileList.pas
+msgid "Applying attributes and removing folders..."
+msgstr "Uveljavljanje atributov in odstranjevanje map..."
+
+#: FileList.pas
+msgid "Applying folder attributes..."
+msgstr "Uveljavljanje atributov mape..."
+
+#: Main.pas
+msgid "Associate TeraCopy with .sfv and .md5 files"
+msgstr "Določi datoteke .sfv in .md5 programu TeraCopy"
+
+#: PanelUI.pas
+#: PanelUI.pas
+#. auto scroll checkbox
+# INSTRUCTION: auto scroll checkbox
+msgid "Auto-scroll"
+msgstr "Samodejno drsenje"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Bigger"
+msgstr "Večji"
+
+#: PanelUI.pas
+#: PanelUI.pas
+msgid "Browse"
+msgstr "Brskaj"
+
+#: Main.pas
+#: Main.pas
+#: FileList.pas
+msgid "Cancel"
+msgstr "Prekliči"
+
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Cancelled"
+msgstr "Preklicano"
+
+#: Main.pas
+msgid "Check free space"
+msgstr "Preveri prazen prostor"
+
+#: Main.pas
+msgid "Clean history now"
+msgstr "Izbriši zgodovino zdaj"
+
+#: Main.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Close"
+msgstr "Zapri"
+
+#: Main.pas
+#: FileList.pas
+msgid "Close all panels"
+msgstr "Zapri vse plošče"
+
+#: Main.pas
+msgid "Close app"
+msgstr "Zapri aplikacijo"
+
+#: Main.pas
+#: Main.pas
+msgid "Close panel"
+msgstr "Zapri ploščo"
+
+#: FileList.pas
+msgid "Compare skipped files?"
+msgstr "Primerjam preskočene datoteke?"
+
+#: Main.pas
+msgid "Confirm drag and drop"
+msgstr "Potrdi povleci in spusti"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Copy"
+msgstr "Kopiraj"
+
+#: FileList.pas
+#. Copying N files to "target folder"
+# INSTRUCTION: Copying N files to "target folder"
+msgid "Copying %s to \"%s\"..."
+msgstr "Kopiranje %s v \"%s\"..."
+
+#: Main.pas
+msgid "Create a new list"
+msgstr "Ustvari nov seznam"
+
+#: FileList.pas
+msgid "CSV (to import in Excel, etc)"
+msgstr "CSV (za uvoz v Excel, itd)"
+
+#: FileList.pas
+msgid "days"
+msgstr "dni"
+
+#: FileList.pas
+msgid "Delete"
+msgstr "Izbriši"
+
+#: FileList.pas
+#. second warning
+# INSTRUCTION: second warning
+msgid "Delete ALL files in the list?"
+msgstr "Izbrišem vse datoteke na seznamu?"
+
+#: FileList.pas
+msgid "Delete from disk"
+msgstr "Briši z diska"
+
+#: FileList.pas
+#. Deleting N files
+# INSTRUCTION: Deleting N files
+msgid "Deleting %s..."
+msgstr "Brisanje %s ..."
+
+#: FileList.pas
+msgid "Deselect all"
+msgstr "Prekliči izbor"
+
+#: FileList.pas
+msgid "Destination File Already Exists"
+msgstr "Ciljna datoteka že obstaja"
+
+#: Main.pas
+msgid "Disable asynchronous file transfer"
+msgstr "Onemogoči asinhroni prenos datotek"
+
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Disk is full, please free up %s"
+msgstr "Disk je poln, prosimo sprostite %s"
+
+#: FileList.pas
+#: FileView.pas
+#. idle state
+# INSTRUCTION: idle state
+msgid "Drag files or folders here"
+msgstr "Povlecite datoteke ali mape sem"
+
+#: Main.pas
+#: Main.pas
+#: Main.pas
+#: FileList.pas
+msgid "Enter key"
+msgstr "Vnesi ključ"
+
+#: Main.pas
+msgid "Enter registration key"
+msgstr "Vnesite registrski ključ"
+
+#: FileList.pas
+msgid "Error"
+msgstr "Napaka"
+
+#: FileList.pas
+msgid "Error creating folder"
+msgstr "Napaka pri ustvarjanju mape"
+
+#: FileList.pas
+msgid "Error deleting file"
+msgstr "Napaka pri brisanju datoteke"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Error reading file"
+msgstr "Napaka pri branju datoteke"
+
+#: FileList.pas
+#. errors count
+# INSTRUCTION: errors count
+msgid "Errors: %d."
+msgstr "Napake: %d ."
+
+#: FileList.pas
+#: FileList.pas
+msgid "Error writing file"
+msgstr "Napaka pri pisanju datoteke"
+
+#: Main.pas
+msgid "Expanded panel"
+msgstr "Razširjena plošča"
+
+#: FileList.pas
+msgid "Expanded view"
+msgstr "Razširjen pogled"
+
+#: FileList.pas
+msgid "Export as"
+msgstr "Izvozi kot"
+
+#: FileList.pas
+msgid "Export only"
+msgstr "Samo izvozi"
+
+#: Constants.pas
+#: FileList.pas
+#: FileList.pas
+#. File list filter
+# INSTRUCTION: File list filter
+msgid "Failed"
+msgstr "Napaka"
+
+#: FileList.pas
+#. Delete from disk
+# INSTRUCTION: Delete from disk
+msgid "Faster, hard to recover"
+msgstr "Hitreje, težja obnovitev"
+
+#: PanelUI.pas
+msgid "Favorites & recent"
+msgstr "Priljubljene in nedavne"
+
+#: FileList.pas
+#: FileList.pas
+msgid "File"
+msgstr "Datoteka"
+
+#: FileList.pas
+msgid "File info"
+msgstr "Informacije o datoteki"
+
+#: FileList.pas
+msgid "File is offline, waiting..."
+msgstr "Datoteka je brez povezave, čakam..."
+
+#: FileList.pas
+msgid "File is too large for this file system"
+msgstr "Datoteka je prevelika za ta datotečni sistem"
+
+#: Constants.pas
+msgid "File list"
+msgstr "Seznam datotek"
+
+#: FileList.pas
+#. multiple files
+# INSTRUCTION: multiple files
+msgid "File list contains %d items, select the operation"
+msgstr "Seznam datotek vsebuje %d postavk, izberite postopek"
+
+#: PanelUI.pas
+msgid "File managers"
+msgstr "Upravljavci datotek"
+
+#: Main.pas
+msgid "File Managers Integration"
+msgstr "Integracija v upravljalce datotek"
+
+#: FileList.pas
+msgid "File skipped"
+msgstr "Preskočena datoteka"
+
+#: FileList.pas
+#. Finished copying N files to "target folder".
+# INSTRUCTION: Finished copying N files to "target folder".
+msgid "Finished copying %s to \"%s\"."
+msgstr "Končano kopiranje %s v \"%s\"."
+
+#: FileList.pas
+#. Finished moving N files to "target folder".
+# INSTRUCTION: Finished moving N files to "target folder".
+msgid "Finished moving %s to \"%s\"."
+msgstr "Končan premik %s v \"%s\"."
+
+#: FileList.pas
+#. Finished removing N files.
+# INSTRUCTION: Finished removing N files.
+msgid "Finished removing %s."
+msgstr "Končano premikanje %s."
+
+#: FileList.pas
+#. Finished testing N files.
+# INSTRUCTION: Finished testing N files.
+msgid "Finished testing %s."
+msgstr "Končano testiranje %s."
+
+#: FileList.pas
+#. Finished verifying N files in "target folder".
+# INSTRUCTION: Finished verifying N files in "target folder".
+msgid "Finished verifying %s in \"%s\"."
+msgstr "Končano preverjanje %s v \"%s\"."
+
+#: FileList.pas
+#: FileList.pas
+#. folder
+# INSTRUCTION: folder
+msgid "Folder"
+msgstr "Mapa"
+
+#: Main.pas
+msgid "Free for Home Users"
+msgstr "Brezplačen za domače uporabnike"
+
+#: Utils.pas
+msgid "GB"
+msgstr "GB"
+
+#: Main.pas
+#: Main.pas
+#: FileList.pas
+#. Buy Pro version
+# INSTRUCTION: Buy Pro version
+msgid "Get Pro version"
+msgstr "Kupi različico Pro"
+
+#: Main.pas
+msgid "Handle drag and drop files using left mouse button as well as copy and paste commands in Explorer."
+msgstr "Omogoči vlečenje in spuščanje datotek z uporabo levinega miškinega gumba kot tudi kopiranje in lepljenje v Raziskovalcu."
+
+#: FileList.pas
+#: FileList.pas
+msgid "Hash"
+msgstr "Hash"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Hashes mismatch"
+msgstr "Hash neujemanje"
+
+#: Main.pas
+#: Main.pas
+msgid "Hibernate"
+msgstr "Mirovanje"
+
+#: FileList.pas
+msgid "hours"
+msgstr "ur"
+
+#: FileList.pas
+msgid "HTML (with sortable columns)"
+msgstr "HTML (s stolpci za razvrščanje)"
+
+#: FileList.pas
+msgid "Ignore"
+msgstr "Ignoriraj"
+
+#: Main.pas
+msgid "Interface"
+msgstr "Vmesnik"
+
+#: FileList.pas
+msgid "Inverse selection"
+msgstr "Inverzni izbor"
+
+#: Utils.pas
+#: Utils.pas
+msgid "KB"
+msgstr "KB"
+
+#: Main.pas
+msgid "Keep app open"
+msgstr "Obdrži aplikacijo odprto"
+
+#: Constants.pas
+msgid "Keep both"
+msgstr "Obdrži"
+
+#: Main.pas
+msgid "Keep history for 1 day"
+msgstr "Hrani zgodovino za 1 dan"
+
+#: Main.pas
+msgid "Keep history for 1 week"
+msgstr "Hrani zgodovino za 1 teden"
+
+#: Main.pas
+#: Main.pas
+msgid "Keep panel open"
+msgstr "Imejte ploščo odprto"
+
+#: Main.pas
+#: FileList.pas
+msgid "Large progress bar"
+msgstr "Velika vrstica napredovanja"
+
+#: Constants.pas
+msgid "Log"
+msgstr "Dnevnik"
+
+#: Utils.pas
+#: Utils.pas
+msgid "MB"
+msgstr "MB"
+
+#: PanelUI.pas
+#: PanelUI.pas
+#. menu
+# INSTRUCTION: menu
+msgid "Menu"
+msgstr "Meni"
+
+#: PanelUI.pas
+msgid "Message"
+msgstr "Sporočilo"
+
+#: FileList.pas
+#. minutes
+# INSTRUCTION: minutes
+msgid "min"
+msgstr "minut"
+
+#: Main.pas
+msgid "Misc"
+msgstr "Ostalo"
+
+#: Constants.pas
+#: FileList.pas
+#. replace dialog
+# INSTRUCTION: replace dialog
+msgid "More"
+msgstr "Več"
+
+#: FileList.pas
+#. more options in file replace dialog
+# INSTRUCTION: more options in file replace dialog
+msgid "More options, applicable to all files"
+msgstr "Več možnosti, ki veljajo za vse datoteke"
+
+#: FileList.pas
+msgid "More space is required: %s"
+msgstr "Potrebno je več prostora: %s"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Move"
+msgstr "Premakni"
+
+#: FileList.pas
+msgid "Move to Recycle Bin"
+msgstr "Premakni v koš"
+
+#: FileList.pas
+#. Moving N files to "target folder"
+# INSTRUCTION: Moving N files to "target folder"
+msgid "Moving %s to \"%s\"..."
+msgstr "Premikanje %s v \"%s\"..."
+
+#: Main.pas
+#. history options
+# INSTRUCTION: history options
+msgid "Never keep history"
+msgstr "Nikoli ne hrani zgodovine"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Newer"
+msgstr "Novejše"
+
+#: FileList.pas
+msgid "New file list"
+msgstr "Nov seznam datotek"
+
+#: Main.pas
+msgid "New list"
+msgstr "Nov seznam"
+
+#: FileList.pas
+msgid "No checksums are available, please copy or test files first."
+msgstr "Brez kontrolnih vsot so na voljo. Prosim, kopiraj ali testiraj datoteke najprej."
+
+#: FileView.pas
+msgid "No items. Remove filters to see all files."
+msgstr "Ni elementov. Odstranite filtre za ogled vseh datotek."
+
+#: Main.pas
+#. no history
+# INSTRUCTION: no history
+msgid "No previous transfers"
+msgstr "Ni prejšnjih prenosov"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Not calculated"
+msgstr "Ne izračunava"
+
+#: Main.pas
+msgid "Not registered for Commercial Use"
+msgstr "Ni registriran za komercialno uporabo"
+
+#: FileList.pas
+msgid "OK"
+msgstr "V redu"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Older"
+msgstr "Starejše"
+
+#: Utils.pas
+msgid "Byte"
+msgid_plural "Bytes"
+msgstr[0] "Bajt"
+msgstr[1] "Bajta"
+msgstr[2] "Bajti"
+msgstr[3] "Bajtov"
+
+#: FileList.pas
+msgid "Delete %d file from disk?"
+msgid_plural "Delete %d files from disk?"
+msgstr[0] "Izbrišem %d datoteko iz diska?"
+msgstr[1] "Izbrišem %d datoteki iz diska?"
+msgstr[2] "Izbrišem %d datoteke iz diska?"
+msgstr[3] "Izbrišem %d datoteke iz diska?"
+
+#: FileList.pas
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d postavka"
+msgstr[1] "%d postavki"
+msgstr[2] "%d postavke"
+msgstr[3] "%d postavk"
+
+#: Main.pas
+#. bottom toolbar
+# INSTRUCTION: bottom toolbar
+msgid "On finish"
+msgstr "Na zaključku"
+
+#: Main.pas
+msgid "Only when Scroll Lock is OFF"
+msgstr "Samo ko je Scroll Lock IZKLJUČEN"
+
+#: FileList.pas
+msgid "Open file"
+msgstr "Odpri datoteko"
+
+#: FileList.pas
+msgid "Open folder"
+msgstr "Odpri mapo"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Opening via service:"
+msgstr "Odpiranje preko storitve"
+
+#: Main.pas
+msgid "Open main menu"
+msgstr "Odpri glavni meni"
+
+#: Main.pas
+msgid "Open transfers history"
+msgstr "Odpri zgodovino prenosov"
+
+#: Constants.pas
+#: Main.pas
+msgid "Options"
+msgstr "Možnosti"
+
+#: Main.pas
+msgid "Order License"
+msgstr "Naroči licenco"
+
+#: Constants.pas
+msgid "Overwrite"
+msgstr "Prepiši"
+
+#: Constants.pas
+msgid "Overwrite all"
+msgstr "Prepiši vse"
+
+#: Constants.pas
+#. replace dialog
+# INSTRUCTION: replace dialog
+msgid "Overwrite all older files"
+msgstr "Prepiši vse starejše datoteke"
+
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Pause"
+msgstr "Premor"
+
+#: FileList.pas
+msgid "Paused"
+msgstr "Premor"
+
+#: Main.pas
+msgid "Play sound when complete"
+msgstr "Predvajaj zvok po zaključku"
+
+#: Main.pas
+#: Main.pas
+#: FileList.pas
+msgid "Preferences"
+msgstr "Nastavitve"
+
+#: FileList.pas
+#: FileList.pas
+#. export dialog
+# INSTRUCTION: export dialog
+msgid "Print/export"
+msgstr "Tiskanje / izvoz"
+
+#: Constants.pas
+msgid "Prompt on filename collision"
+msgstr "Opozorilo na nasprotje v imenu datoteke"
+
+#: Main.pas
+msgid "Read how to add Copy and Move buttons to the Directory Opus."
+msgstr "Preberi, kako dodati gumba Kopiraj in Premakni v Directory Opus."
+
+#: FileList.pas
+#. Recycling N files
+# INSTRUCTION: Recycling N files
+msgid "Recycling %s..."
+msgstr "Recikliranje %s ..."
+
+#: Main.pas
+msgid "Register Copy Handler"
+msgstr "Registriraj sistemsko kopiranje"
+
+#: FileList.pas
+#. remove selected items from list
+# INSTRUCTION: remove selected items from list
+msgid "Remove selected"
+msgstr "Odstrani izbrano"
+
+#: FileList.pas
+msgid "Remove transferred"
+msgstr "Odstrani preneseno"
+
+#: Constants.pas
+msgid "Rename all copied files"
+msgstr "Preimenuj vse kopirane datoteke"
+
+#: Constants.pas
+msgid "Rename all older target files"
+msgstr "Preimenuj vse starejše ciljne datoteke"
+
+#: Constants.pas
+msgid "Rename all target files"
+msgstr "Preimenuj vse ciljne datoteke"
+
+#: Constants.pas
+msgid "Replace all files if size different"
+msgstr "Zamenjaj vse datoteke če je velikost različna"
+
+#: Constants.pas
+msgid "Replace all smaller files"
+msgstr "Zamenjaj vse manjše datoteke"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Resume"
+msgstr "Nadaljuj"
+
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#. seconds
+# INSTRUCTION: seconds
+msgid "s"
+msgstr "sekund"
+
+#: FileList.pas
+msgid "Same date"
+msgstr "Isti datum"
+
+#: FileList.pas
+#. select
+# INSTRUCTION: select
+msgid "Same extension"
+msgstr "Ista končnica"
+
+#: FileList.pas
+#. select
+# INSTRUCTION: select
+msgid "Same folder"
+msgstr "Ista mapa"
+
+#: FileList.pas
+msgid "Same size"
+msgstr "Enaka velikost"
+
+#: PanelUI.pas
+msgid "Save checksum file on finish"
+msgstr "Shranite datoteko kontrolnih vsot ob zaključku"
+
+#: FileList.pas
+msgid "Save checksums"
+msgstr "Shrani kontrolno vsoto"
+
+#: FileList.pas
+#: FileList.pas
+#. save checksums file (e.g. *.md5)
+# INSTRUCTION: save checksums file (e.g. *.md5)
+msgid "Save Hash"
+msgstr "Shrani hash"
+
+#: FileList.pas
+msgid "Select"
+msgstr "Izberi"
+
+#: FileList.pas
+msgid "Select target to continue operation"
+msgstr "Izberi cilj za nadaljevanje postopka"
+
+#: FileList.pas
+#. single file name
+# INSTRUCTION: single file name
+msgid "Select the operation for \"%s\""
+msgstr "Izberite postopek za \"%s\""
+
+#: FileList.pas
+#: FileList.pas
+msgid "%s hash file is saved to:"
+msgstr "%s hash datoteka je shranjena v:"
+
+#: FileList.pas
+#. compare with hash in clipboard
+# INSTRUCTION: compare with hash in clipboard
+msgid "%s hash in Clipboard matches"
+msgstr "%s hash v odložišču ustreza"
+
+#: Main.pas
+msgid "Shell Integration"
+msgstr "Integracija v sistem"
+
+#: Main.pas
+#: Main.pas
+msgid "Shutdown"
+msgstr "Izklop"
+
+#: FileList.pas
+msgid "Sizes mismatch"
+msgstr "Neujemanje velikosti"
+
+#: Constants.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Skip"
+msgstr "Preskoči"
+
+#: Constants.pas
+msgid "Skip all"
+msgstr "Preskoči vse"
+
+#: FileList.pas
+#. replace dialog, auto-select Skip all button in N seconds
+# INSTRUCTION: replace dialog, auto-select Skip all button in N seconds
+msgid "skip all in %d s"
+msgstr "preskoči vse v %d s"
+
+#: Constants.pas
+#: FileList.pas
+#: FileList.pas
+#. File list filter
+# INSTRUCTION: File list filter
+msgid "Skipped"
+msgstr "Preskočeno"
+
+#: FileList.pas
+#. skipped files count
+# INSTRUCTION: skipped files count
+msgid "Skipped: %d."
+msgstr "Preskočeno: %d ."
+
+#: FileList.pas
+msgid "Skip requested by user"
+msgstr "Preskočena zahteva od uporabnika"
+
+#: Main.pas
+#: Main.pas
+msgid "Sleep"
+msgstr "Spanje"
+
+#: FileList.pas
+#. Move to Recycle Bin
+# INSTRUCTION: Move to Recycle Bin
+msgid "Slower, easy to recover"
+msgstr "Počasneje, enostavna obnovitev"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Smaller"
+msgstr "Manjši"
+
+#: FileList.pas
+#: FileList.pas
+#. source
+# INSTRUCTION: source
+msgid "Source"
+msgstr "Vir"
+
+#: FileList.pas
+msgid "Source is the same as target"
+msgstr "Vir je enak kot cilj"
+
+#: FileList.pas
+#. space bar key
+# INSTRUCTION: space bar key
+msgid "Space"
+msgstr "Presledek"
+
+#: FileList.pas
+#: FileList.pas
+msgid "Start Now"
+msgstr "Začni zdaj"
+
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+msgid "Stop"
+msgstr "Ustavi"
+
+#: FileList.pas
+msgid "Stopped"
+msgstr "Ustavljeno"
+
+#: FileList.pas
+msgid "Stop requested by user"
+msgstr "Zaustavljena zahteva od uporabnika"
+
+#: Constants.pas
+#: FileList.pas
+#. File list filter
+# INSTRUCTION: File list filter
+msgid "Successful"
+msgstr "Uspelo"
+
+#: FileList.pas
+msgid "target"
+msgstr "cilj"
+
+#: Constants.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#: FileList.pas
+#. target
+# INSTRUCTION: target
+msgid "Target"
+msgstr "Cilj"
+
+#: Utils.pas
+msgid "TB"
+msgstr "TB"
+
+#: FileList.pas
+#: FileList.pas
+#. options sub-menu
+# INSTRUCTION: options sub-menu
+msgid "Test"
+msgstr "Testiraj"
+
+#: FileList.pas
+#. Testing N files
+# INSTRUCTION: Testing N files
+msgid "Testing %s..."
+msgstr "Testiranje %s ..."
+
+#: FileList.pas
+#: FileList.pas
+msgid "The file is available again, resuming transfer..."
+msgstr "Datoteka je spet na voljo, nadaljevanje prenosa ..."
+
+#: FileList.pas
+#. select
+# INSTRUCTION: select
+msgid "This item"
+msgstr "Ta postavka"
+
+#: PanelUI.pas
+msgid "Time"
+msgstr "Čas"
+
+#: FileList.pas
+#. options sub-menu
+# INSTRUCTION: options sub-menu
+msgid "Transfer"
+msgstr "Prenos"
+
+#: Main.pas
+msgid "Transfers history"
+msgstr "Zgodovina prenosov"
+
+#: FileList.pas
+msgid "Unattended"
+msgstr "Nenadzorovano"
+
+#: Main.pas
+msgid "Unregister Copy Handler"
+msgstr "Odregistriraj sistemsko kopiranje"
+
+#: Main.pas
+msgid "Use TeraCopy as default copy handler"
+msgstr "Uporabi TeraCopy kot privzet program za kopiranje"
+
+#: FileList.pas
+#: FileList.pas
+#: PanelUI.pas
+#: PanelUI.pas
+#. Verify
+# INSTRUCTION: Verify
+msgid "Verify"
+msgstr "Preveri"
+
+#: FileList.pas
+#. Verifying N files in "source folder"
+# INSTRUCTION: Verifying N files in "source folder"
+msgid "Verifying %s in \"%s\"..."
+msgstr "Preverjanje %s v \"%s\"..."
+
+#: FileList.pas
+#. Wipe data
+# INSTRUCTION: Wipe data
+msgid "Very slow, one pass with random data, useless for solid state drives."
+msgstr "Zelo počasi, v enem prehodu z naključnimi podatki, neuporabno za SSD diske."
+
+#: FileList.pas
+#: FileList.pas
+msgid "Waiting for other transfers..."
+msgstr "Čakanje na druge prenose..."
+
+#: FileList.pas
+msgid "Wipe data"
+msgstr "Brisanje podatkov"
+
+#: FileList.pas
+#. Wiping N files
+# INSTRUCTION: Wiping N files
+msgid "Wiping %s..."
+msgstr "Brisanje %s ..."
+

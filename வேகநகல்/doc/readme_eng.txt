@@ -1,5 +1,5 @@
 ﻿======================================================================
-                   FastCopy  ver4.2.1                   2022/10/20
+                   FastCopy  ver4.2.2                   2023/02/01
                                                  SHIROUZU Hiroaki
                                                  FastCopy Lab, LLC.
 ======================================================================
@@ -17,8 +17,8 @@
 License:
 	-------------------------------------------------------------------------
 	 FastCopy ver4.x
-	 Copyright(C) 2004-2022 SHIROUZU Hiroaki All rights reserved.
-	 Copyright(C) 2018-2022 FastCopy Lab, LLC. All rights reserved.
+	 Copyright(C) 2004-2023 SHIROUZU Hiroaki All rights reserved.
+	 Copyright(C) 2018-2023 FastCopy Lab, LLC. All rights reserved.
 
 	  Due to various circumstances, distribution of the source code is
 	   temporarily suspended.

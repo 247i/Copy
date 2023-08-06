@@ -1,5 +1,5 @@
 TeraCopy
-(c) 2007-2017 Code Sector
+(c) 2007-2023 Code Sector
 All Rights Reserved
 
 CONTENTS

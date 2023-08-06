@@ -10,7 +10,7 @@ In no event shall the author of this software be held liable for data loss, dama
 
 TeraCopy is provided as FREEWARE for private (non-commercial) or educational (including non-profit organization) use. In these cases, you are granted the right to use and to make an unlimited number of copies of this software.
 
-For commercial use, it is required to register this software. Registering is an important source of support in the development of future versions.
+Should TeraCopy be used for commercial purposes, the user is required to purchase a license code. It is an important source of support in the development of future versions.
 
 3. Restrictions on Use 
 
@@ -19,6 +19,4 @@ This software must not be decompiled, disassembled, reverse engineered or otherw
 4. Registered Version
 
 A registered copy of TeraCopy may be used by the licensee exclusively on one or more computers, or used on a network non-simultaneously by multiple people, but not both.
-
-Copyright (C) 2007-2017 Code Sector Inc. All rights reserved.
 
